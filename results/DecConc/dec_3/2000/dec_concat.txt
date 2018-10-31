@@ -1,0 +1,5 @@
+666\\func multiplier
+ANY_PROBLEM\\function type
+3\\bit length
+2 1 0 3
+\\PROBLEM DEFINITION END

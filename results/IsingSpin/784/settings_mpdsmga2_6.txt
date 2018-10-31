@@ -1,0 +1,17 @@
+_dsmga2_custom\\destination_file
+optimization\\mode
+binary_binary\\problem_type
+binary_ising_spin_glass\\evaluation_type
+784\\evaluation_number_of_elements
+6\\evaluation_problem_seed
+population_sizing\\optimizer_type
+running_time\\stop_condition_type
+52200\\stop_condition_time
+dsmga2\\optimizer_type
+none\\stop_condition_type
+2\\population_size
+0\\two_edge
+0\\comparative_mixing
+4\\population_creation_frequency
+2\\population_size_multiplier
+

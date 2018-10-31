@@ -1,0 +1,14 @@
+_p3\\destination_file
+optimization\\mode
+binary_binary\\problem_type
+binary_nearest_neighbor_nk\\evaluation_type
+200\\evaluation_number_of_elements
+0\\evaluation_problem_seed
+65536\\evaluation_precision
+5\\evaluation_k
+p3\\optimizer_type
+running_time\\stop_condition_type
+52200\\stop_condition_time
+default.cfg\\optimizer_config_file_path
+0\\with_feedback
+

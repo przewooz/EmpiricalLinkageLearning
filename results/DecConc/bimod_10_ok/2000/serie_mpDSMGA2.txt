@@ -1,0 +1,4 @@
+C:\z_mine\research\3LOa\program\IslandGA_mpdsmga2.exe\\PROGRAM
+C:\z_mine\research\3LOa\_final\DecConc\bimod_10_ok\2000\\DIR
+z_summary_mpDSMGA2.txt\\SUMMFILE
+settings_mpdsmga2.txt\\30
