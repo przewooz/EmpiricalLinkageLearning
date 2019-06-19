@@ -1,0 +1,13 @@
+1\\func multiplier
+HIFF_PROBLEM\\function type
+2\\HIFF tree depth
+1\\HIFF multiplier
+ANY_PROBLEM\\function type
+7\\bit length
+3 3 2 2 1 1 0 4
+1\\HIFF multiplier
+ANY_PROBLEM\\function type
+7\\bit length
+3 3 2 2 1 1 0 4
+\\HIFF tree END
+\\PROBLEM DEFINITION END

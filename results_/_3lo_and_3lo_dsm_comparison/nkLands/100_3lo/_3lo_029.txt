@@ -1,0 +1,1755 @@
+Initializing...
+DONE...
+Initializing...
+DONE...
+Initializing...
+DONE...
+Executing SUPERpop
+
+V_PROCES FINISHED FFE COST: 0.00   fintess:(0.7918->0.7918)
+best fitness increase: 0.0000 -> 0.7918
+blocked improvements: 0  Iteration: 0 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 0.7918 (zero: 0.7918) last: 0.7918 [u:0.0000] PopSize:1  Patterns[coverage: (0:0.0000) ] FFE:511 FFE_OPTs: 0 time passed:0.0056     original parts: 0 parts: 0   interceptParts:0 hh:0 
+Executing population 0:
+
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.30 sec  39402 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 96
+...linkage COST: 0.32s 39402 
+(0:0.9700) 
+V_PROCES FINISHED FFE COST: 0.00   fintess:(0.8170->0.8170)
+best fitness increase: 0.0000 -> 0.8170
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.17 sec  23402 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.20s 23402 
+COUNT GENE FREQ COST (0.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 0 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 0.8170 (zero: 0.8170) last: 0.8170 [u:0.0000] PopSize:1  Patterns[coverage: (0:1.0000) ] FFE:63928 FFE_OPTs: 0 time passed:0.5342     original parts: 0 parts: 120   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.7918 last:0.7918 ZERO: 0.7918/0.0000 size:1  scraps: 0  crossings: 0  trees: 0  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.8170 last:0.8170 ZERO: 0.8170/0.0000  size:1  scraps: 120  crossings: 99  trees: 1  LatsM: 1  linkageGens: 2
+SUMARY best: 0.8170 linkGens: 2   pops: 1 (inds:2) [time:0.54]
+SUMARY LINKAGE: time 0.52/0.54 (0.9679)    FFE: 62804.00/63928.00 (0.9824)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:4 FFEchange: 53.00 Time change: 0.00 FFE/sec: 121218.7136 Scraps (used/left): 26/65 Fitness: 0.8923
+V_PROCES FINISHED FFE COST: 237.00   fintess:(0.8918->0.8923)
+best fitness increase: 0.7918 -> 0.8923
+blocked improvements: 0  Iteration: 1 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 1/0/0) BestFit: 0.8923 (zero: 0.8923) last: 0.8923 [u:0.0000] PopSize:2  Patterns[coverage: (0:0.0000) ] FFE:64676 FFE_OPTs: 0 time passed:0.5474     original parts: 0 parts: 0   interceptParts:99 hh:0 
+Executing population 0:
+
+Size:6 FFEchange: 87.00 Time change: 0.00 FFE/sec: 125765.8576 Scraps (used/left): 43/48 Fitness: 0.8366
+V_PROCES FINISHED FFE COST: 87.00   fintess:(0.8320->0.8366)
+best fitness increase: 0.8170 -> 0.8641
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.17 sec  23702 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.19s 23702 
+COUNT GENE FREQ COST (0.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 1 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 1/0/0) BestFit: 0.8641 (zero: 0.8641) last: 0.8641 [u:0.0000] PopSize:2  Patterns[coverage: (0:1.0000) ] FFE:89278 FFE_OPTs: 0 time passed:0.7461     original parts: 0 parts: 163   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.8923 last:0.8923 ZERO: 0.8923/0.7918 size:2  scraps: 0  crossings: 99  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.8641 last:0.8641 ZERO: 0.8641/0.8170  size:2  scraps: 163  crossings: 99  trees: 1  LatsM: 1  linkageGens: 3
+SUMARY best: 0.8923 linkGens: 3   pops: 1 (inds:4) [time:0.75]
+SUMARY LINKAGE: time 0.71/0.75 (0.9515)    FFE: 86506.00/89278.00 (0.9690)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 120749.5556 Scraps (used/left): 14/74 Fitness: 0.8295
+V_PROCES FINISHED FFE COST: 583.00   fintess:(0.8211->0.8295)
+blocked improvements: 0  Iteration: 2 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 1/0/0) BestFit: 0.8923 (zero: 0.8923) last: 0.8419 [u:0.0000] PopSize:3  Patterns[coverage: (0:0.0000) ] FFE:90573 FFE_OPTs: 0 time passed:0.7639     original parts: 0 parts: 0   interceptParts:99 hh:0 
+Executing population 0:
+
+Size:6 FFEchange: 79.00 Time change: 0.00 FFE/sec: 123669.0167 Scraps (used/left): 39/47 Fitness: 0.8645
+V_PROCES FINISHED FFE COST: 259.00   fintess:(0.8516->0.8645)
+best fitness increase: 0.8641 -> 0.8648
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.18 sec  23602 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.20s 23602 
+COUNT GENE FREQ COST (0.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 2 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 1/0/0) BestFit: 0.8648 (zero: 0.8648) last: 0.8648 [u:0.0000] PopSize:3  Patterns[coverage: (0:1.0000) ] FFE:115147 FFE_OPTs: 0 time passed:0.9730     original parts: 0 parts: 215   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.8923 last:0.8419 ZERO: 0.8923/0.8923 size:3  scraps: 0  crossings: 99  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.8648 last:0.8648 ZERO: 0.8648/0.8641  size:3  scraps: 215  crossings: 99  trees: 1  LatsM: 1  linkageGens: 4
+SUMARY best: 0.8923 linkGens: 4   pops: 1 (inds:6) [time:0.98]
+SUMARY LINKAGE: time 0.91/0.98 (0.9322)    FFE: 110108.00/115147.00 (0.9562)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:14 FFEchange: 97.00 Time change: 0.00 FFE/sec: 125012.4709 Scraps (used/left): 48/33 Fitness: 0.8460
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 118920.0168 Scraps (used/left): 14/80 Fitness: 0.8507
+Size:5 FFEchange: 65.00 Time change: 0.00 FFE/sec: 125956.7621 Scraps (used/left): 32/55 Fitness: 0.8565
+Size:8 FFEchange: 79.00 Time change: 0.00 FFE/sec: 128801.1981 Scraps (used/left): 39/41 Fitness: 0.8622
+V_PROCES FINISHED FFE COST: 630.00   fintess:(0.8357->0.8622)
+best fitness increase: 0.8923 -> 0.9088
+blocked improvements: 0  Iteration: 3 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 4/0/0) BestFit: 0.9088 (zero: 0.9088) last: 0.9088 [u:0.0000] PopSize:4  Patterns[coverage: (0:0.0000) ] FFE:116589 FFE_OPTs: 0 time passed:0.9940     original parts: 0 parts: 0   interceptParts:99 hh:0 
+Executing population 0:
+
+V_PROCES FINISHED FFE COST: 510.00   fintess:(0.8662->0.8662)
+best fitness increase: 0.8648 -> 0.8662
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.18 sec  23202 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.20s 23202 
+COUNT GENE FREQ COST (0.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 3 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 0.8662 (zero: 0.8662) last: 0.8662 [u:0.0000] PopSize:4  Patterns[coverage: (0:1.0000) ] FFE:140913 FFE_OPTs: 0 time passed:1.2021     original parts: 0 parts: 268   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.9088 last:0.9088 ZERO: 0.9088/0.8923 size:4  scraps: 0  crossings: 99  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.8662 last:0.8662 ZERO: 0.8662/0.8648  size:4  scraps: 268  crossings: 99  trees: 1  LatsM: 1  linkageGens: 5
+SUMARY best: 0.9088 linkGens: 5   pops: 1 (inds:8) [time:1.20]
+SUMARY LINKAGE: time 1.11/1.20 (0.9192)    FFE: 133310.00/140913.00 (0.9460)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:3 FFEchange: 51.00 Time change: 0.00 FFE/sec: 122996.3465 Scraps (used/left): 25/64 Fitness: 0.8441
+Size:7 FFEchange: 77.00 Time change: 0.00 FFE/sec: 121396.3560 Scraps (used/left): 38/45 Fitness: 0.8594
+Size:11 FFEchange: 109.00 Time change: 0.00 FFE/sec: 125890.6069 Scraps (used/left): 54/31 Fitness: 0.8721
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 119101.1199 Scraps (used/left): 15/63 Fitness: 0.8853
+Size:2 FFEchange: 33.00 Time change: 0.00 FFE/sec: 121422.5529 Scraps (used/left): 16/71 Fitness: 0.8974
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 120338.1431 Scraps (used/left): 14/73 Fitness: 0.9011
+V_PROCES FINISHED FFE COST: 694.00   fintess:(0.8400->0.9011)
+best fitness increase: 0.9088 -> 0.9181
+blocked improvements: 0  Iteration: 4 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 6/0/0) BestFit: 0.9181 (zero: 0.9181) last: 0.9181 [u:0.0000] PopSize:5  Patterns[coverage: (0:0.0000) ] FFE:142319 FFE_OPTs: 0 time passed:1.2244     original parts: 0 parts: 0   interceptParts:99 hh:0 
+Executing population 0:
+
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 103967.5000 Scraps (used/left): 3/87 Fitness: 0.8431
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 104663.7109 Scraps (used/left): 5/80 Fitness: 0.8437
+Size:11 FFEchange: 113.00 Time change: 0.00 FFE/sec: 122932.7959 Scraps (used/left): 56/31 Fitness: 0.8519
+Size:2 FFEchange: 39.00 Time change: 0.00 FFE/sec: 117861.7742 Scraps (used/left): 19/70 Fitness: 0.8737
+V_PROCES FINISHED FFE COST: 170.00   fintess:(0.8339->0.8737)
+best fitness increase: 0.8662 -> 0.8738
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.18 sec  22902 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.20s 22902 
+COUNT GENE FREQ COST (0.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 4 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 4/0/0) BestFit: 0.8738 (zero: 0.8738) last: 0.8738 [u:0.0000] PopSize:5  Patterns[coverage: (0:1.0000) ] FFE:166004 FFE_OPTs: 0 time passed:1.4336     original parts: 0 parts: 322   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.9181 last:0.9181 ZERO: 0.9181/0.9088 size:5  scraps: 0  crossings: 99  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.8738 last:0.8738 ZERO: 0.8738/0.8662  size:5  scraps: 322  crossings: 99  trees: 1  LatsM: 1  linkageGens: 6
+SUMARY best: 0.9181 linkGens: 6   pops: 1 (inds:10) [time:1.44]
+SUMARY LINKAGE: time 1.30/1.44 (0.9041)    FFE: 156212.00/166004.00 (0.9410)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:13 FFEchange: 121.00 Time change: 0.00 FFE/sec: 126603.5266 Scraps (used/left): 60/28 Fitness: 0.8671
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 116644.4225 Scraps (used/left): 8/75 Fitness: 0.8765
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 108443.5959 Scraps (used/left): 6/86 Fitness: 0.8899
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 111529.7619 Scraps (used/left): 12/61 Fitness: 0.8935
+Size:15 FFEchange: 133.00 Time change: 0.00 FFE/sec: 124076.1126 Scraps (used/left): 66/26 Fitness: 0.8976
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 111107.1228 Scraps (used/left): 6/67 Fitness: 0.9079
+V_PROCES FINISHED FFE COST: 1030.00   fintess:(0.8652->0.9079)
+best fitness increase: 0.9181 -> 0.9355
+blocked improvements: 0  Iteration: 5 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 6/0/0) BestFit: 0.9355 (zero: 0.9355) last: 0.9355 [u:0.0000] PopSize:6  Patterns[coverage: (0:0.0000) ] FFE:167946 FFE_OPTs: 0 time passed:1.4645     original parts: 0 parts: 0   interceptParts:99 hh:0 
+Executing population 0:
+
+Size:6 FFEchange: 71.00 Time change: 0.00 FFE/sec: 125776.3709 Scraps (used/left): 35/51 Fitness: 0.8602
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 83038.9773 Scraps (used/left): 1/86 Fitness: 0.8757
+Size:2 FFEchange: 41.00 Time change: 0.00 FFE/sec: 125305.1568 Scraps (used/left): 20/72 Fitness: 0.8810
+Size:11 FFEchange: 121.00 Time change: 0.00 FFE/sec: 120940.9151 Scraps (used/left): 60/34 Fitness: 0.8878
+V_PROCES FINISHED FFE COST: 410.00   fintess:(0.8510->0.8878)
+best fitness increase: 0.8738 -> 0.9216
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.17 sec  23102 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.19s 23102 
+COUNT GENE FREQ COST (0.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 5 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 4/0/0) BestFit: 0.9216 (zero: 0.9216) last: 0.9216 [u:0.0000] PopSize:6  Patterns[coverage: (0:1.0000) ] FFE:192271 FFE_OPTs: 0 time passed:1.6723     original parts: 0 parts: 374   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.9355 last:0.9355 ZERO: 0.9355/0.9181 size:6  scraps: 0  crossings: 99  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9216 last:0.9216 ZERO: 0.9216/0.8738  size:6  scraps: 374  crossings: 99  trees: 1  LatsM: 1  linkageGens: 7
+SUMARY best: 0.9355 linkGens: 7   pops: 1 (inds:12) [time:1.67]
+SUMARY LINKAGE: time 1.49/1.67 (0.8900)    FFE: 179314.00/192271.00 (0.9326)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:7 FFEchange: 93.00 Time change: 0.00 FFE/sec: 124330.5873 Scraps (used/left): 46/40 Fitness: 0.8172
+Size:3 FFEchange: 47.00 Time change: 0.00 FFE/sec: 122310.9722 Scraps (used/left): 23/71 Fitness: 0.8178
+Size:8 FFEchange: 105.00 Time change: 0.00 FFE/sec: 124034.9418 Scraps (used/left): 52/34 Fitness: 0.8253
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 116644.4225 Scraps (used/left): 8/81 Fitness: 0.8340
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 109066.1194 Scraps (used/left): 4/86 Fitness: 0.8510
+Size:5 FFEchange: 69.00 Time change: 0.00 FFE/sec: 123038.7189 Scraps (used/left): 34/51 Fitness: 0.8610
+Size:11 FFEchange: 137.00 Time change: 0.00 FFE/sec: 123732.2840 Scraps (used/left): 68/27 Fitness: 0.8697
+Size:99 FFEchange: 173.00 Time change: 0.00 FFE/sec: 128317.6401 Scraps (used/left): 86/1 Fitness: 0.8864
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 83993.4483 Scraps (used/left): 1/70 Fitness: 0.8947
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 116973.9266 Scraps (used/left): 8/63 Fitness: 0.9106
+V_PROCES FINISHED FFE COST: 1026.00   fintess:(0.8168->0.9106)
+blocked improvements: 0  Iteration: 6 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 10/0/0) BestFit: 0.9355 (zero: 0.9355) last: 0.9243 [u:0.0000] PopSize:7  Patterns[coverage: (0:0.0000) ] FFE:194009 FFE_OPTs: 0 time passed:1.6897     original parts: 0 parts: 0   interceptParts:99 hh:0 
+Executing population 0:
+
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 118946.1359 Scraps (used/left): 11/87 Fitness: 0.9582
+Size:6 FFEchange: 79.00 Time change: 0.00 FFE/sec: 123351.9167 Scraps (used/left): 39/51 Fitness: 0.9690
+V_PROCES FINISHED FFE COST: 832.00   fintess:(0.9433->0.9690)
+best fitness increase: 0.9216 -> 0.9690
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.17 sec  22702 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.18s 22702 
+COUNT GENE FREQ COST (0.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 6 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 2/0/0) BestFit: 0.9690 (zero: 0.9690) last: 0.9690 [u:0.0000] PopSize:7  Patterns[coverage: (0:1.0000) ] FFE:218055 FFE_OPTs: 0 time passed:1.8849     original parts: 0 parts: 412   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.9355 last:0.9243 ZERO: 0.9355/0.9355 size:7  scraps: 0  crossings: 99  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9690 last:0.9690 ZERO: 0.9690/0.9216  size:7  scraps: 412  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+SUMARY best: 0.9690 linkGens: 8   pops: 1 (inds:14) [time:1.89]
+SUMARY LINKAGE: time 1.67/1.89 (0.8868)    FFE: 202016.00/218055.00 (0.9264)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 116254.5682 Scraps (used/left): 10/75 Fitness: 0.8719
+Size:14 FFEchange: 137.00 Time change: 0.00 FFE/sec: 125171.0315 Scraps (used/left): 68/23 Fitness: 0.8912
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 112422.0000 Scraps (used/left): 7/81 Fitness: 0.9064
+Size:20 FFEchange: 145.00 Time change: 0.00 FFE/sec: 125289.9787 Scraps (used/left): 72/14 Fitness: 0.9105
+Size:35 FFEchange: 123.00 Time change: 0.00 FFE/sec: 126736.3071 Scraps (used/left): 61/12 Fitness: 0.9298
+Size:3 FFEchange: 47.00 Time change: 0.00 FFE/sec: 124845.2236 Scraps (used/left): 23/66 Fitness: 0.9392
+Size:10 FFEchange: 117.00 Time change: 0.00 FFE/sec: 119492.5660 Scraps (used/left): 58/31 Fitness: 0.9497
+V_PROCES FINISHED FFE COST: 1807.00   fintess:(0.8658->0.9497)
+best fitness increase: 0.9355 -> 0.9497
+blocked improvements: 0  Iteration: 7 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 7/0/0) BestFit: 0.9497 (zero: 0.9497) last: 0.9497 [u:0.0000] PopSize:8  Patterns[coverage: (0:0.0000) ] FFE:220373 FFE_OPTs: 0 time passed:1.9088     original parts: 0 parts: 0   interceptParts:99 hh:0 
+Executing population 0:
+
+Size:3 FFEchange: 49.00 Time change: 0.00 FFE/sec: 124587.3591 Scraps (used/left): 24/67 Fitness: 0.8130
+Size:3 FFEchange: 55.00 Time change: 0.00 FFE/sec: 125322.3106 Scraps (used/left): 27/63 Fitness: 0.8320
+Size:6 FFEchange: 95.00 Time change: 0.00 FFE/sec: 132229.6857 Scraps (used/left): 47/45 Fitness: 0.8492
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 136405.3600 Scraps (used/left): 3/84 Fitness: 0.8537
+Size:3 FFEchange: 51.00 Time change: 0.00 FFE/sec: 128731.9275 Scraps (used/left): 25/71 Fitness: 0.8538
+Size:8 FFEchange: 99.00 Time change: 0.00 FFE/sec: 127792.8935 Scraps (used/left): 49/37 Fitness: 0.8946
+V_PROCES FINISHED FFE COST: 540.00   fintess:(0.8117->0.8946)
+blocked improvements: 0  Iteration: 7 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 6/0/0) BestFit: 0.9690 (zero: 0.9690) last: 0.8961 [u:0.0000] PopSize:8  Patterns[coverage: (0:1.0000) ] FFE:221625 FFE_OPTs: 0 time passed:1.9197     original parts: 0 parts: 412   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.9497 last:0.9497 ZERO: 0.9497/0.9355 size:8  scraps: 0  crossings: 99  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9690 last:0.8961 ZERO: 0.9690/0.9690  size:8  scraps: 412  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+SUMARY best: 0.9690 linkGens: 8   pops: 1 (inds:16) [time:1.92]
+SUMARY LINKAGE: time 1.67/1.92 (0.8700)    FFE: 202016.00/221625.00 (0.9115)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+
+Size:20 FFEchange: 141.00 Time change: 0.00 FFE/sec: 126175.3159 Scraps (used/left): 70/14 Fitness: 0.8793
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 118133.9723 Scraps (used/left): 10/71 Fitness: 0.8800
+Size:3 FFEchange: 23.00 Time change: 0.00 FFE/sec: 132443.5697 Scraps (used/left): 11/61 Fitness: 0.8915
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 165592.3465 Scraps (used/left): 15/73 Fitness: 0.8944
+Size:85 FFEchange: 153.00 Time change: 0.00 FFE/sec: 128377.1719 Scraps (used/left): 76/2 Fitness: 0.9147
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 101492.0833 Scraps (used/left): 6/87 Fitness: 0.9167
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 85767.9577 Scraps (used/left): 2/83 Fitness: 0.9261
+Size:10 FFEchange: 121.00 Time change: 0.00 FFE/sec: 126876.0267 Scraps (used/left): 60/31 Fitness: 0.9405
+Size:19 FFEchange: 61.00 Time change: 0.00 FFE/sec: 125071.0522 Scraps (used/left): 30/15 Fitness: 0.9507
+V_PROCES FINISHED FFE COST: 1751.00   fintess:(0.8716->0.9507)
+best fitness increase: 0.9497 -> 0.9507
+blocked improvements: 0  Iteration: 8 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 9/0/0) BestFit: 0.9507 (zero: 0.9507) last: 0.9507 [u:0.0000] PopSize:9  Patterns[coverage: (0:0.0000) ] FFE:223987 FFE_OPTs: 0 time passed:1.9482     original parts: 0 parts: 0   interceptParts:99 hh:0 
+Executing population 0:
+
+Size:3 FFEchange: 43.00 Time change: 0.00 FFE/sec: 127731.5000 Scraps (used/left): 21/70 Fitness: 0.8781
+Size:3 FFEchange: 59.00 Time change: 0.00 FFE/sec: 131846.5963 Scraps (used/left): 29/65 Fitness: 0.8810
+Size:2 FFEchange: 27.00 Time change: 0.00 FFE/sec: 113980.7106 Scraps (used/left): 13/76 Fitness: 0.8836
+Size:5 FFEchange: 75.00 Time change: 0.00 FFE/sec: 127662.9979 Scraps (used/left): 37/54 Fitness: 0.8851
+Size:12 FFEchange: 91.00 Time change: 0.00 FFE/sec: 128721.6667 Scraps (used/left): 45/23 Fitness: 0.9090
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 112723.6016 Scraps (used/left): 11/79 Fitness: 0.9096
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 146148.6000 Scraps (used/left): 7/86 Fitness: 0.9179
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 121594.3800 Scraps (used/left): 15/74 Fitness: 0.9236
+V_PROCES FINISHED FFE COST: 364.00   fintess:(0.8779->0.9236)
+blocked improvements: 0  Iteration: 8 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 8/0/0) BestFit: 0.9690 (zero: 0.9690) last: 0.9443 [u:0.0000] PopSize:9  Patterns[coverage: (0:1.0000) ] FFE:225263 FFE_OPTs: 0 time passed:1.9613     original parts: 0 parts: 412   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.9507 last:0.9507 ZERO: 0.9507/0.9497 size:9  scraps: 0  crossings: 99  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9690 last:0.9443 ZERO: 0.9690/0.9690  size:9  scraps: 412  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+SUMARY best: 0.9690 linkGens: 8   pops: 1 (inds:18) [time:1.96]
+SUMARY LINKAGE: time 1.67/1.96 (0.8518)    FFE: 202016.00/225263.00 (0.8968)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+
+Size:4 FFEchange: 53.00 Time change: 0.00 FFE/sec: 121218.7136 Scraps (used/left): 26/59 Fitness: 0.8202
+Size:13 FFEchange: 137.00 Time change: 0.00 FFE/sec: 119822.6104 Scraps (used/left): 68/24 Fitness: 0.8371
+Size:2 FFEchange: 27.00 Time change: 0.00 FFE/sec: 115380.4737 Scraps (used/left): 13/68 Fitness: 0.8478
+Size:3 FFEchange: 49.00 Time change: 0.00 FFE/sec: 109701.0018 Scraps (used/left): 24/60 Fitness: 0.8594
+Size:6 FFEchange: 93.00 Time change: 0.00 FFE/sec: 125154.8785 Scraps (used/left): 46/45 Fitness: 0.8776
+Size:3 FFEchange: 65.00 Time change: 0.00 FFE/sec: 120218.4131 Scraps (used/left): 32/62 Fitness: 0.8873
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 102440.6075 Scraps (used/left): 4/79 Fitness: 0.8918
+Size:12 FFEchange: 133.00 Time change: 0.00 FFE/sec: 125082.1351 Scraps (used/left): 66/25 Fitness: 0.9112
+Size:2 FFEchange: 27.00 Time change: 0.00 FFE/sec: 119359.1107 Scraps (used/left): 13/61 Fitness: 0.9207
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 117973.7037 Scraps (used/left): 8/61 Fitness: 0.9240
+Size:3 FFEchange: 31.00 Time change: 0.00 FFE/sec: 121204.0289 Scraps (used/left): 15/61 Fitness: 0.9380
+Size:19 FFEchange: 143.00 Time change: 0.00 FFE/sec: 125250.2086 Scraps (used/left): 71/16 Fitness: 0.9433
+Size:7 FFEchange: 73.00 Time change: 0.00 FFE/sec: 122545.9201 Scraps (used/left): 36/41 Fitness: 0.9455
+V_PROCES FINISHED FFE COST: 1627.00   fintess:(0.8177->0.9455)
+blocked improvements: 0  Iteration: 9 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 13/0/0) BestFit: 0.9507 (zero: 0.9507) last: 0.9455 [u:0.0000] PopSize:10  Patterns[coverage: (0:0.0000) ] FFE:227501 FFE_OPTs: 0 time passed:1.9857     original parts: 0 parts: 0   interceptParts:99 hh:0 
+Executing population 0:
+
+Size:10 FFEchange: 125.00 Time change: 0.00 FFE/sec: 113737.8595 Scraps (used/left): 62/28 Fitness: 0.8722
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 105098.4010 Scraps (used/left): 8/81 Fitness: 0.8820
+Size:13 FFEchange: 85.00 Time change: 0.00 FFE/sec: 122221.8713 Scraps (used/left): 42/24 Fitness: 0.8899
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 100891.5385 Scraps (used/left): 3/83 Fitness: 0.8939
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 114705.7341 Scraps (used/left): 8/70 Fitness: 0.8989
+Size:10 FFEchange: 111.00 Time change: 0.00 FFE/sec: 124596.7327 Scraps (used/left): 55/31 Fitness: 0.9010
+Size:3 FFEchange: 45.00 Time change: 0.00 FFE/sec: 122061.7483 Scraps (used/left): 22/65 Fitness: 0.9054
+Size:5 FFEchange: 57.00 Time change: 0.00 FFE/sec: 122977.1213 Scraps (used/left): 28/57 Fitness: 0.9074
+V_PROCES FINISHED FFE COST: 638.00   fintess:(0.8699->0.9074)
+blocked improvements: 0  Iteration: 9 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 8/0/0) BestFit: 0.9690 (zero: 0.9690) last: 0.9173 [u:0.0000] PopSize:10  Patterns[coverage: (0:1.0000) ] FFE:228851 FFE_OPTs: 0 time passed:1.9983     original parts: 0 parts: 412   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.9507 last:0.9455 ZERO: 0.9507/0.9507 size:10  scraps: 0  crossings: 99  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9690 last:0.9173 ZERO: 0.9690/0.9690  size:10  scraps: 412  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+SUMARY best: 0.9690 linkGens: 8   pops: 1 (inds:20) [time:2.00]
+SUMARY LINKAGE: time 1.67/2.00 (0.8366)    FFE: 202016.00/228851.00 (0.8827)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing new additional pop
+Initializing...
+DONE...
+
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.24 sec  32102 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 92
+...linkage COST: 0.25s 32102 
+(0:0.9300) 
+V_PROCES FINISHED FFE COST: 0.00   fintess:(0.8855->0.8855)
+best fitness increase: 0.0000 -> 0.8855
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.16 sec  21902 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 95
+...linkage COST: 0.18s 21902 
+COUNT GENE FREQ COST (2.00 sec  0 ffe)
+
+(0:0.9600) 
+blocked improvements: 0  Iteration: 0 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 0.8855 (zero: 0.8855) last: 0.8855 [u:0.0000] PopSize:1  Patterns[coverage: (0:0.9600) ] FFE:283568 FFE_OPTs: 0 time passed:0.4418     original parts: 0 parts: 120   interceptParts:95 hh:0 
+Executing SUPERpop
+join linkage for superpop
+
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 103897.1090 Scraps (used/left): 4/168 Fitness: 0.7907
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 143011.5720 Scraps (used/left): 15/172 Fitness: 0.7982
+Size:2 FFEchange: 63.00 Time change: 0.00 FFE/sec: 125886.8171 Scraps (used/left): 31/156 Fitness: 0.8046
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 123927.1754 Scraps (used/left): 14/170 Fitness: 0.8127
+Size:2 FFEchange: 63.00 Time change: 0.00 FFE/sec: 128630.3688 Scraps (used/left): 31/156 Fitness: 0.8136
+Size:2 FFEchange: 59.00 Time change: 0.00 FFE/sec: 123570.7567 Scraps (used/left): 29/134 Fitness: 0.8241
+Size:12 FFEchange: 229.00 Time change: 0.00 FFE/sec: 123873.0824 Scraps (used/left): 114/67 Fitness: 0.8270
+Size:2 FFEchange: 53.00 Time change: 0.00 FFE/sec: 118984.2673 Scraps (used/left): 26/149 Fitness: 0.8406
+Size:3 FFEchange: 83.00 Time change: 0.00 FFE/sec: 120844.1303 Scraps (used/left): 41/116 Fitness: 0.8443
+Size:99 FFEchange: 363.00 Time change: 0.00 FFE/sec: 130509.0819 Scraps (used/left): 181/1 Fitness: 0.8452
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 112768.9815 Scraps (used/left): 12/166 Fitness: 0.8464
+Size:2 FFEchange: 35.00 Time change: 0.00 FFE/sec: 120075.1408 Scraps (used/left): 17/138 Fitness: 0.8553
+Size:4 FFEchange: 125.00 Time change: 0.00 FFE/sec: 120156.3733 Scraps (used/left): 62/115 Fitness: 0.8583
+Size:4 FFEchange: 105.00 Time change: 0.00 FFE/sec: 120698.4663 Scraps (used/left): 52/110 Fitness: 0.8641
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 106915.3244 Scraps (used/left): 11/144 Fitness: 0.8773
+Size:2 FFEchange: 47.00 Time change: 0.00 FFE/sec: 116700.3772 Scraps (used/left): 23/137 Fitness: 0.8834
+Size:16 FFEchange: 219.00 Time change: 0.00 FFE/sec: 124957.2242 Scraps (used/left): 109/59 Fitness: 0.8848
+Size:7 FFEchange: 157.00 Time change: 0.00 FFE/sec: 126462.3578 Scraps (used/left): 78/84 Fitness: 0.8849
+Size:12 FFEchange: 155.00 Time change: 0.00 FFE/sec: 127723.4608 Scraps (used/left): 77/65 Fitness: 0.8876
+Size:3 FFEchange: 61.00 Time change: 0.00 FFE/sec: 121293.3959 Scraps (used/left): 30/130 Fitness: 0.8902
+Size:2 FFEchange: 45.00 Time change: 0.00 FFE/sec: 122197.8261 Scraps (used/left): 22/129 Fitness: 0.9095
+V_PROCES FINISHED FFE COST: 1979.00   fintess:(0.7871->0.9095)
+blocked improvements: 0  Iteration: 10 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 21/0/0) BestFit: 0.9507 (zero: 0.9507) last: 0.9414 [u:0.0000] PopSize:11  Patterns[coverage: (0:0.0000) ] FFE:286259 FFE_OPTs: 0 time passed:2.4670     original parts: 0 parts: 0   interceptParts:194 hh:0 
+Executing SUPERpop
+
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 73812.4242 Scraps (used/left): 1/89 Fitness: 0.7981
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 94202.5967 Scraps (used/left): 3/81 Fitness: 0.8069
+Size:3 FFEchange: 49.00 Time change: 0.00 FFE/sec: 127788.7473 Scraps (used/left): 24/71 Fitness: 0.8106
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 103451.3900 Scraps (used/left): 5/88 Fitness: 0.8289
+Size:7 FFEchange: 97.00 Time change: 0.00 FFE/sec: 127371.1968 Scraps (used/left): 48/39 Fitness: 0.8290
+Size:3 FFEchange: 47.00 Time change: 0.00 FFE/sec: 125255.0000 Scraps (used/left): 23/72 Fitness: 0.8379
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 120521.8490 Scraps (used/left): 9/82 Fitness: 0.8380
+Size:6 FFEchange: 89.00 Time change: 0.00 FFE/sec: 128657.0267 Scraps (used/left): 44/48 Fitness: 0.8429
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 116417.3897 Scraps (used/left): 6/61 Fitness: 0.8518
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 124363.5387 Scraps (used/left): 14/66 Fitness: 0.8564
+Size:10 FFEchange: 133.00 Time change: 0.00 FFE/sec: 124601.0500 Scraps (used/left): 66/28 Fitness: 0.8603
+Size:14 FFEchange: 139.00 Time change: 0.00 FFE/sec: 124936.3801 Scraps (used/left): 69/23 Fitness: 0.8667
+Size:84 FFEchange: 143.00 Time change: 0.00 FFE/sec: 124444.7410 Scraps (used/left): 71/3 Fitness: 0.8766
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 118520.9564 Scraps (used/left): 14/72 Fitness: 0.8931
+Size:10 FFEchange: 103.00 Time change: 0.00 FFE/sec: 122324.9293 Scraps (used/left): 51/31 Fitness: 0.8937
+Size:3 FFEchange: 23.00 Time change: 0.00 FFE/sec: 117944.4842 Scraps (used/left): 11/50 Fitness: 0.8981
+Size:7 FFEchange: 73.00 Time change: 0.00 FFE/sec: 121044.3363 Scraps (used/left): 36/40 Fitness: 0.8982
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 113822.8972 Scraps (used/left): 7/70 Fitness: 0.9117
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 97432.4000 Scraps (used/left): 2/62 Fitness: 0.9236
+V_PROCES FINISHED FFE COST: 1355.00   fintess:(0.7970->0.9236)
+blocked improvements: 0  Iteration: 11 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 19/0/0) BestFit: 0.9507 (zero: 0.9507) last: 0.9236 [u:0.0000] PopSize:12  Patterns[coverage: (0:0.0000) ] FFE:288225 FFE_OPTs: 0 time passed:2.4864     original parts: 0 parts: 0   interceptParts:99 hh:0 
+Executing population 0:
+
+Size:3 FFEchange: 45.00 Time change: 0.00 FFE/sec: 123575.4791 Scraps (used/left): 22/70 Fitness: 0.8375
+Size:8 FFEchange: 109.00 Time change: 0.00 FFE/sec: 126249.7813 Scraps (used/left): 54/37 Fitness: 0.8385
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 113001.4948 Scraps (used/left): 4/81 Fitness: 0.8395
+Size:10 FFEchange: 117.00 Time change: 0.00 FFE/sec: 125490.8719 Scraps (used/left): 58/32 Fitness: 0.8437
+Size:12 FFEchange: 105.00 Time change: 0.00 FFE/sec: 124761.0000 Scraps (used/left): 52/25 Fitness: 0.8659
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 119793.9344 Scraps (used/left): 10/61 Fitness: 0.8754
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 119013.5179 Scraps (used/left): 7/69 Fitness: 0.8938
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 116495.2609 Scraps (used/left): 5/81 Fitness: 0.9021
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 112918.3444 Scraps (used/left): 3/77 Fitness: 0.9122
+V_PROCES FINISHED FFE COST: 617.00   fintess:(0.8321->0.9122)
+blocked improvements: 0  Iteration: 10 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 9/0/0) BestFit: 0.9690 (zero: 0.9690) last: 0.9161 [u:0.0000] PopSize:11  Patterns[coverage: (0:1.0000) ] FFE:289554 FFE_OPTs: 0 time passed:2.4988     original parts: 0 parts: 412   interceptParts:99 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 0.9507 last:0.9236 ZERO: 0.9507/0.9507 size:12  scraps: 0  crossings: 99  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9690 last:0.9161 ZERO: 0.9690/0.9690  size:11  scraps: 412  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+SUMARY best: 0.9690 linkGens: 8   pops: 1 (inds:23) [time:2.50]
+SUMARY LINKAGE: time 1.67/2.50 (0.6691)    FFE: 202016.00/289554.00 (0.6977)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+
+Size:8 FFEchange: 195.00 Time change: 0.00 FFE/sec: 117686.5585 Scraps (used/left): 97/84 Fitness: 0.8037
+Size:51 FFEchange: 345.00 Time change: 0.00 FFE/sec: 111113.9032 Scraps (used/left): 172/14 Fitness: 0.8045
+Size:2 FFEchange: 27.00 Time change: 0.00 FFE/sec: 110162.2613 Scraps (used/left): 13/167 Fitness: 0.8045
+Size:2 FFEchange: 27.00 Time change: 0.00 FFE/sec: 114776.3874 Scraps (used/left): 13/177 Fitness: 0.8271
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 113408.1579 Scraps (used/left): 11/171 Fitness: 0.8616
+Size:4 FFEchange: 91.00 Time change: 0.00 FFE/sec: 124248.1558 Scraps (used/left): 45/106 Fitness: 0.8662
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 107606.0643 Scraps (used/left): 5/154 Fitness: 0.8684
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 111107.1228 Scraps (used/left): 6/180 Fitness: 0.8794
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 108039.9597 Scraps (used/left): 5/148 Fitness: 0.8877
+Size:10 FFEchange: 193.00 Time change: 0.00 FFE/sec: 126035.2091 Scraps (used/left): 96/75 Fitness: 0.8920
+Size:6 FFEchange: 137.00 Time change: 0.00 FFE/sec: 125171.0315 Scraps (used/left): 68/99 Fitness: 0.9014
+Size:5 FFEchange: 131.00 Time change: 0.00 FFE/sec: 124353.5113 Scraps (used/left): 65/93 Fitness: 0.9131
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 112218.8889 Scraps (used/left): 8/148 Fitness: 0.9301
+Size:4 FFEchange: 83.00 Time change: 0.00 FFE/sec: 123955.9963 Scraps (used/left): 41/108 Fitness: 0.9418
+Size:10 FFEchange: 173.00 Time change: 0.00 FFE/sec: 125191.6607 Scraps (used/left): 86/73 Fitness: 0.9419
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 112879.0000 Scraps (used/left): 9/134 Fitness: 0.9591
+Size:9 FFEchange: 181.00 Time change: 0.00 FFE/sec: 125357.2960 Scraps (used/left): 90/78 Fitness: 0.9665
+Size:10 FFEchange: 159.00 Time change: 0.00 FFE/sec: 131508.9270 Scraps (used/left): 79/74 Fitness: 0.9712
+Size:20 FFEchange: 183.00 Time change: 0.00 FFE/sec: 124686.2182 Scraps (used/left): 91/48 Fitness: 0.9720
+V_PROCES FINISHED FFE COST: 3575.00   fintess:(0.7970->0.9720)
+best fitness increase: 0.9507 -> 0.9720
+blocked improvements: 0  Iteration: 12 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 19/0/0) BestFit: 0.9720 (zero: 0.9720) last: 0.9720 [u:0.0000] PopSize:13  Patterns[coverage: (0:0.0000) ] FFE:293640 FFE_OPTs: 0 time passed:2.5364     original parts: 0 parts: 0   interceptParts:194 hh:0 
+Executing SUPERpop
+
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 96150.3947 Scraps (used/left): 4/162 Fitness: 0.8839
+Size:7 FFEchange: 171.00 Time change: 0.00 FFE/sec: 129636.9468 Scraps (used/left): 85/86 Fitness: 0.8893
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 97432.4000 Scraps (used/left): 2/175 Fitness: 0.9029
+Size:4 FFEchange: 89.00 Time change: 0.00 FFE/sec: 127521.8176 Scraps (used/left): 44/109 Fitness: 0.9070
+Size:14 FFEchange: 239.00 Time change: 0.00 FFE/sec: 129975.1261 Scraps (used/left): 119/62 Fitness: 0.9142
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 120208.8052 Scraps (used/left): 9/152 Fitness: 0.9174
+Size:2 FFEchange: 37.00 Time change: 0.00 FFE/sec: 127115.6135 Scraps (used/left): 18/157 Fitness: 0.9193
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 96573.9648 Scraps (used/left): 4/139 Fitness: 0.9329
+Size:16 FFEchange: 165.00 Time change: 0.00 FFE/sec: 116698.2143 Scraps (used/left): 82/59 Fitness: 0.9365
+Size:9 FFEchange: 113.00 Time change: 0.00 FFE/sec: 123929.0995 Scraps (used/left): 56/71 Fitness: 0.9428
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 115458.8838 Scraps (used/left): 15/147 Fitness: 0.9471
+Size:3 FFEchange: 65.00 Time change: 0.00 FFE/sec: 120401.2548 Scraps (used/left): 32/116 Fitness: 0.9536
+V_PROCES FINISHED FFE COST: 5004.00   fintess:(0.8751->0.9536)
+blocked improvements: 0  Iteration: 13 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 12/0/0) BestFit: 0.9720 (zero: 0.9720) last: 0.9536 [u:0.0000] PopSize:14  Patterns[coverage: (0:0.0000) ] FFE:299155 FFE_OPTs: 0 time passed:2.5845     original parts: 0 parts: 0   interceptParts:194 hh:0 
+Executing population 0:
+
+Size:10 FFEchange: 111.00 Time change: 0.00 FFE/sec: 124367.4839 Scraps (used/left): 55/30 Fitness: 0.8936
+Size:7 FFEchange: 89.00 Time change: 0.00 FFE/sec: 124091.0647 Scraps (used/left): 44/39 Fitness: 0.9122
+Size:4 FFEchange: 61.00 Time change: 0.00 FFE/sec: 124338.4184 Scraps (used/left): 30/58 Fitness: 0.9220
+Size:15 FFEchange: 123.00 Time change: 0.00 FFE/sec: 124939.3786 Scraps (used/left): 61/22 Fitness: 0.9228
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 117973.7037 Scraps (used/left): 8/74 Fitness: 0.9279
+Size:7 FFEchange: 101.00 Time change: 0.00 FFE/sec: 124125.5348 Scraps (used/left): 50/42 Fitness: 0.9286
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 112289.1135 Scraps (used/left): 6/85 Fitness: 0.9396
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 110004.3226 Scraps (used/left): 3/83 Fitness: 0.9399
+V_PROCES FINISHED FFE COST: 1064.00   fintess:(0.8853->0.9399)
+blocked improvements: 0  Iteration: 11 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 8/0/0) BestFit: 0.9690 (zero: 0.9690) last: 0.9399 [u:0.0000] PopSize:12  Patterns[coverage: (0:1.0000) ] FFE:300830 FFE_OPTs: 0 time passed:2.5994     original parts: 0 parts: 412   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:52 FFEchange: 167.00 Time change: 0.00 FFE/sec: 119255.4295 Scraps (used/left): 83/2 Fitness: 0.7987
+V_PROCES FINISHED FFE COST: 167.00   fintess:(0.7958->0.7987)
+blocked improvements: 0  Iteration: 1 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 1/0/0) BestFit: 0.8855 (zero: 0.8855) last: 0.8625 [u:0.0000] PopSize:2  Patterns[coverage: (0:0.9600) ] FFE:301609 FFE_OPTs: 0 time passed:0.6068     original parts: 0 parts: 120   interceptParts:95 hh:0 
+
+
+Population state report (2):
+[Population SUPERpop] best: 0.9720 last:0.9536 ZERO: 0.9720/0.9720 size:14  scraps: 0  crossings: 194  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9690 last:0.9399 ZERO: 0.9690/0.9690  size:12  scraps: 412  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+[Population 1] best: 0.8855 last:0.8625 ZERO: 0.8855/0.8855  size:2  scraps: 120  crossings: 95  trees: 1  LatsM: 1  linkageGens: 2
+SUMARY best: 0.9720 linkGens: 10   pops: 2 (inds:28) [time:2.61]
+SUMARY LINKAGE: time 2.11/2.61 (0.8084)    FFE: 256020.00/301609.00 (0.8488)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing new additional pop
+Initializing...
+DONE...
+
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.28 sec  39802 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.29s 39802 
+(0:1.0000) 
+V_PROCES FINISHED FFE COST: 0.00   fintess:(0.8533->0.8533)
+best fitness increase: 0.0000 -> 0.8533
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.16 sec  23902 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.17s 23902 
+COUNT GENE FREQ COST (2.61 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 0 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 0.8533 (zero: 0.8533) last: 0.8533 [u:0.0000] PopSize:1  Patterns[coverage: (0:1.0000) ] FFE:365926 FFE_OPTs: 0 time passed:0.4684     original parts: 0 parts: 111   interceptParts:99 hh:0 
+Executing SUPERpop
+join linkage for superpop
+
+Size:3 FFEchange: 103.00 Time change: 0.00 FFE/sec: 121319.3569 Scraps (used/left): 51/207 Fitness: 0.8330
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 110317.4819 Scraps (used/left): 12/261 Fitness: 0.8372
+Size:20 FFEchange: 323.00 Time change: 0.00 FFE/sec: 124350.6607 Scraps (used/left): 161/114 Fitness: 0.8398
+Size:2 FFEchange: 35.00 Time change: 0.00 FFE/sec: 115676.1872 Scraps (used/left): 17/244 Fitness: 0.8401
+Size:3 FFEchange: 107.00 Time change: 0.00 FFE/sec: 123346.7440 Scraps (used/left): 53/210 Fitness: 0.8487
+Size:12 FFEchange: 261.00 Time change: 0.00 FFE/sec: 150436.9167 Scraps (used/left): 130/138 Fitness: 0.8587
+Size:3 FFEchange: 127.00 Time change: 0.00 FFE/sec: 166764.3504 Scraps (used/left): 63/210 Fitness: 0.8800
+Size:20 FFEchange: 273.00 Time change: 0.00 FFE/sec: 172452.3159 Scraps (used/left): 136/114 Fitness: 0.9089
+Size:2 FFEchange: 39.00 Time change: 0.00 FFE/sec: 162387.3333 Scraps (used/left): 19/236 Fitness: 0.9223
+Size:20 FFEchange: 259.00 Time change: 0.00 FFE/sec: 172937.1683 Scraps (used/left): 129/115 Fitness: 0.9347
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 143934.2273 Scraps (used/left): 6/270 Fitness: 0.9555
+Size:3 FFEchange: 115.00 Time change: 0.00 FFE/sec: 169358.0109 Scraps (used/left): 57/192 Fitness: 0.9602
+Size:2 FFEchange: 47.00 Time change: 0.00 FFE/sec: 164723.8417 Scraps (used/left): 23/222 Fitness: 0.9641
+Size:9 FFEchange: 151.00 Time change: 0.00 FFE/sec: 171551.9170 Scraps (used/left): 75/148 Fitness: 0.9700
+Size:7 FFEchange: 175.00 Time change: 0.00 FFE/sec: 171397.9694 Scraps (used/left): 87/160 Fitness: 0.9717
+Size:5 FFEchange: 155.00 Time change: 0.00 FFE/sec: 171613.8864 Scraps (used/left): 77/180 Fitness: 0.9734
+Size:50 FFEchange: 375.00 Time change: 0.00 FFE/sec: 172507.7904 Scraps (used/left): 187/59 Fitness: 0.9771
+Size:2 FFEchange: 43.00 Time change: 0.00 FFE/sec: 162892.4261 Scraps (used/left): 21/228 Fitness: 0.9876
+Size:3 FFEchange: 95.00 Time change: 0.00 FFE/sec: 170023.4754 Scraps (used/left): 47/194 Fitness: 0.9986
+V_PROCES FINISHED FFE COST: 7623.00   fintess:(0.8273->0.9986)
+best fitness increase: 0.9720 -> 0.9986
+blocked improvements: 0  Iteration: 14 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 19/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9986 [u:0.0000] PopSize:15  Patterns[coverage: (0:0.0000) ] FFE:374260 FFE_OPTs: 0 time passed:3.1339     original parts: 0 parts: 0   interceptParts:293 hh:0 
+Executing SUPERpop
+
+Size:2 FFEchange: 69.00 Time change: 0.00 FFE/sec: 127713.4422 Scraps (used/left): 34/227 Fitness: 0.8882
+Size:3 FFEchange: 111.00 Time change: 0.00 FFE/sec: 122230.9720 Scraps (used/left): 55/222 Fitness: 0.8934
+Size:15 FFEchange: 287.00 Time change: 0.00 FFE/sec: 125372.5735 Scraps (used/left): 143/130 Fitness: 0.8940
+Size:10 FFEchange: 277.00 Time change: 0.00 FFE/sec: 126707.8629 Scraps (used/left): 138/142 Fitness: 0.8965
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 120108.9744 Scraps (used/left): 12/238 Fitness: 0.9029
+Size:3 FFEchange: 103.00 Time change: 0.00 FFE/sec: 167258.9533 Scraps (used/left): 51/209 Fitness: 0.9093
+Size:39 FFEchange: 355.00 Time change: 0.00 FFE/sec: 152130.9905 Scraps (used/left): 177/76 Fitness: 0.9185
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 61406.9748 Scraps (used/left): 1/273 Fitness: 0.9241
+Size:2 FFEchange: 41.00 Time change: 0.00 FFE/sec: 124835.2625 Scraps (used/left): 20/246 Fitness: 0.9293
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 119964.9465 Scraps (used/left): 11/244 Fitness: 0.9307
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 119708.6111 Scraps (used/left): 11/245 Fitness: 0.9339
+Size:2 FFEchange: 63.00 Time change: 0.00 FFE/sec: 126928.0645 Scraps (used/left): 31/225 Fitness: 0.9411
+Size:3 FFEchange: 81.00 Time change: 0.00 FFE/sec: 127702.6602 Scraps (used/left): 40/193 Fitness: 0.9519
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 115990.9524 Scraps (used/left): 8/250 Fitness: 0.9693
+Size:7 FFEchange: 157.00 Time change: 0.00 FFE/sec: 128200.5263 Scraps (used/left): 78/160 Fitness: 0.9710
+Size:16 FFEchange: 201.00 Time change: 0.00 FFE/sec: 171068.4172 Scraps (used/left): 100/127 Fitness: 0.9746
+Size:17 FFEchange: 215.00 Time change: 0.00 FFE/sec: 128043.8020 Scraps (used/left): 107/124 Fitness: 0.9755
+Size:20 FFEchange: 239.00 Time change: 0.00 FFE/sec: 128739.1840 Scraps (used/left): 119/114 Fitness: 0.9763
+Size:5 FFEchange: 53.00 Time change: 0.00 FFE/sec: 122136.1684 Scraps (used/left): 26/131 Fitness: 0.9903
+V_PROCES FINISHED FFE COST: 7721.00   fintess:(0.8748->0.9903)
+blocked improvements: 0  Iteration: 15 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 19/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9903 [u:0.0000] PopSize:16  Patterns[coverage: (0:0.0000) ] FFE:382592 FFE_OPTs: 0 time passed:3.1975     original parts: 0 parts: 0   interceptParts:293 hh:0 
+Executing population 0:
+
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 113533.5169 Scraps (used/left): 5/89 Fitness: 0.8356
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 119084.0444 Scraps (used/left): 5/80 Fitness: 0.8387
+Size:7 FFEchange: 93.00 Time change: 0.00 FFE/sec: 129003.6048 Scraps (used/left): 46/43 Fitness: 0.8443
+Size:14 FFEchange: 143.00 Time change: 0.00 FFE/sec: 124578.2654 Scraps (used/left): 71/23 Fitness: 0.8510
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 120584.6535 Scraps (used/left): 7/81 Fitness: 0.8553
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 124409.6505 Scraps (used/left): 9/80 Fitness: 0.8813
+Size:84 FFEchange: 165.00 Time change: 0.00 FFE/sec: 128118.7918 Scraps (used/left): 82/3 Fitness: 0.8813
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 120584.6535 Scraps (used/left): 12/63 Fitness: 0.9007
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 120187.9934 Scraps (used/left): 7/83 Fitness: 0.9143
+Size:3 FFEchange: 27.00 Time change: 0.00 FFE/sec: 126718.4393 Scraps (used/left): 13/69 Fitness: 0.9169
+V_PROCES FINISHED FFE COST: 880.00   fintess:(0.8306->0.9169)
+blocked improvements: 0  Iteration: 12 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 10/0/0) BestFit: 0.9690 (zero: 0.9690) last: 0.9351 [u:0.0000] PopSize:13  Patterns[coverage: (0:1.0000) ] FFE:384284 FFE_OPTs: 0 time passed:3.2121     original parts: 0 parts: 412   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:37 FFEchange: 135.00 Time change: 0.00 FFE/sec: 127951.1089 Scraps (used/left): 67/14 Fitness: 0.8506
+Size:51 FFEchange: 99.00 Time change: 0.00 FFE/sec: 128064.3601 Scraps (used/left): 49/3 Fitness: 0.8657
+V_PROCES FINISHED FFE COST: 234.00   fintess:(0.8355->0.8657)
+best fitness increase: 0.8855 -> 0.9014
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.16 sec  23302 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 98
+...linkage COST: 0.18s 23302 
+COUNT GENE FREQ COST (2.00 sec  0 ffe)
+
+(0:0.9900) 
+blocked improvements: 0  Iteration: 2 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 2/0/0) BestFit: 0.9014 (zero: 0.9014) last: 0.9014 [u:0.0000] PopSize:3  Patterns[coverage: (0:0.9900) ] FFE:408633 FFE_OPTs: 0 time passed:1.4003     original parts: 0 parts: 167   interceptParts:98 hh:0 
+Executing population 2:
+
+V_PROCES FINISHED FFE COST: 180.00   fintess:(0.8566->0.8566)
+best fitness increase: 0.8533 -> 0.8566
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.15 sec  22602 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.17s 22602 
+COUNT GENE FREQ COST (2.61 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 1 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 0.8566 (zero: 0.8566) last: 0.8566 [u:0.0000] PopSize:2  Patterns[coverage: (0:1.0000) ] FFE:432027 FFE_OPTs: 0 time passed:0.9678     original parts: 0 parts: 160   interceptParts:99 hh:0 
+
+
+Population state report (3):
+[Population SUPERpop] best: 0.9986 last:0.9903 ZERO: 0.9986/0.9986 size:16  scraps: 0  crossings: 293  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9690 last:0.9351 ZERO: 0.9690/0.9690  size:13  scraps: 412  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+[Population 1] best: 0.9014 last:0.9014 ZERO: 0.9014/0.8855  size:3  scraps: 167  crossings: 98  trees: 1  LatsM: 1  linkageGens: 3
+[Population 2] best: 0.8566 last:0.8566 ZERO: 0.8566/0.8533  size:2  scraps: 160  crossings: 99  trees: 1  LatsM: 1  linkageGens: 3
+SUMARY best: 0.9986 linkGens: 14   pops: 3 (inds:34) [time:3.58]
+SUMARY LINKAGE: time 2.92/3.58 (0.8159)    FFE: 365628.00/432027.00 (0.8463)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 84409.2574 Scraps (used/left): 3/270 Fitness: 0.8227
+Size:4 FFEchange: 169.00 Time change: 0.00 FFE/sec: 125160.1976 Scraps (used/left): 84/192 Fitness: 0.8295
+Size:10 FFEchange: 273.00 Time change: 0.00 FFE/sec: 125870.9313 Scraps (used/left): 136/139 Fitness: 0.8376
+Size:14 FFEchange: 297.00 Time change: 0.00 FFE/sec: 125096.9341 Scraps (used/left): 148/126 Fitness: 0.8382
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 104690.9742 Scraps (used/left): 7/249 Fitness: 0.8425
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 107779.2035 Scraps (used/left): 7/265 Fitness: 0.8477
+Size:4 FFEchange: 141.00 Time change: 0.00 FFE/sec: 124303.0076 Scraps (used/left): 70/185 Fitness: 0.8483
+Size:3 FFEchange: 103.00 Time change: 0.00 FFE/sec: 124018.0079 Scraps (used/left): 51/220 Fitness: 0.8495
+Size:3 FFEchange: 93.00 Time change: 0.00 FFE/sec: 123584.4681 Scraps (used/left): 46/211 Fitness: 0.8566
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 100560.9633 Scraps (used/left): 4/245 Fitness: 0.8616
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 101024.3779 Scraps (used/left): 4/265 Fitness: 0.8735
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 115990.9524 Scraps (used/left): 10/236 Fitness: 0.8885
+Size:2 FFEchange: 43.00 Time change: 0.00 FFE/sec: 120252.3881 Scraps (used/left): 21/219 Fitness: 0.8967
+Size:3 FFEchange: 125.00 Time change: 0.00 FFE/sec: 125041.5811 Scraps (used/left): 62/198 Fitness: 0.9077
+Size:6 FFEchange: 173.00 Time change: 0.00 FFE/sec: 124415.4503 Scraps (used/left): 86/167 Fitness: 0.9154
+Size:3 FFEchange: 79.00 Time change: 0.00 FFE/sec: 120948.4538 Scraps (used/left): 39/208 Fitness: 0.9221
+Size:6 FFEchange: 179.00 Time change: 0.00 FFE/sec: 118256.0320 Scraps (used/left): 89/157 Fitness: 0.9245
+Size:9 FFEchange: 207.00 Time change: 0.00 FFE/sec: 123763.5420 Scraps (used/left): 103/149 Fitness: 0.9308
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 106508.8023 Scraps (used/left): 11/240 Fitness: 0.9356
+Size:98 FFEchange: 483.00 Time change: 0.00 FFE/sec: 124089.8882 Scraps (used/left): 241/5 Fitness: 0.9432
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 78966.4090 Scraps (used/left): 6/207 Fitness: 0.9454
+Size:3 FFEchange: 37.00 Time change: 0.00 FFE/sec: 124310.3034 Scraps (used/left): 18/154 Fitness: 0.9564
+Size:5 FFEchange: 117.00 Time change: 0.00 FFE/sec: 127000.7888 Scraps (used/left): 58/168 Fitness: 0.9629
+V_PROCES FINISHED FFE COST: 8003.00   fintess:(0.8129->0.9629)
+blocked improvements: 0  Iteration: 16 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 23/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9786 [u:0.0000] PopSize:17  Patterns[coverage: (0:0.0000) ] FFE:440742 FFE_OPTs: 0 time passed:3.6504     original parts: 0 parts: 0   interceptParts:296 hh:0 
+Executing population 0:
+
+Size:7 FFEchange: 101.00 Time change: 0.00 FFE/sec: 127668.2979 Scraps (used/left): 50/41 Fitness: 0.8811
+Size:5 FFEchange: 81.00 Time change: 0.00 FFE/sec: 127537.5630 Scraps (used/left): 40/53 Fitness: 0.8887
+Size:7 FFEchange: 101.00 Time change: 0.00 FFE/sec: 127469.8497 Scraps (used/left): 50/39 Fitness: 0.9054
+Size:9 FFEchange: 77.00 Time change: 0.00 FFE/sec: 126642.3835 Scraps (used/left): 38/28 Fitness: 0.9128
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 123519.7769 Scraps (used/left): 12/85 Fitness: 0.9155
+Size:6 FFEchange: 89.00 Time change: 0.00 FFE/sec: 129734.9431 Scraps (used/left): 44/48 Fitness: 0.9178
+Size:20 FFEchange: 133.00 Time change: 0.00 FFE/sec: 127997.9178 Scraps (used/left): 66/14 Fitness: 0.9195
+Size:19 FFEchange: 95.00 Time change: 0.00 FFE/sec: 127846.3812 Scraps (used/left): 47/16 Fitness: 0.9224
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 119013.5179 Scraps (used/left): 7/82 Fitness: 0.9313
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 106833.7719 Scraps (used/left): 2/66 Fitness: 0.9344
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 117003.9738 Scraps (used/left): 5/76 Fitness: 0.9584
+Size:17 FFEchange: 65.00 Time change: 0.00 FFE/sec: 126459.7843 Scraps (used/left): 32/19 Fitness: 0.9592
+V_PROCES FINISHED FFE COST: 988.00   fintess:(0.8652->0.9592)
+blocked improvements: 0  Iteration: 13 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 12/0/0) BestFit: 0.9690 (zero: 0.9690) last: 0.9592 [u:0.0000] PopSize:14  Patterns[coverage: (0:1.0000) ] FFE:442441 FFE_OPTs: 0 time passed:3.6657     original parts: 0 parts: 412   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:3 FFEchange: 51.00 Time change: 0.00 FFE/sec: 169015.3878 Scraps (used/left): 25/66 Fitness: 0.8411
+Size:4 FFEchange: 59.00 Time change: 0.00 FFE/sec: 122831.4444 Scraps (used/left): 29/59 Fitness: 0.8451
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 106566.6875 Scraps (used/left): 3/86 Fitness: 0.8641
+V_PROCES FINISHED FFE COST: 117.00   fintess:(0.8387->0.8641)
+blocked improvements: 0  Iteration: 3 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 3/0/0) BestFit: 0.9014 (zero: 0.9014) last: 0.8641 [u:0.0000] PopSize:4  Patterns[coverage: (0:0.9900) ] FFE:443169 FFE_OPTs: 0 time passed:1.6726     original parts: 0 parts: 167   interceptParts:98 hh:0 
+Executing population 2:
+
+Size:3 FFEchange: 35.00 Time change: 0.00 FFE/sec: 120755.4533 Scraps (used/left): 17/73 Fitness: 0.8395
+V_PROCES FINISHED FFE COST: 211.00   fintess:(0.8279->0.8395)
+blocked improvements: 0  Iteration: 2 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 1/0/0) BestFit: 0.8566 (zero: 0.8566) last: 0.8395 [u:0.0000] PopSize:3  Patterns[coverage: (0:1.0000) ] FFE:443891 FFE_OPTs: 0 time passed:1.0703     original parts: 0 parts: 160   interceptParts:99 hh:0 
+
+
+Population state report (3):
+[Population SUPERpop] best: 0.9986 last:0.9786 ZERO: 0.9986/0.9986 size:17  scraps: 0  crossings: 296  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9690 last:0.9592 ZERO: 0.9690/0.9690  size:14  scraps: 412  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+[Population 1] best: 0.9014 last:0.8641 ZERO: 0.9014/0.9014  size:4  scraps: 167  crossings: 98  trees: 1  LatsM: 1  linkageGens: 3
+[Population 2] best: 0.8566 last:0.8395 ZERO: 0.8566/0.8566  size:3  scraps: 160  crossings: 99  trees: 1  LatsM: 1  linkageGens: 3
+SUMARY best: 0.9986 linkGens: 14   pops: 3 (inds:38) [time:3.68]
+SUMARY LINKAGE: time 2.92/3.68 (0.7932)    FFE: 365628.00/443891.00 (0.8237)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing new additional pop
+Initializing...
+DONE...
+
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.24 sec  33302 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 93
+...linkage COST: 0.26s 33302 
+(0:0.9500) 
+V_PROCES FINISHED FFE COST: 0.00   fintess:(0.8951->0.8951)
+best fitness increase: 0.0000 -> 0.8951
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.17 sec  24002 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 97
+...linkage COST: 0.18s 24002 
+COUNT GENE FREQ COST (3.68 sec  0 ffe)
+
+(0:0.9800) 
+blocked improvements: 0  Iteration: 0 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 0.8951 (zero: 0.8951) last: 0.8951 [u:0.0000] PopSize:1  Patterns[coverage: (0:0.9800) ] FFE:501708 FFE_OPTs: 0 time passed:0.4512     original parts: 0 parts: 113   interceptParts:97 hh:0 
+Executing SUPERpop
+join linkage for superpop
+
+Size:3 FFEchange: 119.00 Time change: 0.00 FFE/sec: 123555.5797 Scraps (used/left): 59/297 Fitness: 0.8797
+Size:3 FFEchange: 171.00 Time change: 0.00 FFE/sec: 126641.3834 Scraps (used/left): 85/276 Fitness: 0.8907
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 101210.9418 Scraps (used/left): 7/336 Fitness: 0.8924
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 112497.2490 Scraps (used/left): 11/317 Fitness: 0.9044
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 116181.7270 Scraps (used/left): 14/357 Fitness: 0.9059
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 104729.6949 Scraps (used/left): 15/308 Fitness: 0.9180
+Size:2 FFEchange: 71.00 Time change: 0.00 FFE/sec: 117488.1182 Scraps (used/left): 35/320 Fitness: 0.9218
+Size:13 FFEchange: 355.00 Time change: 0.00 FFE/sec: 123301.3760 Scraps (used/left): 177/167 Fitness: 0.9338
+Size:13 FFEchange: 335.00 Time change: 0.00 FFE/sec: 125944.7986 Scraps (used/left): 167/168 Fitness: 0.9364
+Size:4 FFEchange: 167.00 Time change: 0.00 FFE/sec: 123716.6271 Scraps (used/left): 83/238 Fitness: 0.9546
+Size:6 FFEchange: 203.00 Time change: 0.00 FFE/sec: 125436.1821 Scraps (used/left): 101/211 Fitness: 0.9602
+Size:3 FFEchange: 105.00 Time change: 0.00 FFE/sec: 118024.9423 Scraps (used/left): 52/248 Fitness: 0.9653
+Size:20 FFEchange: 335.00 Time change: 0.00 FFE/sec: 127042.8694 Scraps (used/left): 167/140 Fitness: 0.9709
+Size:18 FFEchange: 297.00 Time change: 0.00 FFE/sec: 125814.8817 Scraps (used/left): 148/149 Fitness: 0.9764
+Size:4 FFEchange: 77.00 Time change: 0.00 FFE/sec: 118407.4306 Scraps (used/left): 38/197 Fitness: 0.9820
+Size:7 FFEchange: 105.00 Time change: 0.00 FFE/sec: 122139.4699 Scraps (used/left): 52/188 Fitness: 0.9829
+Size:15 FFEchange: 207.00 Time change: 0.00 FFE/sec: 132408.7894 Scraps (used/left): 103/157 Fitness: 0.9841
+Size:35 FFEchange: 371.00 Time change: 0.00 FFE/sec: 129616.3956 Scraps (used/left): 185/110 Fitness: 0.9844
+Size:70 FFEchange: 427.00 Time change: 0.00 FFE/sec: 122105.0564 Scraps (used/left): 213/54 Fitness: 0.9886
+V_PROCES FINISHED FFE COST: 16433.00   fintess:(0.8796->0.9886)
+blocked improvements: 0  Iteration: 17 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 19/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9886 [u:0.0000] PopSize:18  Patterns[coverage: (0:0.0000) ] FFE:518752 FFE_OPTs: 0 time passed:4.2725     original parts: 0 parts: 0   interceptParts:393 hh:0 
+Executing SUPERpop
+
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 105034.9281 Scraps (used/left): 10/271 Fitness: 0.9138
+Size:3 FFEchange: 127.00 Time change: 0.00 FFE/sec: 124989.0384 Scraps (used/left): 63/213 Fitness: 0.9179
+Size:12 FFEchange: 295.00 Time change: 0.00 FFE/sec: 126865.1042 Scraps (used/left): 147/132 Fitness: 0.9185
+Size:2 FFEchange: 79.00 Time change: 0.00 FFE/sec: 123351.9167 Scraps (used/left): 39/249 Fitness: 0.9268
+Size:12 FFEchange: 251.00 Time change: 0.00 FFE/sec: 123437.9790 Scraps (used/left): 125/132 Fitness: 0.9288
+Size:10 FFEchange: 243.00 Time change: 0.00 FFE/sec: 127318.0964 Scraps (used/left): 121/140 Fitness: 0.9418
+Size:6 FFEchange: 147.00 Time change: 0.00 FFE/sec: 130919.2212 Scraps (used/left): 73/157 Fitness: 0.9488
+Size:2 FFEchange: 57.00 Time change: 0.00 FFE/sec: 120836.5274 Scraps (used/left): 28/238 Fitness: 0.9508
+Size:14 FFEchange: 249.00 Time change: 0.00 FFE/sec: 125598.8176 Scraps (used/left): 124/124 Fitness: 0.9561
+Size:20 FFEchange: 253.00 Time change: 0.00 FFE/sec: 126076.0904 Scraps (used/left): 126/110 Fitness: 0.9689
+Size:7 FFEchange: 129.00 Time change: 0.00 FFE/sec: 123805.9456 Scraps (used/left): 64/153 Fitness: 0.9697
+Size:74 FFEchange: 343.00 Time change: 0.00 FFE/sec: 172087.0917 Scraps (used/left): 171/47 Fitness: 0.9733
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 98218.1452 Scraps (used/left): 2/157 Fitness: 0.9861
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 128200.5263 Scraps (used/left): 4/259 Fitness: 0.9871
+Size:3 FFEchange: 39.00 Time change: 0.00 FFE/sec: 114730.1812 Scraps (used/left): 19/172 Fitness: 0.9873
+V_PROCES FINISHED FFE COST: 14167.00   fintess:(0.9124->0.9873)
+blocked improvements: 0  Iteration: 18 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 15/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9959 [u:0.0000] PopSize:19  Patterns[coverage: (0:0.0000) ] FFE:533631 FFE_OPTs: 0 time passed:4.3900     original parts: 0 parts: 0   interceptParts:296 hh:0 
+Executing population 0:
+
+Size:7 FFEchange: 91.00 Time change: 0.00 FFE/sec: 123075.3526 Scraps (used/left): 45/43 Fitness: 0.9176
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 121204.0289 Scraps (used/left): 15/73 Fitness: 0.9233
+Size:12 FFEchange: 99.00 Time change: 0.00 FFE/sec: 129439.1787 Scraps (used/left): 49/25 Fitness: 0.9267
+Size:7 FFEchange: 99.00 Time change: 0.00 FFE/sec: 128268.7181 Scraps (used/left): 49/43 Fitness: 0.9342
+Size:2 FFEchange: 39.00 Time change: 0.00 FFE/sec: 128027.7493 Scraps (used/left): 19/77 Fitness: 0.9437
+Size:6 FFEchange: 73.00 Time change: 0.00 FFE/sec: 127923.8345 Scraps (used/left): 36/48 Fitness: 0.9463
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 120187.9934 Scraps (used/left): 7/64 Fitness: 0.9519
+Size:35 FFEchange: 87.00 Time change: 0.00 FFE/sec: 133532.1172 Scraps (used/left): 43/12 Fitness: 0.9556
+V_PROCES FINISHED FFE COST: 1410.00   fintess:(0.9141->0.9556)
+blocked improvements: 0  Iteration: 14 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 8/0/0) BestFit: 0.9690 (zero: 0.9690) last: 0.9556 [u:0.0000] PopSize:15  Patterns[coverage: (0:1.0000) ] FFE:535652 FFE_OPTs: 0 time passed:4.4074     original parts: 0 parts: 412   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 120075.1408 Scraps (used/left): 10/75 Fitness: 0.8698
+Size:39 FFEchange: 139.00 Time change: 0.00 FFE/sec: 129574.2786 Scraps (used/left): 69/16 Fitness: 0.8702
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 100653.3058 Scraps (used/left): 2/46 Fitness: 0.8708
+Size:3 FFEchange: 41.00 Time change: 0.00 FFE/sec: 127382.9209 Scraps (used/left): 20/68 Fitness: 0.8805
+V_PROCES FINISHED FFE COST: 206.00   fintess:(0.8669->0.8805)
+best fitness increase: 0.9014 -> 0.9258
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.14 sec  21902 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 98
+...linkage COST: 0.16s 21902 
+COUNT GENE FREQ COST (2.00 sec  0 ffe)
+
+(0:0.9900) 
+blocked improvements: 0  Iteration: 4 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 4/0/0) BestFit: 0.9258 (zero: 0.9258) last: 0.9258 [u:0.0000] PopSize:5  Patterns[coverage: (0:0.9900) ] FFE:558573 FFE_OPTs: 0 time passed:2.5756     original parts: 0 parts: 208   interceptParts:98 hh:0 
+Executing population 2:
+
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 160695.7986 Scraps (used/left): 9/84 Fitness: 0.7921
+Size:98 FFEchange: 183.00 Time change: 0.00 FFE/sec: 171377.6355 Scraps (used/left): 91/2 Fitness: 0.8129
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 136843.2584 Scraps (used/left): 2/86 Fitness: 0.8165
+V_PROCES FINISHED FFE COST: 207.00   fintess:(0.7860->0.8165)
+best fitness increase: 0.8566 -> 0.8806
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.14 sec  23002 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.16s 23002 
+COUNT GENE FREQ COST (2.61 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 3 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 3/0/0) BestFit: 0.8806 (zero: 0.8806) last: 0.8806 [u:0.0000] PopSize:4  Patterns[coverage: (0:1.0000) ] FFE:582695 FFE_OPTs: 0 time passed:2.1367     original parts: 0 parts: 205   interceptParts:99 hh:0 
+
+
+Population state report (3):
+[Population SUPERpop] best: 0.9986 last:0.9959 ZERO: 0.9986/0.9986 size:19  scraps: 0  crossings: 296  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9690 last:0.9556 ZERO: 0.9690/0.9690  size:15  scraps: 412  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+[Population 1] best: 0.9258 last:0.9258 ZERO: 0.9258/0.9014  size:5  scraps: 208  crossings: 98  trees: 1  LatsM: 1  linkageGens: 4
+[Population 2] best: 0.8806 last:0.8806 ZERO: 0.8806/0.8566  size:4  scraps: 205  crossings: 99  trees: 1  LatsM: 1  linkageGens: 4
+SUMARY best: 0.9986 linkGens: 16   pops: 3 (inds:43) [time:4.75]
+SUMARY LINKAGE: time 3.24/4.75 (0.6822)    FFE: 410532.00/582695.00 (0.7045)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:7 FFEchange: 211.00 Time change: 0.00 FFE/sec: 122603.9862 Scraps (used/left): 105/156 Fitness: 0.8582
+Size:3 FFEchange: 115.00 Time change: 0.00 FFE/sec: 120844.7584 Scraps (used/left): 57/211 Fitness: 0.8740
+Size:8 FFEchange: 231.00 Time change: 0.00 FFE/sec: 163615.0363 Scraps (used/left): 115/148 Fitness: 0.8836
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 155690.9485 Scraps (used/left): 15/255 Fitness: 0.8931
+Size:3 FFEchange: 115.00 Time change: 0.00 FFE/sec: 170595.7065 Scraps (used/left): 57/199 Fitness: 0.8992
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 88805.5729 Scraps (used/left): 3/260 Fitness: 0.8993
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 69594.5714 Scraps (used/left): 1/240 Fitness: 0.8995
+Size:12 FFEchange: 245.00 Time change: 0.00 FFE/sec: 128145.4692 Scraps (used/left): 122/126 Fitness: 0.9044
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 61927.3729 Scraps (used/left): 1/242 Fitness: 0.9056
+Size:2 FFEchange: 61.00 Time change: 0.00 FFE/sec: 120702.2015 Scraps (used/left): 30/238 Fitness: 0.9162
+Size:8 FFEchange: 185.00 Time change: 0.00 FFE/sec: 124447.6250 Scraps (used/left): 92/140 Fitness: 0.9191
+Size:3 FFEchange: 59.00 Time change: 0.00 FFE/sec: 119960.5927 Scraps (used/left): 29/184 Fitness: 0.9332
+Size:7 FFEchange: 187.00 Time change: 0.00 FFE/sec: 127554.3181 Scraps (used/left): 93/150 Fitness: 0.9339
+Size:3 FFEchange: 129.00 Time change: 0.00 FFE/sec: 124246.5362 Scraps (used/left): 64/202 Fitness: 0.9449
+Size:4 FFEchange: 95.00 Time change: 0.00 FFE/sec: 120836.5274 Scraps (used/left): 47/164 Fitness: 0.9458
+Size:4 FFEchange: 61.00 Time change: 0.00 FFE/sec: 118205.5768 Scraps (used/left): 30/151 Fitness: 0.9550
+Size:80 FFEchange: 369.00 Time change: 0.00 FFE/sec: 123718.3606 Scraps (used/left): 184/30 Fitness: 0.9623
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 48075.1974 Scraps (used/left): 1/222 Fitness: 0.9633
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 103263.7656 Scraps (used/left): 8/147 Fitness: 0.9871
+Size:5 FFEchange: 183.00 Time change: 0.00 FFE/sec: 122898.6022 Scraps (used/left): 91/167 Fitness: 0.9882
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 99957.6458 Scraps (used/left): 9/176 Fitness: 0.9885
+V_PROCES FINISHED FFE COST: 12525.00   fintess:(0.8377->0.9885)
+blocked improvements: 0  Iteration: 19 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 21/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9885 [u:0.0000] PopSize:20  Patterns[coverage: (0:0.0000) ] FFE:595831 FFE_OPTs: 0 time passed:4.8554     original parts: 0 parts: 0   interceptParts:296 hh:0 
+Executing population 0:
+
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 117785.7834 Scraps (used/left): 12/76 Fitness: 0.8043
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 83993.4483 Scraps (used/left): 1/87 Fitness: 0.8056
+Size:3 FFEchange: 39.00 Time change: 0.00 FFE/sec: 122260.7336 Scraps (used/left): 19/63 Fitness: 0.8060
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 116732.1086 Scraps (used/left): 7/87 Fitness: 0.8105
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 114730.1812 Scraps (used/left): 6/76 Fitness: 0.8129
+Size:6 FFEchange: 85.00 Time change: 0.00 FFE/sec: 125177.6602 Scraps (used/left): 42/46 Fitness: 0.8144
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 120357.6706 Scraps (used/left): 10/77 Fitness: 0.8220
+Size:6 FFEchange: 71.00 Time change: 0.00 FFE/sec: 125048.8142 Scraps (used/left): 35/47 Fitness: 0.8280
+Size:7 FFEchange: 97.00 Time change: 0.00 FFE/sec: 124616.8618 Scraps (used/left): 48/38 Fitness: 0.8328
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 119514.0421 Scraps (used/left): 10/86 Fitness: 0.8387
+Size:7 FFEchange: 93.00 Time change: 0.00 FFE/sec: 125293.3241 Scraps (used/left): 46/43 Fitness: 0.8618
+Size:10 FFEchange: 85.00 Time change: 0.00 FFE/sec: 123313.7880 Scraps (used/left): 42/29 Fitness: 0.8890
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 117106.2500 Scraps (used/left): 12/65 Fitness: 0.8933
+Size:10 FFEchange: 77.00 Time change: 0.00 FFE/sec: 131434.7372 Scraps (used/left): 38/30 Fitness: 0.8957
+Size:12 FFEchange: 79.00 Time change: 0.00 FFE/sec: 127352.0781 Scraps (used/left): 39/25 Fitness: 0.9101
+V_PROCES FINISHED FFE COST: 749.00   fintess:(0.8003->0.9101)
+blocked improvements: 0  Iteration: 15 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 15/0/0) BestFit: 0.9690 (zero: 0.9690) last: 0.9460 [u:0.0000] PopSize:16  Patterns[coverage: (0:1.0000) ] FFE:597192 FFE_OPTs: 0 time passed:4.8692     original parts: 0 parts: 412   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:3 FFEchange: 29.00 Time change: 0.00 FFE/sec: 121371.9759 Scraps (used/left): 14/73 Fitness: 0.8354
+Size:97 FFEchange: 173.00 Time change: 0.00 FFE/sec: 127041.0401 Scraps (used/left): 86/1 Fitness: 0.8663
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 96659.1270 Scraps (used/left): 2/86 Fitness: 0.8699
+Size:9 FFEchange: 53.00 Time change: 0.00 FFE/sec: 127190.0788 Scraps (used/left): 26/44 Fitness: 0.8710
+V_PROCES FINISHED FFE COST: 430.00   fintess:(0.8349->0.8710)
+blocked improvements: 0  Iteration: 5 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 4/0/0) BestFit: 0.9258 (zero: 0.9258) last: 0.8927 [u:0.0000] PopSize:6  Patterns[coverage: (0:0.9900) ] FFE:598234 FFE_OPTs: 0 time passed:2.8790     original parts: 0 parts: 208   interceptParts:98 hh:0 
+Executing population 2:
+
+Size:3 FFEchange: 27.00 Time change: 0.00 FFE/sec: 125749.2734 Scraps (used/left): 13/74 Fitness: 0.8445
+Size:98 FFEchange: 187.00 Time change: 0.00 FFE/sec: 115872.9255 Scraps (used/left): 93/2 Fitness: 0.8637
+V_PROCES FINISHED FFE COST: 580.00   fintess:(0.8413->0.8637)
+blocked improvements: 0  Iteration: 4 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 2/0/0) BestFit: 0.8806 (zero: 0.8806) last: 0.8637 [u:0.0000] PopSize:5  Patterns[coverage: (0:1.0000) ] FFE:599625 FFE_OPTs: 0 time passed:2.2827     original parts: 0 parts: 205   interceptParts:99 hh:0 
+
+
+Population state report (3):
+[Population SUPERpop] best: 0.9986 last:0.9885 ZERO: 0.9986/0.9986 size:20  scraps: 0  crossings: 296  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9690 last:0.9460 ZERO: 0.9690/0.9690  size:16  scraps: 412  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+[Population 1] best: 0.9258 last:0.8927 ZERO: 0.9258/0.9258  size:6  scraps: 208  crossings: 98  trees: 1  LatsM: 1  linkageGens: 4
+[Population 2] best: 0.8806 last:0.8806 ZERO: 0.8806/0.8806  size:5  scraps: 205  crossings: 99  trees: 1  LatsM: 1  linkageGens: 4
+SUMARY best: 0.9986 linkGens: 16   pops: 3 (inds:47) [time:4.89]
+SUMARY LINKAGE: time 3.24/4.89 (0.6618)    FFE: 410532.00/599625.00 (0.6846)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+
+Size:6 FFEchange: 307.00 Time change: 0.00 FFE/sec: 125658.4893 Scraps (used/left): 153/216 Fitness: 0.8346
+Size:2 FFEchange: 59.00 Time change: 0.00 FFE/sec: 114878.3293 Scraps (used/left): 29/319 Fitness: 0.8433
+Size:2 FFEchange: 127.00 Time change: 0.00 FFE/sec: 123442.8851 Scraps (used/left): 63/301 Fitness: 0.8548
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 84970.1163 Scraps (used/left): 7/352 Fitness: 0.8604
+Size:2 FFEchange: 133.00 Time change: 0.00 FFE/sec: 121882.1407 Scraps (used/left): 66/306 Fitness: 0.8637
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 101355.8523 Scraps (used/left): 15/331 Fitness: 0.8674
+Size:6 FFEchange: 293.00 Time change: 0.00 FFE/sec: 125627.9405 Scraps (used/left): 146/226 Fitness: 0.8686
+Size:7 FFEchange: 297.00 Time change: 0.00 FFE/sec: 127567.5489 Scraps (used/left): 148/205 Fitness: 0.8711
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 93190.6201 Scraps (used/left): 14/358 Fitness: 0.8890
+Size:5 FFEchange: 195.00 Time change: 0.00 FFE/sec: 121696.8870 Scraps (used/left): 97/237 Fitness: 0.9063
+Size:3 FFEchange: 175.00 Time change: 0.00 FFE/sec: 123412.4928 Scraps (used/left): 87/265 Fitness: 0.9077
+Size:8 FFEchange: 359.00 Time change: 0.00 FFE/sec: 119952.7833 Scraps (used/left): 179/198 Fitness: 0.9221
+Size:10 FFEchange: 337.00 Time change: 0.00 FFE/sec: 128140.4886 Scraps (used/left): 168/178 Fitness: 0.9232
+Size:6 FFEchange: 241.00 Time change: 0.00 FFE/sec: 127117.8454 Scraps (used/left): 120/219 Fitness: 0.9293
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 99301.6067 Scraps (used/left): 8/362 Fitness: 0.9294
+Size:4 FFEchange: 171.00 Time change: 0.00 FFE/sec: 129919.9969 Scraps (used/left): 85/245 Fitness: 0.9345
+Size:16 FFEchange: 317.00 Time change: 0.00 FFE/sec: 142122.5419 Scraps (used/left): 158/145 Fitness: 0.9381
+Size:78 FFEchange: 581.00 Time change: 0.00 FFE/sec: 165909.2157 Scraps (used/left): 290/36 Fitness: 0.9387
+Size:3 FFEchange: 105.00 Time change: 0.00 FFE/sec: 116838.7620 Scraps (used/left): 52/264 Fitness: 0.9527
+Size:23 FFEchange: 393.00 Time change: 0.00 FFE/sec: 158541.4591 Scraps (used/left): 196/122 Fitness: 0.9690
+Size:7 FFEchange: 259.00 Time change: 0.00 FFE/sec: 150854.8039 Scraps (used/left): 129/204 Fitness: 0.9697
+Size:35 FFEchange: 365.00 Time change: 0.00 FFE/sec: 127191.7954 Scraps (used/left): 182/100 Fitness: 0.9774
+V_PROCES FINISHED FFE COST: 21170.00   fintess:(0.8271->0.9774)
+blocked improvements: 0  Iteration: 20 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 22/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9774 [u:0.0000] PopSize:21  Patterns[coverage: (0:0.0000) ] FFE:621506 FFE_OPTs: 0 time passed:5.0597     original parts: 0 parts: 0   interceptParts:393 hh:0 
+Executing SUPERpop
+
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 92499.1139 Scraps (used/left): 4/246 Fitness: 0.8219
+Size:9 FFEchange: 237.00 Time change: 0.00 FFE/sec: 127295.9140 Scraps (used/left): 118/144 Fitness: 0.8228
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 82953.2817 Scraps (used/left): 5/267 Fitness: 0.8329
+Size:2 FFEchange: 51.00 Time change: 0.00 FFE/sec: 118649.7708 Scraps (used/left): 25/257 Fitness: 0.8417
+Size:2 FFEchange: 33.00 Time change: 0.00 FFE/sec: 119437.9346 Scraps (used/left): 16/242 Fitness: 0.8420
+Size:2 FFEchange: 59.00 Time change: 0.00 FFE/sec: 120665.6507 Scraps (used/left): 29/233 Fitness: 0.8555
+Size:3 FFEchange: 101.00 Time change: 0.00 FFE/sec: 125775.4652 Scraps (used/left): 50/225 Fitness: 0.8581
+Size:6 FFEchange: 195.00 Time change: 0.00 FFE/sec: 127855.4374 Scraps (used/left): 97/167 Fitness: 0.8603
+Size:95 FFEchange: 527.00 Time change: 0.00 FFE/sec: 127576.2145 Scraps (used/left): 263/10 Fitness: 0.8614
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 106636.8433 Scraps (used/left): 9/213 Fitness: 0.8670
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 70945.9223 Scraps (used/left): 1/267 Fitness: 0.8956
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 72350.7921 Scraps (used/left): 1/232 Fitness: 0.8978
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 118958.1628 Scraps (used/left): 10/224 Fitness: 0.9076
+Size:2 FFEchange: 53.00 Time change: 0.00 FFE/sec: 125581.6440 Scraps (used/left): 26/244 Fitness: 0.9180
+Size:8 FFEchange: 241.00 Time change: 0.00 FFE/sec: 128847.7195 Scraps (used/left): 120/145 Fitness: 0.9231
+Size:7 FFEchange: 229.00 Time change: 0.00 FFE/sec: 170947.1315 Scraps (used/left): 114/153 Fitness: 0.9252
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 136843.2584 Scraps (used/left): 7/224 Fitness: 0.9300
+Size:5 FFEchange: 161.00 Time change: 0.00 FFE/sec: 151708.0890 Scraps (used/left): 80/174 Fitness: 0.9398
+Size:14 FFEchange: 317.00 Time change: 0.00 FFE/sec: 128799.2944 Scraps (used/left): 158/118 Fitness: 0.9400
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 99285.7337 Scraps (used/left): 7/233 Fitness: 0.9451
+Size:30 FFEchange: 259.00 Time change: 0.00 FFE/sec: 128018.4233 Scraps (used/left): 129/89 Fitness: 0.9519
+Size:7 FFEchange: 189.00 Time change: 0.00 FFE/sec: 126301.2593 Scraps (used/left): 94/155 Fitness: 0.9526
+Size:20 FFEchange: 285.00 Time change: 0.00 FFE/sec: 130612.5776 Scraps (used/left): 142/102 Fitness: 0.9552
+Size:92 FFEchange: 353.00 Time change: 0.00 FFE/sec: 172416.4688 Scraps (used/left): 176/14 Fitness: 0.9559
+Size:7 FFEchange: 121.00 Time change: 0.00 FFE/sec: 169972.9008 Scraps (used/left): 60/148 Fitness: 0.9584
+Size:18 FFEchange: 71.00 Time change: 0.00 FFE/sec: 167255.8124 Scraps (used/left): 35/87 Fitness: 0.9686
+Size:3 FFEchange: 73.00 Time change: 0.00 FFE/sec: 167907.5826 Scraps (used/left): 36/170 Fitness: 0.9796
+Size:5 FFEchange: 75.00 Time change: 0.00 FFE/sec: 163696.9086 Scraps (used/left): 37/138 Fitness: 0.9897
+Size:30 FFEchange: 201.00 Time change: 0.00 FFE/sec: 128469.6431 Scraps (used/left): 100/89 Fitness: 0.9917
+V_PROCES FINISHED FFE COST: 12401.00   fintess:(0.8188->0.9917)
+blocked improvements: 0  Iteration: 21 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 29/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9917 [u:0.0000] PopSize:22  Patterns[coverage: (0:0.0000) ] FFE:634518 FFE_OPTs: 0 time passed:5.1616     original parts: 0 parts: 0   interceptParts:296 hh:0 
+Executing population 0:
+
+Size:7 FFEchange: 79.00 Time change: 0.00 FFE/sec: 128029.9335 Scraps (used/left): 39/42 Fitness: 0.8378
+Size:13 FFEchange: 109.00 Time change: 0.00 FFE/sec: 129957.5575 Scraps (used/left): 54/24 Fitness: 0.8477
+Size:99 FFEchange: 167.00 Time change: 0.00 FFE/sec: 132071.5162 Scraps (used/left): 83/1 Fitness: 0.8604
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 121001.3607 Scraps (used/left): 11/82 Fitness: 0.8645
+Size:4 FFEchange: 53.00 Time change: 0.00 FFE/sec: 125703.9241 Scraps (used/left): 26/59 Fitness: 0.8670
+Size:10 FFEchange: 123.00 Time change: 0.00 FFE/sec: 127599.9276 Scraps (used/left): 61/28 Fitness: 0.8699
+Size:7 FFEchange: 97.00 Time change: 0.00 FFE/sec: 117959.8452 Scraps (used/left): 48/41 Fitness: 0.8734
+Size:10 FFEchange: 115.00 Time change: 0.00 FFE/sec: 128376.7874 Scraps (used/left): 57/28 Fitness: 0.8753
+Size:11 FFEchange: 115.00 Time change: 0.00 FFE/sec: 127268.5825 Scraps (used/left): 57/27 Fitness: 0.8757
+Size:20 FFEchange: 141.00 Time change: 0.00 FFE/sec: 128296.3056 Scraps (used/left): 70/15 Fitness: 0.8857
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 121078.2749 Scraps (used/left): 8/83 Fitness: 0.8916
+Size:2 FFEchange: 27.00 Time change: 0.00 FFE/sec: 120012.5365 Scraps (used/left): 13/66 Fitness: 0.8921
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 125016.7384 Scraps (used/left): 15/67 Fitness: 0.9017
+Size:19 FFEchange: 117.00 Time change: 0.00 FFE/sec: 130609.4271 Scraps (used/left): 58/16 Fitness: 0.9160
+Size:77 FFEchange: 113.00 Time change: 0.00 FFE/sec: 128559.7992 Scraps (used/left): 56/8 Fitness: 0.9506
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 118627.1104 Scraps (used/left): 7/45 Fitness: 0.9565
+V_PROCES FINISHED FFE COST: 1342.00   fintess:(0.8307->0.9565)
+best fitness increase: 0.9690 -> 0.9805
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.15 sec  23102 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.16s 23102 
+COUNT GENE FREQ COST (0.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 16 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 16/0/0) BestFit: 0.9805 (zero: 0.9805) last: 0.9805 [u:0.0000] PopSize:17  Patterns[coverage: (0:1.0000) ] FFE:659575 FFE_OPTs: 0 time passed:5.3379     original parts: 0 parts: 442   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:32 FFEchange: 123.00 Time change: 0.00 FFE/sec: 170036.6799 Scraps (used/left): 61/21 Fitness: 0.8793
+Size:3 FFEchange: 21.00 Time change: 0.00 FFE/sec: 162904.4904 Scraps (used/left): 10/47 Fitness: 0.8800
+Size:37 FFEchange: 57.00 Time change: 0.00 FFE/sec: 171833.1312 Scraps (used/left): 28/15 Fitness: 0.8846
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 157714.3165 Scraps (used/left): 4/83 Fitness: 0.8883
+Size:14 FFEchange: 59.00 Time change: 0.00 FFE/sec: 171699.8686 Scraps (used/left): 29/21 Fitness: 0.8957
+V_PROCES FINISHED FFE COST: 409.00   fintess:(0.8615->0.8957)
+best fitness increase: 0.9258 -> 0.9297
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.14 sec  22402 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 98
+...linkage COST: 0.15s 22402 
+COUNT GENE FREQ COST (2.00 sec  0 ffe)
+
+(0:0.9900) 
+blocked improvements: 0  Iteration: 6 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 5/0/0) BestFit: 0.9297 (zero: 0.9297) last: 0.9297 [u:0.0000] PopSize:7  Patterns[coverage: (0:0.9900) ] FFE:683299 FFE_OPTs: 0 time passed:3.4998     original parts: 0 parts: 253   interceptParts:98 hh:0 
+Executing population 2:
+
+V_PROCES FINISHED FFE COST: 888.00   fintess:(0.8780->0.8780)
+blocked improvements: 0  Iteration: 5 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 0.8806 (zero: 0.8806) last: 0.8780 [u:0.0000] PopSize:6  Patterns[coverage: (0:1.0000) ] FFE:684898 FFE_OPTs: 0 time passed:2.9046     original parts: 0 parts: 205   interceptParts:99 hh:0 
+
+
+Population state report (3):
+[Population SUPERpop] best: 0.9986 last:0.9917 ZERO: 0.9986/0.9986 size:22  scraps: 0  crossings: 296  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9805 last:0.9805 ZERO: 0.9805/0.9690  size:17  scraps: 442  crossings: 99  trees: 1  LatsM: 1  linkageGens: 9
+[Population 1] best: 0.9297 last:0.9297 ZERO: 0.9297/0.9258  size:7  scraps: 253  crossings: 98  trees: 1  LatsM: 1  linkageGens: 5
+[Population 2] best: 0.8806 last:0.8780 ZERO: 0.8806/0.8806  size:6  scraps: 205  crossings: 99  trees: 1  LatsM: 1  linkageGens: 4
+SUMARY best: 0.9986 linkGens: 18   pops: 3 (inds:52) [time:5.51]
+SUMARY LINKAGE: time 3.55/5.51 (0.6435)    FFE: 456036.00/684898.00 (0.6658)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 90215.1852 Scraps (used/left): 6/249 Fitness: 0.8765
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 91135.7483 Scraps (used/left): 5/255 Fitness: 0.8813
+Size:3 FFEchange: 97.00 Time change: 0.00 FFE/sec: 125543.8735 Scraps (used/left): 48/207 Fitness: 0.8846
+Size:2 FFEchange: 55.00 Time change: 0.00 FFE/sec: 116192.1509 Scraps (used/left): 27/245 Fitness: 0.8848
+Size:2 FFEchange: 37.00 Time change: 0.00 FFE/sec: 114662.8117 Scraps (used/left): 18/239 Fitness: 0.8858
+Size:6 FFEchange: 197.00 Time change: 0.00 FFE/sec: 128097.8564 Scraps (used/left): 98/163 Fitness: 0.8869
+Size:2 FFEchange: 33.00 Time change: 0.00 FFE/sec: 113694.1018 Scraps (used/left): 16/244 Fitness: 0.8880
+Size:2 FFEchange: 45.00 Time change: 0.00 FFE/sec: 119142.8804 Scraps (used/left): 22/245 Fitness: 0.8904
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 114859.3333 Scraps (used/left): 14/229 Fitness: 0.8910
+Size:3 FFEchange: 115.00 Time change: 0.00 FFE/sec: 126065.7741 Scraps (used/left): 57/202 Fitness: 0.8961
+Size:5 FFEchange: 177.00 Time change: 0.00 FFE/sec: 127706.8632 Scraps (used/left): 88/167 Fitness: 0.8978
+Size:2 FFEchange: 55.00 Time change: 0.00 FFE/sec: 122123.5643 Scraps (used/left): 27/234 Fitness: 0.9016
+Size:2 FFEchange: 89.00 Time change: 0.00 FFE/sec: 124805.4634 Scraps (used/left): 44/211 Fitness: 0.9032
+Size:9 FFEchange: 267.00 Time change: 0.00 FFE/sec: 128225.8024 Scraps (used/left): 133/139 Fitness: 0.9083
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 105904.7826 Scraps (used/left): 9/235 Fitness: 0.9107
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 100525.4921 Scraps (used/left): 6/242 Fitness: 0.9189
+Size:13 FFEchange: 261.00 Time change: 0.00 FFE/sec: 124193.4772 Scraps (used/left): 130/114 Fitness: 0.9236
+Size:13 FFEchange: 251.00 Time change: 0.00 FFE/sec: 129312.2483 Scraps (used/left): 125/114 Fitness: 0.9279
+Size:13 FFEchange: 319.00 Time change: 0.00 FFE/sec: 128348.7595 Scraps (used/left): 159/114 Fitness: 0.9346
+Size:17 FFEchange: 289.00 Time change: 0.00 FFE/sec: 128999.2835 Scraps (used/left): 144/101 Fitness: 0.9391
+Size:2 FFEchange: 75.00 Time change: 0.00 FFE/sec: 110584.5944 Scraps (used/left): 37/236 Fitness: 0.9502
+Size:9 FFEchange: 209.00 Time change: 0.00 FFE/sec: 126449.1530 Scraps (used/left): 104/136 Fitness: 0.9595
+Size:6 FFEchange: 177.00 Time change: 0.00 FFE/sec: 115990.9524 Scraps (used/left): 88/149 Fitness: 0.9640
+Size:3 FFEchange: 105.00 Time change: 0.00 FFE/sec: 119402.4510 Scraps (used/left): 52/174 Fitness: 0.9653
+Size:3 FFEchange: 77.00 Time change: 0.00 FFE/sec: 116785.4110 Scraps (used/left): 38/201 Fitness: 0.9719
+Size:37 FFEchange: 387.00 Time change: 0.00 FFE/sec: 128760.8892 Scraps (used/left): 193/69 Fitness: 0.9723
+Size:20 FFEchange: 293.00 Time change: 0.00 FFE/sec: 126541.1933 Scraps (used/left): 146/93 Fitness: 0.9826
+Size:18 FFEchange: 217.00 Time change: 0.00 FFE/sec: 119613.2089 Scraps (used/left): 108/98 Fitness: 0.9834
+Size:37 FFEchange: 285.00 Time change: 0.00 FFE/sec: 126426.1246 Scraps (used/left): 142/69 Fitness: 0.9838
+Size:37 FFEchange: 303.00 Time change: 0.00 FFE/sec: 126205.6139 Scraps (used/left): 151/69 Fitness: 0.9845
+Size:53 FFEchange: 251.00 Time change: 0.00 FFE/sec: 125387.2662 Scraps (used/left): 125/50 Fitness: 0.9857
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 105173.1434 Scraps (used/left): 12/134 Fitness: 0.9884
+V_PROCES FINISHED FFE COST: 13496.00   fintess:(0.8678->0.9884)
+blocked improvements: 0  Iteration: 22 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 32/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9884 [u:0.0000] PopSize:23  Patterns[coverage: (0:0.0000) ] FFE:699105 FFE_OPTs: 0 time passed:5.6325     original parts: 0 parts: 0   interceptParts:296 hh:0 
+Executing population 0:
+
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 108639.4131 Scraps (used/left): 9/83 Fitness: 0.8512
+Size:10 FFEchange: 129.00 Time change: 0.00 FFE/sec: 126854.8607 Scraps (used/left): 64/28 Fitness: 0.8598
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 113904.7842 Scraps (used/left): 6/72 Fitness: 0.8675
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 112108.4100 Scraps (used/left): 5/80 Fitness: 0.8877
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 115567.6277 Scraps (used/left): 6/84 Fitness: 0.8989
+Size:3 FFEchange: 33.00 Time change: 0.00 FFE/sec: 124816.3509 Scraps (used/left): 16/61 Fitness: 0.9056
+Size:82 FFEchange: 129.00 Time change: 0.00 FFE/sec: 127369.0677 Scraps (used/left): 64/4 Fitness: 0.9422
+Size:4 FFEchange: 37.00 Time change: 0.00 FFE/sec: 125697.3082 Scraps (used/left): 18/52 Fitness: 0.9458
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 83038.9773 Scraps (used/left): 1/35 Fitness: 0.9461
+Size:9 FFEchange: 57.00 Time change: 0.00 FFE/sec: 128319.0111 Scraps (used/left): 28/29 Fitness: 0.9527
+Size:36 FFEchange: 101.00 Time change: 0.00 FFE/sec: 129278.4078 Scraps (used/left): 50/10 Fitness: 0.9583
+Size:6 FFEchange: 33.00 Time change: 0.00 FFE/sec: 124237.6043 Scraps (used/left): 16/35 Fitness: 0.9592
+V_PROCES FINISHED FFE COST: 1308.00   fintess:(0.8497->0.9592)
+blocked improvements: 0  Iteration: 17 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 12/0/0) BestFit: 0.9805 (zero: 0.9805) last: 0.9592 [u:0.0000] PopSize:18  Patterns[coverage: (0:1.0000) ] FFE:701024 FFE_OPTs: 0 time passed:5.6497     original parts: 0 parts: 442   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 79084.7403 Scraps (used/left): 2/82 Fitness: 0.8608
+Size:4 FFEchange: 51.00 Time change: 0.00 FFE/sec: 125607.9980 Scraps (used/left): 25/57 Fitness: 0.8616
+Size:14 FFEchange: 115.00 Time change: 0.00 FFE/sec: 128200.5263 Scraps (used/left): 57/28 Fitness: 0.8740
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 122322.3362 Scraps (used/left): 11/80 Fitness: 0.8838
+Size:9 FFEchange: 89.00 Time change: 0.00 FFE/sec: 128733.4264 Scraps (used/left): 44/41 Fitness: 0.8957
+Size:15 FFEchange: 103.00 Time change: 0.00 FFE/sec: 128991.4807 Scraps (used/left): 51/26 Fitness: 0.9036
+V_PROCES FINISHED FFE COST: 568.00   fintess:(0.8584->0.9036)
+blocked improvements: 0  Iteration: 7 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 6/0/0) BestFit: 0.9297 (zero: 0.9297) last: 0.9162 [u:0.0000] PopSize:8  Patterns[coverage: (0:0.9900) ] FFE:702404 FFE_OPTs: 0 time passed:3.6623     original parts: 0 parts: 253   interceptParts:98 hh:0 
+Executing population 2:
+
+Size:3 FFEchange: 37.00 Time change: 0.00 FFE/sec: 125173.5694 Scraps (used/left): 18/76 Fitness: 0.8427
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 122322.3362 Scraps (used/left): 11/79 Fitness: 0.8576
+V_PROCES FINISHED FFE COST: 796.00   fintess:(0.8344->0.8576)
+blocked improvements: 0  Iteration: 6 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 2/0/0) BestFit: 0.8806 (zero: 0.8806) last: 0.8653 [u:0.0000] PopSize:7  Patterns[coverage: (0:1.0000) ] FFE:703812 FFE_OPTs: 0 time passed:3.0661     original parts: 0 parts: 205   interceptParts:99 hh:0 
+
+
+Population state report (3):
+[Population SUPERpop] best: 0.9986 last:0.9884 ZERO: 0.9986/0.9986 size:23  scraps: 0  crossings: 296  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9805 last:0.9592 ZERO: 0.9805/0.9805  size:18  scraps: 442  crossings: 99  trees: 1  LatsM: 1  linkageGens: 9
+[Population 1] best: 0.9297 last:0.9162 ZERO: 0.9297/0.9297  size:8  scraps: 253  crossings: 98  trees: 1  LatsM: 1  linkageGens: 5
+[Population 2] best: 0.8806 last:0.8653 ZERO: 0.8806/0.8806  size:7  scraps: 205  crossings: 99  trees: 1  LatsM: 1  linkageGens: 4
+SUMARY best: 0.9986 linkGens: 18   pops: 3 (inds:56) [time:5.68]
+SUMARY LINKAGE: time 3.55/5.68 (0.6251)    FFE: 456036.00/703812.00 (0.6480)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+
+Size:11 FFEchange: 341.00 Time change: 0.00 FFE/sec: 127335.7673 Scraps (used/left): 170/164 Fitness: 0.8264
+Size:2 FFEchange: 75.00 Time change: 0.00 FFE/sec: 119637.0334 Scraps (used/left): 37/321 Fitness: 0.8281
+Size:2 FFEchange: 81.00 Time change: 0.00 FFE/sec: 122243.2528 Scraps (used/left): 40/308 Fitness: 0.8367
+Size:2 FFEchange: 47.00 Time change: 0.00 FFE/sec: 118023.7835 Scraps (used/left): 23/335 Fitness: 0.8410
+Size:5 FFEchange: 261.00 Time change: 0.00 FFE/sec: 129138.0073 Scraps (used/left): 130/242 Fitness: 0.8464
+Size:2 FFEchange: 129.00 Time change: 0.00 FFE/sec: 122934.0728 Scraps (used/left): 64/294 Fitness: 0.8482
+Size:2 FFEchange: 53.00 Time change: 0.00 FFE/sec: 115369.0170 Scraps (used/left): 26/322 Fitness: 0.8585
+Size:9 FFEchange: 241.00 Time change: 0.00 FFE/sec: 125033.0586 Scraps (used/left): 120/188 Fitness: 0.8668
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 101492.0833 Scraps (used/left): 10/328 Fitness: 0.8672
+Size:2 FFEchange: 57.00 Time change: 0.00 FFE/sec: 117662.0085 Scraps (used/left): 28/328 Fitness: 0.8673
+Size:8 FFEchange: 279.00 Time change: 0.00 FFE/sec: 129866.4227 Scraps (used/left): 139/197 Fitness: 0.8676
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 112533.6960 Scraps (used/left): 15/370 Fitness: 0.8816
+Size:2 FFEchange: 47.00 Time change: 0.00 FFE/sec: 117418.5333 Scraps (used/left): 23/305 Fitness: 0.8904
+Size:6 FFEchange: 181.00 Time change: 0.00 FFE/sec: 128312.4593 Scraps (used/left): 90/201 Fitness: 0.8909
+Size:3 FFEchange: 165.00 Time change: 0.00 FFE/sec: 127874.2125 Scraps (used/left): 82/271 Fitness: 0.8971
+Size:3 FFEchange: 137.00 Time change: 0.00 FFE/sec: 123093.3124 Scraps (used/left): 68/281 Fitness: 0.9034
+Size:7 FFEchange: 253.00 Time change: 0.00 FFE/sec: 129439.1787 Scraps (used/left): 126/207 Fitness: 0.9104
+Size:9 FFEchange: 265.00 Time change: 0.00 FFE/sec: 128251.4703 Scraps (used/left): 132/171 Fitness: 0.9154
+Size:9 FFEchange: 297.00 Time change: 0.00 FFE/sec: 147700.1980 Scraps (used/left): 148/189 Fitness: 0.9187
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 130896.3318 Scraps (used/left): 11/310 Fitness: 0.9294
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 141946.9697 Scraps (used/left): 12/306 Fitness: 0.9395
+Size:17 FFEchange: 407.00 Time change: 0.00 FFE/sec: 134899.2611 Scraps (used/left): 203/133 Fitness: 0.9526
+Size:2 FFEchange: 33.00 Time change: 0.00 FFE/sec: 101492.0833 Scraps (used/left): 16/304 Fitness: 0.9529
+Size:2 FFEchange: 35.00 Time change: 0.00 FFE/sec: 101492.0833 Scraps (used/left): 17/272 Fitness: 0.9539
+Size:17 FFEchange: 247.00 Time change: 0.00 FFE/sec: 124383.9301 Scraps (used/left): 123/135 Fitness: 0.9546
+Size:6 FFEchange: 189.00 Time change: 0.00 FFE/sec: 124155.3641 Scraps (used/left): 94/196 Fitness: 0.9557
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 37093.5533 Scraps (used/left): 1/330 Fitness: 0.9625
+Size:11 FFEchange: 117.00 Time change: 0.00 FFE/sec: 123532.6268 Scraps (used/left): 58/161 Fitness: 0.9809
+Size:37 FFEchange: 363.00 Time change: 0.00 FFE/sec: 125632.1441 Scraps (used/left): 181/92 Fitness: 0.9817
+Size:35 FFEchange: 265.00 Time change: 0.00 FFE/sec: 125606.0809 Scraps (used/left): 132/96 Fitness: 0.9893
+V_PROCES FINISHED FFE COST: 20330.00   fintess:(0.8132->0.9893)
+blocked improvements: 0  Iteration: 23 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 30/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9893 [u:0.0000] PopSize:24  Patterns[coverage: (0:0.0000) ] FFE:724653 FFE_OPTs: 0 time passed:5.8454     original parts: 0 parts: 0   interceptParts:393 hh:0 
+Executing SUPERpop
+
+Size:3 FFEchange: 131.00 Time change: 0.00 FFE/sec: 124547.6620 Scraps (used/left): 65/217 Fitness: 0.8642
+Size:3 FFEchange: 115.00 Time change: 0.00 FFE/sec: 123836.4943 Scraps (used/left): 57/222 Fitness: 0.8663
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 108995.3891 Scraps (used/left): 11/251 Fitness: 0.8690
+Size:2 FFEchange: 61.00 Time change: 0.00 FFE/sec: 120604.2289 Scraps (used/left): 30/246 Fitness: 0.8702
+Size:2 FFEchange: 57.00 Time change: 0.00 FFE/sec: 121470.8399 Scraps (used/left): 28/204 Fitness: 0.8711
+Size:4 FFEchange: 167.00 Time change: 0.00 FFE/sec: 119535.7831 Scraps (used/left): 83/183 Fitness: 0.8764
+Size:5 FFEchange: 195.00 Time change: 0.00 FFE/sec: 119222.6280 Scraps (used/left): 97/173 Fitness: 0.8877
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 102863.5980 Scraps (used/left): 12/237 Fitness: 0.8915
+Size:2 FFEchange: 79.00 Time change: 0.00 FFE/sec: 119151.0774 Scraps (used/left): 39/212 Fitness: 0.8952
+Size:2 FFEchange: 51.00 Time change: 0.00 FFE/sec: 115666.9553 Scraps (used/left): 25/245 Fitness: 0.9059
+Size:10 FFEchange: 243.00 Time change: 0.00 FFE/sec: 123802.9345 Scraps (used/left): 121/127 Fitness: 0.9065
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 100609.5435 Scraps (used/left): 9/229 Fitness: 0.9083
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 97893.0733 Scraps (used/left): 8/253 Fitness: 0.9106
+Size:2 FFEchange: 61.00 Time change: 0.00 FFE/sec: 118488.3652 Scraps (used/left): 30/218 Fitness: 0.9144
+Size:2 FFEchange: 57.00 Time change: 0.00 FFE/sec: 118062.2194 Scraps (used/left): 28/236 Fitness: 0.9206
+Size:2 FFEchange: 65.00 Time change: 0.00 FFE/sec: 120036.1259 Scraps (used/left): 32/229 Fitness: 0.9340
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 89450.6497 Scraps (used/left): 6/222 Fitness: 0.9480
+Size:16 FFEchange: 291.00 Time change: 0.00 FFE/sec: 128946.8274 Scraps (used/left): 145/103 Fitness: 0.9566
+Size:9 FFEchange: 229.00 Time change: 0.00 FFE/sec: 126830.4889 Scraps (used/left): 114/136 Fitness: 0.9659
+Size:6 FFEchange: 153.00 Time change: 0.00 FFE/sec: 114353.7680 Scraps (used/left): 76/153 Fitness: 0.9735
+Size:20 FFEchange: 209.00 Time change: 0.00 FFE/sec: 122641.3611 Scraps (used/left): 104/94 Fitness: 0.9797
+Size:7 FFEchange: 201.00 Time change: 0.00 FFE/sec: 127665.6610 Scraps (used/left): 100/154 Fitness: 0.9804
+Size:37 FFEchange: 275.00 Time change: 0.00 FFE/sec: 123588.1458 Scraps (used/left): 137/69 Fitness: 0.9811
+Size:78 FFEchange: 301.00 Time change: 0.00 FFE/sec: 122420.9067 Scraps (used/left): 150/27 Fitness: 0.9838
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 95227.1399 Scraps (used/left): 9/214 Fitness: 0.9969
+V_PROCES FINISHED FFE COST: 16399.00   fintess:(0.8534->0.9969)
+blocked improvements: 0  Iteration: 24 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 25/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9969 [u:0.0000] PopSize:25  Patterns[coverage: (0:0.0000) ] FFE:741563 FFE_OPTs: 0 time passed:5.9857     original parts: 0 parts: 0   interceptParts:296 hh:0 
+Executing population 0:
+
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 103897.1090 Scraps (used/left): 4/77 Fitness: 0.7810
+Size:5 FFEchange: 55.00 Time change: 0.00 FFE/sec: 124507.0167 Scraps (used/left): 27/57 Fitness: 0.7811
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 113904.7842 Scraps (used/left): 6/75 Fitness: 0.7851
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 111280.6599 Scraps (used/left): 4/79 Fitness: 0.8001
+Size:9 FFEchange: 117.00 Time change: 0.00 FFE/sec: 128954.6471 Scraps (used/left): 58/33 Fitness: 0.8111
+Size:5 FFEchange: 59.00 Time change: 0.00 FFE/sec: 127744.7022 Scraps (used/left): 29/57 Fitness: 0.8158
+Size:3 FFEchange: 29.00 Time change: 0.00 FFE/sec: 124582.8748 Scraps (used/left): 14/72 Fitness: 0.8388
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 113586.9948 Scraps (used/left): 4/82 Fitness: 0.8434
+Size:6 FFEchange: 91.00 Time change: 0.00 FFE/sec: 128796.4614 Scraps (used/left): 45/51 Fitness: 0.8546
+Size:10 FFEchange: 121.00 Time change: 0.00 FFE/sec: 128986.0000 Scraps (used/left): 60/30 Fitness: 0.8590
+Size:6 FFEchange: 61.00 Time change: 0.00 FFE/sec: 126670.4263 Scraps (used/left): 30/46 Fitness: 0.8622
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 109066.1194 Scraps (used/left): 4/82 Fitness: 0.8767
+Size:2 FFEchange: 33.00 Time change: 0.00 FFE/sec: 123096.0643 Scraps (used/left): 16/79 Fitness: 0.8820
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 114315.9928 Scraps (used/left): 6/71 Fitness: 0.8848
+Size:11 FFEchange: 101.00 Time change: 0.00 FFE/sec: 127469.8497 Scraps (used/left): 50/25 Fitness: 0.9036
+Size:9 FFEchange: 105.00 Time change: 0.00 FFE/sec: 131428.5971 Scraps (used/left): 52/33 Fitness: 0.9061
+Size:13 FFEchange: 99.00 Time change: 0.00 FFE/sec: 129231.0772 Scraps (used/left): 49/20 Fitness: 0.9327
+Size:18 FFEchange: 81.00 Time change: 0.00 FFE/sec: 127455.1744 Scraps (used/left): 40/17 Fitness: 0.9395
+V_PROCES FINISHED FFE COST: 1014.00   fintess:(0.7777->0.9395)
+blocked improvements: 0  Iteration: 18 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 18/0/0) BestFit: 0.9805 (zero: 0.9805) last: 0.9543 [u:0.0000] PopSize:19  Patterns[coverage: (0:1.0000) ] FFE:743189 FFE_OPTs: 0 time passed:6.0035     original parts: 0 parts: 442   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:3 FFEchange: 45.00 Time change: 0.00 FFE/sec: 123994.8529 Scraps (used/left): 22/73 Fitness: 0.8747
+Size:3 FFEchange: 43.00 Time change: 0.00 FFE/sec: 122646.1710 Scraps (used/left): 21/65 Fitness: 0.8897
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 123710.1401 Scraps (used/left): 14/68 Fitness: 0.8945
+Size:53 FFEchange: 167.00 Time change: 0.00 FFE/sec: 128809.4585 Scraps (used/left): 83/5 Fitness: 0.8979
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 102344.9580 Scraps (used/left): 2/78 Fitness: 0.9099
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 123212.1790 Scraps (used/left): 6/73 Fitness: 0.9126
+Size:29 FFEchange: 135.00 Time change: 0.00 FFE/sec: 133131.3158 Scraps (used/left): 67/21 Fitness: 0.9238
+V_PROCES FINISHED FFE COST: 583.00   fintess:(0.8691->0.9238)
+best fitness increase: 0.9297 -> 0.9350
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.16 sec  23302 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 98
+...linkage COST: 0.17s 23302 
+COUNT GENE FREQ COST (2.00 sec  0 ffe)
+
+(0:0.9900) 
+blocked improvements: 0  Iteration: 8 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 7/0/0) BestFit: 0.9350 (zero: 0.9350) last: 0.9350 [u:0.0000] PopSize:9  Patterns[coverage: (0:0.9900) ] FFE:767787 FFE_OPTs: 0 time passed:4.1856     original parts: 0 parts: 291   interceptParts:98 hh:0 
+Executing population 2:
+
+Size:3 FFEchange: 45.00 Time change: 0.00 FFE/sec: 119142.8804 Scraps (used/left): 22/67 Fitness: 0.8234
+Size:93 FFEchange: 163.00 Time change: 0.00 FFE/sec: 123150.4435 Scraps (used/left): 81/7 Fitness: 0.8277
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 119523.6717 Scraps (used/left): 14/78 Fitness: 0.8391
+Size:98 FFEchange: 177.00 Time change: 0.00 FFE/sec: 123112.0417 Scraps (used/left): 88/2 Fitness: 0.8434
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 109392.6647 Scraps (used/left): 7/85 Fitness: 0.8559
+Size:97 FFEchange: 177.00 Time change: 0.00 FFE/sec: 128467.9291 Scraps (used/left): 88/3 Fitness: 0.8767
+V_PROCES FINISHED FFE COST: 792.00   fintess:(0.8233->0.8767)
+blocked improvements: 0  Iteration: 7 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 6/0/0) BestFit: 0.8806 (zero: 0.8806) last: 0.8767 [u:0.0000] PopSize:8  Patterns[coverage: (0:1.0000) ] FFE:769390 FFE_OPTs: 0 time passed:3.5916     original parts: 0 parts: 205   interceptParts:99 hh:0 
+
+
+Population state report (3):
+[Population SUPERpop] best: 0.9986 last:0.9969 ZERO: 0.9986/0.9986 size:25  scraps: 0  crossings: 296  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9805 last:0.9543 ZERO: 0.9805/0.9805  size:19  scraps: 442  crossings: 99  trees: 1  LatsM: 1  linkageGens: 9
+[Population 1] best: 0.9350 last:0.9350 ZERO: 0.9350/0.9297  size:9  scraps: 291  crossings: 98  trees: 1  LatsM: 1  linkageGens: 6
+[Population 2] best: 0.8806 last:0.8806 ZERO: 0.8806/0.8806  size:8  scraps: 205  crossings: 99  trees: 1  LatsM: 1  linkageGens: 4
+SUMARY best: 0.9986 linkGens: 19   pops: 3 (inds:61) [time:6.20]
+SUMARY LINKAGE: time 3.72/6.20 (0.5994)    FFE: 479338.00/769390.00 (0.6230)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:2 FFEchange: 49.00 Time change: 0.00 FFE/sec: 107915.6329 Scraps (used/left): 24/238 Fitness: 0.8572
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 78344.7661 Scraps (used/left): 5/270 Fitness: 0.8589
+Size:3 FFEchange: 119.00 Time change: 0.00 FFE/sec: 118941.8917 Scraps (used/left): 59/206 Fitness: 0.8639
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 93513.7294 Scraps (used/left): 10/269 Fitness: 0.8679
+Size:2 FFEchange: 79.00 Time change: 0.00 FFE/sec: 114745.9690 Scraps (used/left): 39/230 Fitness: 0.8687
+Size:7 FFEchange: 225.00 Time change: 0.00 FFE/sec: 128080.6847 Scraps (used/left): 112/149 Fitness: 0.8780
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 65832.7027 Scraps (used/left): 3/264 Fitness: 0.8814
+Size:5 FFEchange: 191.00 Time change: 0.00 FFE/sec: 125098.0667 Scraps (used/left): 95/169 Fitness: 0.8880
+Size:3 FFEchange: 135.00 Time change: 0.00 FFE/sec: 124889.6126 Scraps (used/left): 67/205 Fitness: 0.8887
+Size:2 FFEchange: 73.00 Time change: 0.00 FFE/sec: 119579.1056 Scraps (used/left): 36/225 Fitness: 0.8925
+Size:5 FFEchange: 175.00 Time change: 0.00 FFE/sec: 125742.4041 Scraps (used/left): 87/169 Fitness: 0.8938
+Size:13 FFEchange: 261.00 Time change: 0.00 FFE/sec: 125270.2286 Scraps (used/left): 130/117 Fitness: 0.9015
+Size:2 FFEchange: 61.00 Time change: 0.00 FFE/sec: 112820.3569 Scraps (used/left): 30/246 Fitness: 0.9028
+Size:6 FFEchange: 175.00 Time change: 0.00 FFE/sec: 116275.7092 Scraps (used/left): 87/164 Fitness: 0.9043
+Size:3 FFEchange: 131.00 Time change: 0.00 FFE/sec: 116117.5801 Scraps (used/left): 65/187 Fitness: 0.9046
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 79762.0403 Scraps (used/left): 6/256 Fitness: 0.9108
+Size:4 FFEchange: 147.00 Time change: 0.00 FFE/sec: 119354.6900 Scraps (used/left): 73/180 Fitness: 0.9125
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 100321.6639 Scraps (used/left): 12/196 Fitness: 0.9241
+Size:5 FFEchange: 153.00 Time change: 0.00 FFE/sec: 122551.4403 Scraps (used/left): 76/172 Fitness: 0.9259
+Size:2 FFEchange: 47.00 Time change: 0.00 FFE/sec: 114827.5527 Scraps (used/left): 23/219 Fitness: 0.9351
+Size:4 FFEchange: 153.00 Time change: 0.00 FFE/sec: 125438.8859 Scraps (used/left): 76/190 Fitness: 0.9443
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 110881.2188 Scraps (used/left): 15/205 Fitness: 0.9447
+Size:15 FFEchange: 273.00 Time change: 0.00 FFE/sec: 130694.9941 Scraps (used/left): 136/113 Fitness: 0.9500
+Size:3 FFEchange: 117.00 Time change: 0.00 FFE/sec: 128027.7493 Scraps (used/left): 58/205 Fitness: 0.9609
+Size:9 FFEchange: 163.00 Time change: 0.00 FFE/sec: 120314.2515 Scraps (used/left): 81/133 Fitness: 0.9702
+Size:17 FFEchange: 257.00 Time change: 0.00 FFE/sec: 128833.7456 Scraps (used/left): 128/108 Fitness: 0.9709
+Size:20 FFEchange: 201.00 Time change: 0.00 FFE/sec: 129079.3066 Scraps (used/left): 100/96 Fitness: 0.9770
+Size:7 FFEchange: 185.00 Time change: 0.00 FFE/sec: 128200.5263 Scraps (used/left): 92/153 Fitness: 0.9777
+Size:7 FFEchange: 185.00 Time change: 0.00 FFE/sec: 117136.6909 Scraps (used/left): 92/151 Fitness: 0.9804
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 70883.3598 Scraps (used/left): 5/193 Fitness: 0.9833
+Size:17 FFEchange: 155.00 Time change: 0.00 FFE/sec: 132149.3000 Scraps (used/left): 77/97 Fitness: 0.9837
+Size:35 FFEchange: 259.00 Time change: 0.00 FFE/sec: 121415.4715 Scraps (used/left): 129/74 Fitness: 0.9910
+V_PROCES FINISHED FFE COST: 15516.00   fintess:(0.8531->0.9910)
+blocked improvements: 0  Iteration: 25 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 32/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9910 [u:0.0000] PopSize:26  Patterns[coverage: (0:0.0000) ] FFE:785517 FFE_OPTs: 0 time passed:6.3361     original parts: 0 parts: 0   interceptParts:296 hh:0 
+Executing population 0:
+
+Size:8 FFEchange: 93.00 Time change: 0.00 FFE/sec: 126694.8154 Scraps (used/left): 46/40 Fitness: 0.8460
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 88041.3253 Scraps (used/left): 1/87 Fitness: 0.8488
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 111442.2876 Scraps (used/left): 3/82 Fitness: 0.8503
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 126601.3514 Scraps (used/left): 12/84 Fitness: 0.8528
+Size:9 FFEchange: 109.00 Time change: 0.00 FFE/sec: 130148.6716 Scraps (used/left): 54/33 Fitness: 0.8727
+Size:11 FFEchange: 123.00 Time change: 0.00 FFE/sec: 130831.7162 Scraps (used/left): 61/25 Fitness: 0.8814
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 123086.1436 Scraps (used/left): 9/75 Fitness: 0.8953
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 118154.9627 Scraps (used/left): 6/82 Fitness: 0.9046
+Size:9 FFEchange: 103.00 Time change: 0.00 FFE/sec: 128528.9088 Scraps (used/left): 51/33 Fitness: 0.9077
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 118154.9627 Scraps (used/left): 6/73 Fitness: 0.9189
+Size:18 FFEchange: 127.00 Time change: 0.00 FFE/sec: 130526.5274 Scraps (used/left): 63/17 Fitness: 0.9300
+Size:98 FFEchange: 155.00 Time change: 0.00 FFE/sec: 128768.9461 Scraps (used/left): 77/2 Fitness: 0.9505
+Size:9 FFEchange: 47.00 Time change: 0.00 FFE/sec: 125529.6820 Scraps (used/left): 23/20 Fitness: 0.9529
+V_PROCES FINISHED FFE COST: 1725.00   fintess:(0.8278->0.9529)
+best fitness increase: 0.9805 -> 0.9829
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.17 sec  22702 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.19s 22702 
+COUNT GENE FREQ COST (0.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 19 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 13/0/0) BestFit: 0.9829 (zero: 0.9829) last: 0.9829 [u:0.0000] PopSize:20  Patterns[coverage: (0:1.0000) ] FFE:810657 FFE_OPTs: 0 time passed:6.5465     original parts: 0 parts: 476   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:21 FFEchange: 121.00 Time change: 0.00 FFE/sec: 128200.5263 Scraps (used/left): 60/28 Fitness: 0.8196
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 110718.6364 Scraps (used/left): 5/60 Fitness: 0.8248
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 101492.0833 Scraps (used/left): 4/59 Fitness: 0.8414
+Size:91 FFEchange: 159.00 Time change: 0.00 FFE/sec: 133411.5708 Scraps (used/left): 79/3 Fitness: 0.8627
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 99016.6667 Scraps (used/left): 2/78 Fitness: 0.8747
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 117003.9738 Scraps (used/left): 5/71 Fitness: 0.8774
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 101492.0833 Scraps (used/left): 3/68 Fitness: 0.8818
+Size:8 FFEchange: 95.00 Time change: 0.00 FFE/sec: 127213.8263 Scraps (used/left): 47/43 Fitness: 0.8865
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 122434.8942 Scraps (used/left): 9/60 Fitness: 0.9116
+V_PROCES FINISHED FFE COST: 437.00   fintess:(0.8004->0.9116)
+best fitness increase: 0.9350 -> 0.9355
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.17 sec  23002 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.19s 23002 
+COUNT GENE FREQ COST (2.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 9 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 9/0/0) BestFit: 0.9355 (zero: 0.9355) last: 0.9355 [u:0.0000] PopSize:10  Patterns[coverage: (0:1.0000) ] FFE:834809 FFE_OPTs: 0 time passed:4.7491     original parts: 0 parts: 332   interceptParts:99 hh:0 
+Executing population 2:
+
+Size:96 FFEchange: 187.00 Time change: 0.00 FFE/sec: 122577.0910 Scraps (used/left): 93/4 Fitness: 0.8361
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 82105.9551 Scraps (used/left): 1/91 Fitness: 0.8501
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 104094.4444 Scraps (used/left): 2/85 Fitness: 0.8650
+V_PROCES FINISHED FFE COST: 1071.00   fintess:(0.8196->0.8650)
+blocked improvements: 0  Iteration: 8 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 3/0/0) BestFit: 0.8806 (zero: 0.8806) last: 0.8743 [u:0.0000] PopSize:9  Patterns[coverage: (0:1.0000) ] FFE:836592 FFE_OPTs: 0 time passed:4.1561     original parts: 0 parts: 205   interceptParts:99 hh:0 
+
+
+Population state report (3):
+[Population SUPERpop] best: 0.9986 last:0.9910 ZERO: 0.9986/0.9986 size:26  scraps: 0  crossings: 296  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9829 last:0.9829 ZERO: 0.9829/0.9805  size:20  scraps: 476  crossings: 99  trees: 1  LatsM: 1  linkageGens: 10
+[Population 1] best: 0.9355 last:0.9355 ZERO: 0.9355/0.9350  size:10  scraps: 332  crossings: 99  trees: 1  LatsM: 1  linkageGens: 7
+[Population 2] best: 0.8806 last:0.8743 ZERO: 0.8806/0.8806  size:9  scraps: 205  crossings: 99  trees: 1  LatsM: 1  linkageGens: 4
+SUMARY best: 0.9986 linkGens: 21   pops: 3 (inds:65) [time:6.77]
+SUMARY LINKAGE: time 4.10/6.77 (0.6054)    FFE: 525042.00/836592.00 (0.6276)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:83 FFEchange: 517.00 Time change: 0.00 FFE/sec: 129692.4583 Scraps (used/left): 258/23 Fitness: 0.8705
+Size:2 FFEchange: 43.00 Time change: 0.00 FFE/sec: 117553.1201 Scraps (used/left): 21/228 Fitness: 0.8779
+Size:8 FFEchange: 273.00 Time change: 0.00 FFE/sec: 129827.4365 Scraps (used/left): 136/138 Fitness: 0.8819
+Size:6 FFEchange: 191.00 Time change: 0.00 FFE/sec: 135440.9636 Scraps (used/left): 95/149 Fitness: 0.8849
+Size:13 FFEchange: 295.00 Time change: 0.00 FFE/sec: 163161.6599 Scraps (used/left): 147/115 Fitness: 0.8993
+Size:2 FFEchange: 63.00 Time change: 0.00 FFE/sec: 164475.9164 Scraps (used/left): 31/217 Fitness: 0.9104
+Size:2 FFEchange: 95.00 Time change: 0.00 FFE/sec: 169773.9912 Scraps (used/left): 47/208 Fitness: 0.9157
+Size:16 FFEchange: 311.00 Time change: 0.00 FFE/sec: 167856.6164 Scraps (used/left): 155/105 Fitness: 0.9416
+Size:2 FFEchange: 9.00 Time change: 0.00 FFE/sec: 66836.2500 Scraps (used/left): 4/236 Fitness: 0.9496
+Size:8 FFEchange: 167.00 Time change: 0.00 FFE/sec: 127317.7684 Scraps (used/left): 83/138 Fitness: 0.9532
+Size:8 FFEchange: 225.00 Time change: 0.00 FFE/sec: 168996.9935 Scraps (used/left): 112/140 Fitness: 0.9632
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 131456.4127 Scraps (used/left): 8/242 Fitness: 0.9808
+Size:7 FFEchange: 165.00 Time change: 0.00 FFE/sec: 122346.6210 Scraps (used/left): 82/138 Fitness: 0.9825
+Size:36 FFEchange: 297.00 Time change: 0.00 FFE/sec: 159311.9511 Scraps (used/left): 148/68 Fitness: 0.9898
+Size:49 FFEchange: 203.00 Time change: 0.00 FFE/sec: 171750.4099 Scraps (used/left): 101/54 Fitness: 0.9928
+V_PROCES FINISHED FFE COST: 25583.00   fintess:(0.8613->0.9928)
+blocked improvements: 0  Iteration: 26 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 15/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9928 [u:0.0000] PopSize:27  Patterns[coverage: (0:0.0000) ] FFE:862886 FFE_OPTs: 0 time passed:6.9576     original parts: 0 parts: 0   interceptParts:297 hh:0 
+Executing population 0:
+
+Size:8 FFEchange: 99.00 Time change: 0.00 FFE/sec: 172863.9355 Scraps (used/left): 49/36 Fitness: 0.8670
+Size:2 FFEchange: 39.00 Time change: 0.00 FFE/sec: 171165.0270 Scraps (used/left): 19/74 Fitness: 0.8688
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 143282.9412 Scraps (used/left): 2/87 Fitness: 0.8710
+Size:2 FFEchange: 27.00 Time change: 0.00 FFE/sec: 168201.7136 Scraps (used/left): 13/73 Fitness: 0.8998
+Size:8 FFEchange: 121.00 Time change: 0.00 FFE/sec: 173986.4286 Scraps (used/left): 60/34 Fitness: 0.9058
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 159487.5595 Scraps (used/left): 5/74 Fitness: 0.9118
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 160442.5749 Scraps (used/left): 5/76 Fitness: 0.9209
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 168991.6029 Scraps (used/left): 14/68 Fitness: 0.9314
+Size:2 FFEchange: 27.00 Time change: 0.00 FFE/sec: 124088.4340 Scraps (used/left): 13/62 Fitness: 0.9315
+Size:17 FFEchange: 103.00 Time change: 0.00 FFE/sec: 127939.0260 Scraps (used/left): 51/17 Fitness: 0.9379
+Size:18 FFEchange: 93.00 Time change: 0.00 FFE/sec: 126836.6909 Scraps (used/left): 46/14 Fitness: 0.9385
+Size:9 FFEchange: 77.00 Time change: 0.00 FFE/sec: 127590.0476 Scraps (used/left): 38/27 Fitness: 0.9399
+Size:19 FFEchange: 67.00 Time change: 0.00 FFE/sec: 126904.5645 Scraps (used/left): 33/13 Fitness: 0.9484
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 85969.7647 Scraps (used/left): 1/39 Fitness: 0.9513
+Size:20 FFEchange: 47.00 Time change: 0.00 FFE/sec: 127914.0447 Scraps (used/left): 23/9 Fitness: 0.9621
+V_PROCES FINISHED FFE COST: 1463.00   fintess:(0.8619->0.9621)
+blocked improvements: 0  Iteration: 20 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 15/0/0) BestFit: 0.9829 (zero: 0.9829) last: 0.9690 [u:0.0000] PopSize:21  Patterns[coverage: (0:1.0000) ] FFE:865061 FFE_OPTs: 0 time passed:6.9749     original parts: 0 parts: 476   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:3 FFEchange: 51.00 Time change: 0.00 FFE/sec: 126891.0215 Scraps (used/left): 25/67 Fitness: 0.7859
+Size:3 FFEchange: 39.00 Time change: 0.00 FFE/sec: 127855.4374 Scraps (used/left): 19/71 Fitness: 0.7862
+Size:4 FFEchange: 59.00 Time change: 0.00 FFE/sec: 130766.8699 Scraps (used/left): 29/64 Fitness: 0.7968
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 126601.3514 Scraps (used/left): 12/82 Fitness: 0.8067
+Size:5 FFEchange: 81.00 Time change: 0.00 FFE/sec: 129803.0329 Scraps (used/left): 40/55 Fitness: 0.8108
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 93685.0000 Scraps (used/left): 1/83 Fitness: 0.8148
+Size:9 FFEchange: 103.00 Time change: 0.00 FFE/sec: 129926.6857 Scraps (used/left): 51/38 Fitness: 0.8162
+Size:33 FFEchange: 147.00 Time change: 0.00 FFE/sec: 130680.3175 Scraps (used/left): 73/13 Fitness: 0.8162
+Size:3 FFEchange: 39.00 Time change: 0.00 FFE/sec: 128373.7703 Scraps (used/left): 19/60 Fitness: 0.8317
+Size:14 FFEchange: 95.00 Time change: 0.00 FFE/sec: 129782.3612 Scraps (used/left): 47/30 Fitness: 0.8387
+V_PROCES FINISHED FFE COST: 642.00   fintess:(0.7843->0.8387)
+best fitness increase: 0.9355 -> 0.9471
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.16 sec  22502 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.17s 22502 
+COUNT GENE FREQ COST (2.00 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 10 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 10/0/0) BestFit: 0.9471 (zero: 0.9471) last: 0.9471 [u:0.0000] PopSize:11  Patterns[coverage: (0:1.0000) ] FFE:888918 FFE_OPTs: 0 time passed:5.1584     original parts: 0 parts: 373   interceptParts:99 hh:0 
+Executing population 2:
+
+Size:95 FFEchange: 173.00 Time change: 0.00 FFE/sec: 127386.6778 Scraps (used/left): 86/5 Fitness: 0.8447
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 119514.0421 Scraps (used/left): 10/83 Fitness: 0.8462
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 117003.9738 Scraps (used/left): 5/83 Fitness: 0.8684
+Size:3 FFEchange: 33.00 Time change: 0.00 FFE/sec: 119615.6696 Scraps (used/left): 16/69 Fitness: 0.8796
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 95898.0315 Scraps (used/left): 2/69 Fitness: 0.8808
+V_PROCES FINISHED FFE COST: 913.00   fintess:(0.8440->0.8808)
+best fitness increase: 0.8806 -> 0.9031
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/100) 0.0000
+...linkage generation end COST(0.17 sec  23302 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 99
+...linkage COST: 0.19s 23302 
+COUNT GENE FREQ COST (2.61 sec  0 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 9 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 5/0/0) BestFit: 0.9031 (zero: 0.9031) last: 0.9031 [u:0.0000] PopSize:10  Patterns[coverage: (0:1.0000) ] FFE:913946 FFE_OPTs: 0 time passed:4.7565     original parts: 0 parts: 249   interceptParts:99 hh:0 
+
+
+Population state report (3):
+[Population SUPERpop] best: 0.9986 last:0.9928 ZERO: 0.9986/0.9986 size:27  scraps: 0  crossings: 297  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9829 last:0.9690 ZERO: 0.9829/0.9829  size:21  scraps: 476  crossings: 99  trees: 1  LatsM: 1  linkageGens: 10
+[Population 1] best: 0.9471 last:0.9471 ZERO: 0.9471/0.9355  size:11  scraps: 373  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+[Population 2] best: 0.9031 last:0.9031 ZERO: 0.9031/0.8806  size:10  scraps: 249  crossings: 99  trees: 1  LatsM: 1  linkageGens: 5
+SUMARY best: 0.9986 linkGens: 23   pops: 3 (inds:69) [time:7.37]
+SUMARY LINKAGE: time 4.46/7.37 (0.6050)    FFE: 570846.00/913946.00 (0.6246)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 46842.5000 Scraps (used/left): 1/275 Fitness: 0.7961
+Size:3 FFEchange: 109.00 Time change: 0.00 FFE/sec: 121013.3500 Scraps (used/left): 54/218 Fitness: 0.8037
+Size:2 FFEchange: 67.00 Time change: 0.00 FFE/sec: 119823.2526 Scraps (used/left): 33/235 Fitness: 0.8058
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 97203.6854 Scraps (used/left): 8/270 Fitness: 0.8068
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 55359.3182 Scraps (used/left): 1/260 Fitness: 0.8096
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 102632.4438 Scraps (used/left): 7/249 Fitness: 0.8138
+Size:5 FFEchange: 195.00 Time change: 0.00 FFE/sec: 125990.1724 Scraps (used/left): 97/165 Fitness: 0.8181
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 99016.6667 Scraps (used/left): 7/252 Fitness: 0.8241
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 93358.5714 Scraps (used/left): 5/254 Fitness: 0.8293
+Size:3 FFEchange: 147.00 Time change: 0.00 FFE/sec: 125066.0391 Scraps (used/left): 73/197 Fitness: 0.8300
+Size:5 FFEchange: 209.00 Time change: 0.00 FFE/sec: 125855.2015 Scraps (used/left): 104/167 Fitness: 0.8375
+Size:4 FFEchange: 175.00 Time change: 0.00 FFE/sec: 124712.3318 Scraps (used/left): 87/183 Fitness: 0.8399
+Size:7 FFEchange: 267.00 Time change: 0.00 FFE/sec: 125431.2960 Scraps (used/left): 133/148 Fitness: 0.8414
+Size:7 FFEchange: 217.00 Time change: 0.00 FFE/sec: 128543.4752 Scraps (used/left): 108/150 Fitness: 0.8499
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 103967.5000 Scraps (used/left): 10/245 Fitness: 0.8608
+Size:2 FFEchange: 91.00 Time change: 0.00 FFE/sec: 127316.8926 Scraps (used/left): 45/222 Fitness: 0.8676
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 105294.3804 Scraps (used/left): 7/249 Fitness: 0.8677
+Size:5 FFEchange: 167.00 Time change: 0.00 FFE/sec: 126920.5211 Scraps (used/left): 83/165 Fitness: 0.8736
+Size:8 FFEchange: 219.00 Time change: 0.00 FFE/sec: 126618.1794 Scraps (used/left): 109/139 Fitness: 0.8786
+Size:15 FFEchange: 269.00 Time change: 0.00 FFE/sec: 127925.2030 Scraps (used/left): 134/107 Fitness: 0.8840
+Size:2 FFEchange: 65.00 Time change: 0.00 FFE/sec: 122925.1941 Scraps (used/left): 32/229 Fitness: 0.8856
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 103451.3900 Scraps (used/left): 5/259 Fitness: 0.8885
+Size:83 FFEchange: 483.00 Time change: 0.00 FFE/sec: 128804.0541 Scraps (used/left): 241/22 Fitness: 0.8990
+Size:2 FFEchange: 61.00 Time change: 0.00 FFE/sec: 127103.8580 Scraps (used/left): 30/210 Fitness: 0.9173
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 115990.9524 Scraps (used/left): 5/252 Fitness: 0.9231
+Size:5 FFEchange: 181.00 Time change: 0.00 FFE/sec: 126726.5335 Scraps (used/left): 90/173 Fitness: 0.9353
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 71341.7155 Scraps (used/left): 3/241 Fitness: 0.9356
+Size:32 FFEchange: 317.00 Time change: 0.00 FFE/sec: 122954.1035 Scraps (used/left): 158/75 Fitness: 0.9364
+Size:2 FFEchange: 19.00 Time change: 0.00 FFE/sec: 96820.8996 Scraps (used/left): 9/242 Fitness: 0.9390
+Size:7 FFEchange: 169.00 Time change: 0.00 FFE/sec: 126662.1200 Scraps (used/left): 84/143 Fitness: 0.9483
+Size:10 FFEchange: 213.00 Time change: 0.00 FFE/sec: 139394.8227 Scraps (used/left): 106/122 Fitness: 0.9546
+Size:18 FFEchange: 283.00 Time change: 0.00 FFE/sec: 170881.0684 Scraps (used/left): 141/99 Fitness: 0.9552
+Size:5 FFEchange: 143.00 Time change: 0.00 FFE/sec: 168596.7231 Scraps (used/left): 71/163 Fitness: 0.9604
+Size:3 FFEchange: 45.00 Time change: 0.00 FFE/sec: 160250.6579 Scraps (used/left): 22/141 Fitness: 0.9685
+Size:50 FFEchange: 411.00 Time change: 0.00 FFE/sec: 172517.3031 Scraps (used/left): 205/51 Fitness: 0.9718
+Size:3 FFEchange: 63.00 Time change: 0.00 FFE/sec: 119793.9344 Scraps (used/left): 31/167 Fitness: 0.9727
+Size:19 FFEchange: 195.00 Time change: 0.00 FFE/sec: 125226.1930 Scraps (used/left): 97/94 Fitness: 0.9820
+Size:34 FFEchange: 195.00 Time change: 0.00 FFE/sec: 125557.2165 Scraps (used/left): 97/70 Fitness: 0.9841
+Size:18 FFEchange: 223.00 Time change: 0.00 FFE/sec: 124698.2622 Scraps (used/left): 111/98 Fitness: 0.9844
+Size:4 FFEchange: 53.00 Time change: 0.00 FFE/sec: 113045.4729 Scraps (used/left): 26/132 Fitness: 0.9876
+Size:36 FFEchange: 327.00 Time change: 0.00 FFE/sec: 123720.0792 Scraps (used/left): 163/66 Fitness: 0.9949
+V_PROCES FINISHED FFE COST: 15595.00   fintess:(0.7863->0.9949)
+blocked improvements: 0  Iteration: 27 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 41/0/0) BestFit: 0.9986 (zero: 0.9986) last: 0.9949 [u:0.0000] PopSize:28  Patterns[coverage: (0:0.0000) ] FFE:930052 FFE_OPTs: 0 time passed:7.4968     original parts: 0 parts: 0   interceptParts:297 hh:0 
+Executing population 0:
+
+Size:2 FFEchange: 11.00 Time change: 0.00 FFE/sec: 108918.3333 Scraps (used/left): 5/86 Fitness: 0.8062
+Size:7 FFEchange: 101.00 Time change: 0.00 FFE/sec: 122457.3469 Scraps (used/left): 50/42 Fitness: 0.8162
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 76920.3158 Scraps (used/left): 1/95 Fitness: 0.8294
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 115234.0783 Scraps (used/left): 14/74 Fitness: 0.8328
+Size:13 FFEchange: 137.00 Time change: 0.00 FFE/sec: 123916.0676 Scraps (used/left): 68/23 Fitness: 0.8581
+Size:9 FFEchange: 103.00 Time change: 0.00 FFE/sec: 114718.0750 Scraps (used/left): 51/31 Fitness: 0.8655
+Size:2 FFEchange: 21.00 Time change: 0.00 FFE/sec: 111930.0000 Scraps (used/left): 10/75 Fitness: 0.8672
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 99156.8673 Scraps (used/left): 11/69 Fitness: 0.8900
+Size:37 FFEchange: 145.00 Time change: 0.00 FFE/sec: 115952.8726 Scraps (used/left): 72/8 Fitness: 0.9032
+Size:15 FFEchange: 117.00 Time change: 0.00 FFE/sec: 126269.2822 Scraps (used/left): 58/21 Fitness: 0.9034
+Size:10 FFEchange: 105.00 Time change: 0.00 FFE/sec: 127054.1729 Scraps (used/left): 52/25 Fitness: 0.9102
+Size:8 FFEchange: 81.00 Time change: 0.00 FFE/sec: 126151.2852 Scraps (used/left): 40/33 Fitness: 0.9296
+Size:15 FFEchange: 49.00 Time change: 0.00 FFE/sec: 125241.0178 Scraps (used/left): 24/18 Fitness: 0.9375
+Size:9 FFEchange: 49.00 Time change: 0.00 FFE/sec: 123300.2996 Scraps (used/left): 24/24 Fitness: 0.9399
+Size:20 FFEchange: 43.00 Time change: 0.00 FFE/sec: 120390.6092 Scraps (used/left): 21/11 Fitness: 0.9455
+Size:79 FFEchange: 33.00 Time change: 0.00 FFE/sec: 120874.7820 Scraps (used/left): 16/5 Fitness: 0.9474
+V_PROCES FINISHED FFE COST: 1492.00   fintess:(0.8034->0.9474)
+blocked improvements: 0  Iteration: 21 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 16/0/0) BestFit: 0.9829 (zero: 0.9829) last: 0.9474 [u:0.0000] PopSize:22  Patterns[coverage: (0:1.0000) ] FFE:932555 FFE_OPTs: 0 time passed:7.5199     original parts: 0 parts: 476   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:9 FFEchange: 101.00 Time change: 0.00 FFE/sec: 122701.6509 Scraps (used/left): 50/37 Fitness: 0.8544
+Size:31 FFEchange: 135.00 Time change: 0.00 FFE/sec: 122562.1878 Scraps (used/left): 67/13 Fitness: 0.8793
+Size:3 FFEchange: 27.00 Time change: 0.00 FFE/sec: 118285.7374 Scraps (used/left): 13/41 Fitness: 0.8911
+Size:5 FFEchange: 51.00 Time change: 0.00 FFE/sec: 122029.7741 Scraps (used/left): 25/34 Fitness: 0.8942
+Size:7 FFEchange: 79.00 Time change: 0.00 FFE/sec: 124308.1331 Scraps (used/left): 39/45 Fitness: 0.8979
+Size:40 FFEchange: 147.00 Time change: 0.00 FFE/sec: 118251.0139 Scraps (used/left): 73/7 Fitness: 0.9001
+V_PROCES FINISHED FFE COST: 1324.00   fintess:(0.8530->0.9001)
+blocked improvements: 0  Iteration: 11 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 6/0/0) BestFit: 0.9471 (zero: 0.9471) last: 0.9048 [u:0.0000] PopSize:12  Patterns[coverage: (0:1.0000) ] FFE:934691 FFE_OPTs: 0 time passed:5.5394     original parts: 0 parts: 373   interceptParts:99 hh:0 
+Executing population 2:
+
+Size:5 FFEchange: 53.00 Time change: 0.00 FFE/sec: 121446.7827 Scraps (used/left): 26/65 Fitness: 0.7805
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 95148.8281 Scraps (used/left): 2/89 Fitness: 0.7985
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 120338.1431 Scraps (used/left): 14/77 Fitness: 0.8031
+Size:98 FFEchange: 179.00 Time change: 0.00 FFE/sec: 123027.6495 Scraps (used/left): 89/2 Fitness: 0.8096
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 92969.8473 Scraps (used/left): 2/91 Fitness: 0.8211
+Size:96 FFEchange: 163.00 Time change: 0.00 FFE/sec: 123803.2523 Scraps (used/left): 81/4 Fitness: 0.8423
+Size:4 FFEchange: 43.00 Time change: 0.00 FFE/sec: 119839.6224 Scraps (used/left): 21/65 Fitness: 0.8494
+Size:97 FFEchange: 119.00 Time change: 0.00 FFE/sec: 126743.0652 Scraps (used/left): 59/3 Fitness: 0.8615
+Size:4 FFEchange: 39.00 Time change: 0.00 FFE/sec: 124341.0864 Scraps (used/left): 19/65 Fitness: 0.8686
+V_PROCES FINISHED FFE COST: 759.00   fintess:(0.7800->0.8686)
+blocked improvements: 0  Iteration: 10 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 9/0/0) BestFit: 0.9031 (zero: 0.9031) last: 0.8877 [u:0.0000] PopSize:11  Patterns[coverage: (0:1.0000) ] FFE:936162 FFE_OPTs: 0 time passed:4.9447     original parts: 0 parts: 249   interceptParts:99 hh:0 
+
+
+Population state report (3):
+[Population SUPERpop] best: 0.9986 last:0.9949 ZERO: 0.9986/0.9986 size:28  scraps: 0  crossings: 297  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9829 last:0.9706 ZERO: 0.9829/0.9829  size:22  scraps: 476  crossings: 99  trees: 1  LatsM: 1  linkageGens: 10
+[Population 1] best: 0.9471 last:0.9048 ZERO: 0.9471/0.9471  size:12  scraps: 373  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+[Population 2] best: 0.9031 last:0.8877 ZERO: 0.9031/0.9031  size:11  scraps: 249  crossings: 99  trees: 1  LatsM: 1  linkageGens: 5
+SUMARY best: 0.9986 linkGens: 23   pops: 3 (inds:73) [time:7.55]
+SUMARY LINKAGE: time 4.46/7.55 (0.5900)    FFE: 570846.00/936162.00 (0.6098)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+
+Executing SUPERpop
+
+Size:2 FFEchange: 109.00 Time change: 0.00 FFE/sec: 115839.1318 Scraps (used/left): 54/301 Fitness: 0.8309
+Size:4 FFEchange: 227.00 Time change: 0.00 FFE/sec: 123504.3266 Scraps (used/left): 113/243 Fitness: 0.8320
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 137461.0609 Scraps (used/left): 12/349 Fitness: 0.8385
+Size:2 FFEchange: 27.00 Time change: 0.00 FFE/sec: 151886.5358 Scraps (used/left): 13/343 Fitness: 0.8407
+Size:3 FFEchange: 145.00 Time change: 0.00 FFE/sec: 169640.9462 Scraps (used/left): 72/272 Fitness: 0.8428
+Size:2 FFEchange: 93.00 Time change: 0.00 FFE/sec: 167181.0554 Scraps (used/left): 46/300 Fitness: 0.8545
+Size:6 FFEchange: 255.00 Time change: 0.00 FFE/sec: 158816.5559 Scraps (used/left): 127/220 Fitness: 0.8704
+Size:2 FFEchange: 47.00 Time change: 0.00 FFE/sec: 102125.8430 Scraps (used/left): 23/306 Fitness: 0.8787
+Size:2 FFEchange: 37.00 Time change: 0.00 FFE/sec: 104918.4750 Scraps (used/left): 18/343 Fitness: 0.8805
+Size:2 FFEchange: 43.00 Time change: 0.00 FFE/sec: 109103.9896 Scraps (used/left): 21/330 Fitness: 0.8913
+Size:14 FFEchange: 437.00 Time change: 0.00 FFE/sec: 145595.5369 Scraps (used/left): 218/145 Fitness: 0.8967
+Size:3 FFEchange: 153.00 Time change: 0.00 FFE/sec: 163527.3936 Scraps (used/left): 76/261 Fitness: 0.8992
+Size:4 FFEchange: 197.00 Time change: 0.00 FFE/sec: 166327.4073 Scraps (used/left): 98/251 Fitness: 0.9026
+Size:8 FFEchange: 335.00 Time change: 0.00 FFE/sec: 168211.9872 Scraps (used/left): 167/189 Fitness: 0.9093
+Size:2 FFEchange: 3.00 Time change: 0.00 FFE/sec: 65244.9107 Scraps (used/left): 1/348 Fitness: 0.9173
+Size:11 FFEchange: 293.00 Time change: 0.00 FFE/sec: 171891.2163 Scraps (used/left): 146/161 Fitness: 0.9250
+Size:19 FFEchange: 453.00 Time change: 0.00 FFE/sec: 128394.4531 Scraps (used/left): 226/129 Fitness: 0.9257
+Size:8 FFEchange: 343.00 Time change: 0.00 FFE/sec: 170055.5323 Scraps (used/left): 171/189 Fitness: 0.9390
+Size:3 FFEchange: 163.00 Time change: 0.00 FFE/sec: 167173.4863 Scraps (used/left): 81/257 Fitness: 0.9437
+Size:18 FFEchange: 345.00 Time change: 0.00 FFE/sec: 158288.6513 Scraps (used/left): 172/132 Fitness: 0.9439
+Size:3 FFEchange: 185.00 Time change: 0.00 FFE/sec: 154907.1330 Scraps (used/left): 92/261 Fitness: 0.9557
+Size:14 FFEchange: 361.00 Time change: 0.00 FFE/sec: 123622.5798 Scraps (used/left): 180/147 Fitness: 0.9614
+Size:3 FFEchange: 137.00 Time change: 0.00 FFE/sec: 117048.7443 Scraps (used/left): 68/275 Fitness: 0.9683
+Size:10 FFEchange: 237.00 Time change: 0.00 FFE/sec: 120368.4258 Scraps (used/left): 118/165 Fitness: 0.9692
+Size:8 FFEchange: 271.00 Time change: 0.00 FFE/sec: 122582.0817 Scraps (used/left): 135/190 Fitness: 0.9793
+Size:6 FFEchange: 199.00 Time change: 0.00 FFE/sec: 122035.7981 Scraps (used/left): 99/206 Fitness: 0.9880
+Size:18 FFEchange: 305.00 Time change: 0.00 FFE/sec: 121551.3825 Scraps (used/left): 152/128 Fitness: 0.9886
+Size:3 FFEchange: 101.00 Time change: 0.00 FFE/sec: 117318.4597 Scraps (used/left): 50/204 Fitness: 0.9922
+Size:36 FFEchange: 275.00 Time change: 0.00 FFE/sec: 126053.3967 Scraps (used/left): 137/90 Fitness: 0.9999
+Size:40 FFEchange: 249.00 Time change: 0.00 FFE/sec: 126383.9737 Scraps (used/left): 124/84 Fitness: 1.0000
+V_PROCES FINISHED FFE COST: 29882.00   fintess:(0.8286->1.0000)
+best fitness increase: 0.9986 -> 1.0000
+blocked improvements: 0  Iteration: 28 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 30/0/0) BestFit: 1.0000 (zero: 1.0000) last: 1.0000 [u:0.0000] PopSize:29  Patterns[coverage: (0:0.0000) ] FFE:966655 FFE_OPTs: 0 time passed:7.7917     original parts: 0 parts: 0   interceptParts:394 hh:0 
+Executing SUPERpop
+
+Size:3 FFEchange: 175.00 Time change: 0.00 FFE/sec: 149830.1406 Scraps (used/left): 87/269 Fitness: 0.8471
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 142191.9543 Scraps (used/left): 11/325 Fitness: 0.8512
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 146054.3714 Scraps (used/left): 15/335 Fitness: 0.8607
+Size:2 FFEchange: 27.00 Time change: 0.00 FFE/sec: 128200.5263 Scraps (used/left): 13/356 Fitness: 0.8625
+Size:18 FFEchange: 473.00 Time change: 0.00 FFE/sec: 131402.6152 Scraps (used/left): 236/130 Fitness: 0.8738
+Size:2 FFEchange: 99.00 Time change: 0.00 FFE/sec: 125793.0047 Scraps (used/left): 49/291 Fitness: 0.8770
+Size:15 FFEchange: 461.00 Time change: 0.00 FFE/sec: 144369.8136 Scraps (used/left): 230/142 Fitness: 0.8862
+Size:2 FFEchange: 73.00 Time change: 0.00 FFE/sec: 155431.9318 Scraps (used/left): 36/296 Fitness: 0.9015
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 125481.1212 Scraps (used/left): 8/323 Fitness: 0.9057
+Size:8 FFEchange: 327.00 Time change: 0.00 FFE/sec: 148105.2194 Scraps (used/left): 163/188 Fitness: 0.9122
+Size:2 FFEchange: 29.00 Time change: 0.00 FFE/sec: 101056.4950 Scraps (used/left): 14/319 Fitness: 0.9160
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 80834.4027 Scraps (used/left): 7/314 Fitness: 0.9247
+Size:3 FFEchange: 133.00 Time change: 0.00 FFE/sec: 119323.2891 Scraps (used/left): 66/274 Fitness: 0.9342
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 43341.8149 Scraps (used/left): 2/314 Fitness: 0.9381
+Size:2 FFEchange: 83.00 Time change: 0.00 FFE/sec: 122232.3035 Scraps (used/left): 41/300 Fitness: 0.9428
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 49508.3333 Scraps (used/left): 2/308 Fitness: 0.9523
+Size:18 FFEchange: 333.00 Time change: 0.00 FFE/sec: 112922.8359 Scraps (used/left): 166/132 Fitness: 0.9635
+Size:2 FFEchange: 39.00 Time change: 0.00 FFE/sec: 108443.5959 Scraps (used/left): 19/312 Fitness: 0.9756
+Size:8 FFEchange: 267.00 Time change: 0.00 FFE/sec: 117925.8876 Scraps (used/left): 133/186 Fitness: 0.9776
+Size:7 FFEchange: 207.00 Time change: 0.00 FFE/sec: 120653.9052 Scraps (used/left): 103/193 Fitness: 0.9868
+Size:3 FFEchange: 97.00 Time change: 0.00 FFE/sec: 107838.2337 Scraps (used/left): 48/197 Fitness: 0.9905
+Size:34 FFEchange: 373.00 Time change: 0.00 FFE/sec: 114731.2956 Scraps (used/left): 186/93 Fitness: 0.9912
+Size:36 FFEchange: 241.00 Time change: 0.00 FFE/sec: 128734.6952 Scraps (used/left): 120/89 Fitness: 0.9985
+Size:32 FFEchange: 155.00 Time change: 0.00 FFE/sec: 126018.2076 Scraps (used/left): 77/88 Fitness: 0.9999
+V_PROCES FINISHED FFE COST: 31812.00   fintess:(0.8464->0.9999)
+blocked improvements: 0  Iteration: 29 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 24/0/0) BestFit: 1.0000 (zero: 1.0000) last: 0.9999 [u:0.0000] PopSize:30  Patterns[coverage: (0:0.0000) ] FFE:998978 FFE_OPTs: 0 time passed:8.0481     original parts: 0 parts: 0   interceptParts:394 hh:0 
+Executing population 0:
+
+Size:15 FFEchange: 131.00 Time change: 0.00 FFE/sec: 159147.6858 Scraps (used/left): 65/21 Fitness: 0.7975
+Size:2 FFEchange: 25.00 Time change: 0.00 FFE/sec: 117106.2500 Scraps (used/left): 12/73 Fitness: 0.8126
+Size:4 FFEchange: 59.00 Time change: 0.00 FFE/sec: 120362.4707 Scraps (used/left): 29/58 Fitness: 0.8301
+Size:4 FFEchange: 47.00 Time change: 0.00 FFE/sec: 123365.3772 Scraps (used/left): 23/53 Fitness: 0.8346
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 115567.6277 Scraps (used/left): 6/79 Fitness: 0.8432
+Size:6 FFEchange: 89.00 Time change: 0.00 FFE/sec: 125528.1355 Scraps (used/left): 44/47 Fitness: 0.8478
+Size:3 FFEchange: 61.00 Time change: 0.00 FFE/sec: 124442.5544 Scraps (used/left): 30/61 Fitness: 0.8582
+Size:8 FFEchange: 99.00 Time change: 0.00 FFE/sec: 122782.6833 Scraps (used/left): 49/32 Fitness: 0.8643
+Size:2 FFEchange: 37.00 Time change: 0.00 FFE/sec: 121298.7483 Scraps (used/left): 18/74 Fitness: 0.8653
+Size:11 FFEchange: 137.00 Time change: 0.00 FFE/sec: 141161.5778 Scraps (used/left): 68/25 Fitness: 0.8814
+Size:2 FFEchange: 7.00 Time change: 0.00 FFE/sec: 102099.8204 Scraps (used/left): 3/82 Fitness: 0.8913
+Size:2 FFEchange: 17.00 Time change: 0.00 FFE/sec: 115666.9553 Scraps (used/left): 8/76 Fitness: 0.9001
+Size:2 FFEchange: 33.00 Time change: 0.00 FFE/sec: 129647.9516 Scraps (used/left): 16/73 Fitness: 0.9141
+Size:3 FFEchange: 39.00 Time change: 0.00 FFE/sec: 126157.4900 Scraps (used/left): 19/62 Fitness: 0.9281
+Size:18 FFEchange: 129.00 Time change: 0.00 FFE/sec: 128515.1288 Scraps (used/left): 64/14 Fitness: 0.9430
+Size:19 FFEchange: 107.00 Time change: 0.00 FFE/sec: 128263.6171 Scraps (used/left): 53/12 Fitness: 0.9506
+Size:20 FFEchange: 45.00 Time change: 0.00 FFE/sec: 125127.2260 Scraps (used/left): 22/9 Fitness: 0.9543
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 115147.3818 Scraps (used/left): 6/33 Fitness: 0.9577
+V_PROCES FINISHED FFE COST: 1438.00   fintess:(0.7904->0.9577)
+blocked improvements: 0  Iteration: 22 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 18/0/0) BestFit: 0.9829 (zero: 0.9829) last: 0.9637 [u:0.0000] PopSize:23  Patterns[coverage: (0:1.0000) ] FFE:1001028 FFE_OPTs: 0 time passed:8.0664     original parts: 0 parts: 476   interceptParts:99 hh:0 
+Executing population 1:
+
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 83418.1507 Scraps (used/left): 2/86 Fitness: 0.8505
+Size:7 FFEchange: 81.00 Time change: 0.00 FFE/sec: 127620.0582 Scraps (used/left): 40/44 Fitness: 0.8685
+Size:4 FFEchange: 47.00 Time change: 0.00 FFE/sec: 126221.6869 Scraps (used/left): 23/53 Fitness: 0.8687
+Size:2 FFEchange: 23.00 Time change: 0.00 FFE/sec: 120480.9247 Scraps (used/left): 11/71 Fitness: 0.8751
+Size:5 FFEchange: 57.00 Time change: 0.00 FFE/sec: 127260.4675 Scraps (used/left): 28/51 Fitness: 0.8849
+Size:92 FFEchange: 145.00 Time change: 0.00 FFE/sec: 128014.6611 Scraps (used/left): 72/3 Fitness: 0.8935
+Size:2 FFEchange: 13.00 Time change: 0.00 FFE/sec: 111498.3451 Scraps (used/left): 6/62 Fitness: 0.9151
+Size:5 FFEchange: 65.00 Time change: 0.00 FFE/sec: 126662.1200 Scraps (used/left): 32/50 Fitness: 0.9259
+Size:4 FFEchange: 55.00 Time change: 0.00 FFE/sec: 121239.4118 Scraps (used/left): 27/50 Fitness: 0.9306
+V_PROCES FINISHED FFE COST: 965.00   fintess:(0.8441->0.9306)
+blocked improvements: 0  Iteration: 12 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 9/0/0) BestFit: 0.9471 (zero: 0.9471) last: 0.9306 [u:0.0000] PopSize:13  Patterns[coverage: (0:1.0000) ] FFE:1002604 FFE_OPTs: 0 time passed:6.0811     original parts: 0 parts: 373   interceptParts:99 hh:0 
+Executing population 2:
+
+Size:95 FFEchange: 169.00 Time change: 0.00 FFE/sec: 121038.4857 Scraps (used/left): 84/5 Fitness: 0.8562
+Size:2 FFEchange: 15.00 Time change: 0.00 FFE/sec: 115259.1483 Scraps (used/left): 7/84 Fitness: 0.8599
+Size:2 FFEchange: 5.00 Time change: 0.00 FFE/sec: 99016.6667 Scraps (used/left): 2/66 Fitness: 0.8611
+Size:97 FFEchange: 165.00 Time change: 0.00 FFE/sec: 123626.1612 Scraps (used/left): 82/3 Fitness: 0.8838
+V_PROCES FINISHED FFE COST: 1526.00   fintess:(0.8351->0.8838)
+blocked improvements: 0  Iteration: 11 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 4/0/0) BestFit: 0.9031 (zero: 0.9031) last: 0.8838 [u:0.0000] PopSize:12  Patterns[coverage: (0:1.0000) ] FFE:1004841 FFE_OPTs: 0 time passed:5.4919     original parts: 0 parts: 249   interceptParts:99 hh:0 
+Executing population 3:
+
+Size:8 FFEchange: 79.00 Time change: 0.00 FFE/sec: 123272.8956 Scraps (used/left): 39/52 Fitness: 0.8322
+V_PROCES FINISHED FFE COST: 79.00   fintess:(0.8268->0.8322)
+blocked improvements: 0  Iteration: 1 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 1/0/0) BestFit: 0.8951 (zero: 0.8951) last: 0.8410 [u:0.0000] PopSize:2  Patterns[coverage: (0:0.9800) ] FFE:1005632 FFE_OPTs: 0 time passed:4.4275     original parts: 0 parts: 113   interceptParts:97 hh:0 
+
+
+Population state report (4):
+[Population SUPERpop] best: 1.0000 last:0.9999 ZERO: 1.0000/1.0000 size:30  scraps: 0  crossings: 394  trees: 1  LatsM: 1  linkageGens: 0
+[Population 0] best: 0.9829 last:0.9637 ZERO: 0.9829/0.9829  size:23  scraps: 476  crossings: 99  trees: 1  LatsM: 1  linkageGens: 10
+[Population 1] best: 0.9471 last:0.9306 ZERO: 0.9471/0.9471  size:13  scraps: 373  crossings: 99  trees: 1  LatsM: 1  linkageGens: 8
+[Population 2] best: 0.9031 last:0.8877 ZERO: 0.9031/0.9031  size:12  scraps: 249  crossings: 99  trees: 1  LatsM: 1  linkageGens: 5
+[Population 3] best: 0.8951 last:0.8410 ZERO: 0.8951/0.8951  size:2  scraps: 113  crossings: 97  trees: 1  LatsM: 1  linkageGens: 2
+SUMARY best: 1.0000 linkGens: 25   pops: 4 (inds:80) [time:8.11]
+SUMARY LINKAGE: time 4.90/8.11 (0.6046)    FFE: 628150.00/1005632.00 (0.6246)
+SUMMARY LINKAGE QUALITY/ groupped trees:1
+
+

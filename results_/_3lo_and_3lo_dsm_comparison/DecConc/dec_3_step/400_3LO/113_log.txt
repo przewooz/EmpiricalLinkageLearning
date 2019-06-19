@@ -1,0 +1,153 @@
+Initializing...
+DONE...
+Initializing...
+DONE...
+Initializing...
+DONE...
+Executing SUPERpop
+
+V_PROCES FINISHED FFE COST: 0.00   fintess:(112.0000->112.0000)
+best fitness increase: 0.0000 -> 112.0000
+blocked improvements: 0  Iteration: 0 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 112.0000 (zero: 112.0000) last: 112.0000 [u:0.0000] PopSize:1  Patterns[coverage: (0:0.0000) ] FFE:1607 FFE_OPTs: 0 time passed:0.0041     original parts: 0 parts: 0   interceptParts:0 hh:0 
+Executing population 0:
+
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/399) 0.0000
+...linkage generation end COST(0.29 sec  319601 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 331
+...linkage COST: 0.77s 319601 
+(0:0.9799) 
+V_PROCES FINISHED FFE COST: 0.00   fintess:(118.0000->118.0000)
+best fitness increase: 0.0000 -> 118.0000
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/399) 0.0000
+...linkage generation end COST(0.27 sec  310424 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 340
+...linkage COST: 0.79s 310424 
+COUNT GENE FREQ COST (0.14 sec  7972 ffe)
+
+Linkage generation start...
+00 vGeneratePatternSingle level=1
+01 vGeneratePatternSingle level=1
+...linkage generation end COST(0.03 sec  21524 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 0
+...linkage COST: 0.03s 21524 
+COUNT GENE FREQ COST (0.06 sec  466 ffe)
+
+(0:0.9950) 
+blocked improvements: 0  Iteration: 0 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 118.0000 (zero: 118.0000) last: 118.0000 [u:0.0000] PopSize:1  Patterns[coverage: (0:0.9950) (1:0.0000) ] FFE:663203 FFE_OPTs: 0 time passed:1.7995     original parts: 0 parts: 651   interceptParts:340 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 112.0000 last:112.0000 ZERO: 112.0000/0.0000 size:1  scraps: 0  crossings: 0  trees: 0  LatsM: 1  linkageGens: 0
+[Population 0] best: 118.0000 last:118.0000 ZERO: 118.0000/0.0000  size:1  scraps: 651/0  crossings: 340/0  trees: 59/59  LatsM: 1  linkageGens: 3
+SUMARY best: 118.0000 linkGens: 3   pops: 1 (inds:2) [time:1.80]
+SUMARY LINKAGE: time 1.60/1.80 (0.8850)    FFE: 651549.00/663203.00 (0.9824)
+SUMMARY LINKAGE QUALITY/ groupped trees:59/59
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:2 FFEchange: 66.00 Time change: 0.00 FFE/sec: 505545.4717 Scraps (used/left): 28/286 Fitness: 118.0000
+Size:2 FFEchange: 45.00 Time change: 0.00 FFE/sec: 441981.6532 Scraps (used/left): 17/287 Fitness: 119.0000
+V_PROCES FINISHED FFE COST: 111.00   fintess:(117.0000->119.0000)
+best fitness increase: 112.0000 -> 226.0000
+blocked improvements: 0  Iteration: 1 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 226.0000 (zero: 226.0000) last: 128.0000 [u:0.0000] PopSize:2  Patterns[coverage: (0:0.0000) (1:0.0000) ] FFE:667675 FFE_OPTs: 0 time passed:1.8181     original parts: 0 parts: 0   interceptParts:340 hh:0 
+Executing population 0:
+
+Size:2 FFEchange: 75.00 Time change: 0.00 FFE/sec: 521959.2857 Scraps (used/left): 32/292 Fitness: 115.0000
+V_PROCES FINISHED FFE COST: 75.00   fintess:(114.0000->115.0000)
+best fitness increase: 118.0000 -> 226.0000
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/399) 0.0000
+...linkage generation end COST(0.32 sec  314015 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 342
+...linkage COST: 0.82s 314015 
+COUNT GENE FREQ COST (0.18 sec  8096 ffe)
+
+Linkage generation start...
+00 vGeneratePatternSingle level=1
+01 vGeneratePatternSingle level=1
+...linkage generation end COST(0.03 sec  20352 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 0
+...linkage COST: 0.03s 20352 
+COUNT GENE FREQ COST (0.06 sec  696 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 1 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 226.0000 (zero: 226.0000) last: 117.0000 [u:0.0000] PopSize:2  Patterns[coverage: (0:1.0000) (1:0.0000) ] FFE:1015273 FFE_OPTs: 0 time passed:2.9184     original parts: 0 parts: 975   interceptParts:342 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 226.0000 last:226.0000 ZERO: 226.0000/112.0000 size:2  scraps: 0  crossings: 340/0  trees: 59/59  LatsM: 1  linkageGens: 0
+[Population 0] best: 226.0000 last:226.0000 ZERO: 226.0000/118.0000  size:2  scraps: 975/0  crossings: 342/0  trees: 57/57  LatsM: 1  linkageGens: 5
+SUMARY best: 226.0000 linkGens: 5   pops: 1 (inds:4) [time:2.92]
+SUMARY LINKAGE: time 2.45/2.92 (0.8390)    FFE: 985916.00/1015273.00 (0.9711)
+SUMMARY LINKAGE QUALITY/ groupped trees:57/57
+
+
+Executing SUPERpop
+join linkage for superpop
+
+Size:2 FFEchange: 30.00 Time change: 0.00 FFE/sec: 459586.7925 Scraps (used/left): 13/296 Fitness: 124.0000
+Size:2 FFEchange: 114.00 Time change: 0.00 FFE/sec: 528918.7429 Scraps (used/left): 46/258 Fitness: 125.0000
+Size:2 FFEchange: 50.00 Time change: 0.00 FFE/sec: 493078.9474 Scraps (used/left): 21/281 Fitness: 126.0000
+Size:2 FFEchange: 31.00 Time change: 0.00 FFE/sec: 474906.3522 Scraps (used/left): 12/291 Fitness: 127.0000
+V_PROCES FINISHED FFE COST: 225.00   fintess:(123.0000->127.0000)
+best fitness increase: 226.0000 -> 228.0000
+blocked improvements: 0  Iteration: 2 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 228.0000 (zero: 228.0000) last: 135.0000 [u:0.0000] PopSize:3  Patterns[coverage: (0:0.0000) (1:0.0000) ] FFE:1019544 FFE_OPTs: 0 time passed:2.9372     original parts: 0 parts: 0   interceptParts:342 hh:0 
+Executing population 0:
+
+Size:2 FFEchange: 8.00 Time change: 0.00 FFE/sec: 278378.2857 Scraps (used/left): 3/309 Fitness: 115.0000
+Size:2 FFEchange: 46.00 Time change: 0.00 FFE/sec: 480889.5279 Scraps (used/left): 19/283 Fitness: 116.0000
+V_PROCES FINISHED FFE COST: 54.00   fintess:(114.0000->116.0000)
+best fitness increase: 226.0000 -> 228.0000
+Linkage generation start...
+00 vGeneratePatternSingle level=0
+01 vGeneratePatternSingle level=0
+patterns parts (0/399) 0.0000
+...linkage generation end COST(0.27 sec  313217 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 342
+...linkage COST: 0.82s 313217 
+COUNT GENE FREQ COST (0.30 sec  8096 ffe)
+
+Linkage generation start...
+00 vGeneratePatternSingle level=1
+01 vGeneratePatternSingle level=1
+...linkage generation end COST(0.03 sec  20352 ffe)
+
+LastM: 1  
+LastM: 1  tree patterns number: 0
+...linkage COST: 0.03s 20352 
+COUNT GENE FREQ COST (0.06 sec  688 ffe)
+
+(0:1.0000) 
+blocked improvements: 0  Iteration: 2 (next gen ind: 0 new shuffled ind: 0) (upgraded/upgraded other/the same: 0/0/0) BestFit: 228.0000 (zero: 228.0000) last: 121.0000 [u:0.0000] PopSize:3  Patterns[coverage: (0:1.0000) (1:0.0000) ] FFE:1366006 FFE_OPTs: 0 time passed:4.1666     original parts: 0 parts: 1281   interceptParts:342 hh:0 
+
+
+Population state report (1):
+[Population SUPERpop] best: 228.0000 last:228.0000 ZERO: 228.0000/226.0000 size:3  scraps: 0  crossings: 342/0  trees: 57/57  LatsM: 1  linkageGens: 0
+[Population 0] best: 228.0000 last:228.0000 ZERO: 228.0000/226.0000  size:3  scraps: 1281/0  crossings: 342/0  trees: 57/57  LatsM: 1  linkageGens: 7
+SUMARY best: 228.0000 linkGens: 7   pops: 1 (inds:6) [time:4.17]
+SUMARY LINKAGE: time 3.30/4.17 (0.7922)    FFE: 1319485.00/1366006.00 (0.9659)
+SUMMARY LINKAGE QUALITY/ groupped trees:57/57
+
+
