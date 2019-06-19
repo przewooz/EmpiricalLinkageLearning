@@ -4,3 +4,9 @@ https://drive.google.com/open?id=1lRL8etn1MpMLA8UewmrA9S249KbiBnzP
 The password to the repository is the last index term written with only small letters.
 
 Source codes will be available here, if the paper is accepted.
+
+
+
+
+The project shall be compiled with Visual Studio 2017 in Release x64 mode
+The active project shall be set "IslandGA"
