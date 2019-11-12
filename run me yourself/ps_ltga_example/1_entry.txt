@@ -1,1 +1,1 @@
-settings_mpltga_loc.txt
+settings_mpltga.txt

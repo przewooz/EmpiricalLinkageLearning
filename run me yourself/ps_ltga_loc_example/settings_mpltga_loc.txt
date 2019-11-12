@@ -10,6 +10,8 @@ none\\stop_condition_type
 1\\population_size
 1\\do_local_search
 0\\local_search_one_iteration
+0\\without_tournament_selection
+0\\linkage_tree_random_order
 4\\population_creation_frequency
 2\\population_size_multiplier
 
