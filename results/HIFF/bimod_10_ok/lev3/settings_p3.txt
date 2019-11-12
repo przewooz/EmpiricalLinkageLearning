@@ -1,0 +1,11 @@
+_p3\\destination_file
+optimization\\mode
+binary_binary\\problem_type
+binary_deceptive_concatenation\\evaluation_type
+hiff_bimod_10.txt\\evaluation_config_file_path
+p3\\optimizer_type
+running_time\\stop_condition_type
+52200\\stop_condition_time
+default.cfg\\optimizer_config_file_path
+0\\with_feedback
+

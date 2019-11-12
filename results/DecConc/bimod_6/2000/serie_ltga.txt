@@ -1,0 +1,12 @@
+C:\z_mine\research\3LOa\program\IslandGA.exe\\PROGRAM
+C:\z_mine\research\3LOa\_final\DecConc\bimod_6\2000\\DIR
+z_summary_ltga_15.txt\\SUMMFILE
+settings_ltga_15.txt\\25
+z_summary_ltga_30.txt\\SUMMFILE
+settings_ltga_30.txt\\25
+z_summary_ltga_60.txt\\SUMMFILE
+settings_ltga_60.txt\\25
+z_summary_ltga_120.txt\\SUMMFILE
+settings_ltga_120.txt\\25
+
+

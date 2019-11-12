@@ -1,4 +1,0 @@
-C:\z_mine\research\3LOa\program\IslandGA.exe\\PROGRAM
-C:\z_mine\research\3LOa\_final\DecConc\bimod_10_noised_ok\1200\\DIR
-z_summary_3lo.txt\\SUMMFILE
-settings_3lo.txt\\30

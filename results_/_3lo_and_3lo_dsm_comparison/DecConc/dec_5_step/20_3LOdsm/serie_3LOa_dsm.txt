@@ -1,4 +1,0 @@
-C:\z_mine\research\3LOa\program\IslandGA_3lo_dsm.exe\\PROGRAM
-C:\z_mine\research\3LOa\_final\DecConc\dec_5_step\20_3LOdsm\\DIR
-z_summary_3lo_dsm.txt\\SUMMFILE
-settings_3lo.txt\\30

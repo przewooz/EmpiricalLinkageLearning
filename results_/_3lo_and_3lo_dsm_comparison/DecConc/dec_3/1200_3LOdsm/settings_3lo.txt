@@ -1,9 +1,0 @@
-_3lo_dsm\\destination_file
-optimization\\mode
-binary_binary\\problem_type
-binary_deceptive_concatenation\\evaluation_type
-dec_concat.txt\\evaluation_config_file_path
-3LOa\\optimizer_type
-running_time\\stop_condition_type
-43200\\stop_condition_time
-1\\use_dsm

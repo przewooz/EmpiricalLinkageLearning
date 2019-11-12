@@ -1,0 +1,17 @@
+_mpltga\\destination_file
+optimization\\mode
+binary_binary\\problem_type
+binary_nearest_neighbor_nk\\evaluation_type
+600\\evaluation_number_of_elements
+20\\evaluation_problem_seed
+65536\\evaluation_precision
+5\\evaluation_k
+ltga_original_population_sizing\\optimizer_type
+running_time\\stop_condition_type
+52200\\stop_condition_time
+none\\stop_condition_type
+1\\population_size
+0\\do_local_search
+4\\population_creation_frequency
+2\\population_size_multiplier
+

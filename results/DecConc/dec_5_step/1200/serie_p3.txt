@@ -1,0 +1,4 @@
+C:\z_mine\research\3LOa\program\IslandGA.exe\\PROGRAM
+C:\z_mine\research\3LOa\_final\DecConc\dec_5_step\1200\\DIR
+z_summary_p3.txt\\SUMMFILE
+settings_p3.txt\\30

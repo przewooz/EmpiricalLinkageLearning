@@ -1,4 +1,0 @@
-C:\z_mine\research\3LOa\program\IslandGA_mpltga_local.exe\\PROGRAM
-C:\z_mine\research\3LOa\_final\DecConc\bimod_10_noised_ok\400\\DIR
-z_summary_mpltga_loc.txt\\SUMMFILE
-settings_mpltga_loc.txt\\30
