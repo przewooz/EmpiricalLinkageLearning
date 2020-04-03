@@ -1,0 +1,35 @@
+﻿  chromosome.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\chromosome.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+  dsmga2.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\dsmga2.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\dsmga2.cpp(376): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  fastcounting.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\fastcounting.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+  genZobrist.cpp
+  global.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'DWORD64' to 'int', possible loss of data
+  mt19937ar.cpp
+  myrand.cpp
+  nk-wa.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\nk-wa.cpp(12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\nk-wa.cpp(41): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\nk-wa.cpp(89): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\nk-wa.cpp(96): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+  sat.cpp
+  spin.cpp
+  zkey.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\zkey.cpp(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  DSMGA2.vcxproj -> D:\studia\doktoranckie\publikacje\____aaaaa PACZKI\EmpiricalLinkageLearning\sourcecodes\x64\Release\DSMGA2.lib

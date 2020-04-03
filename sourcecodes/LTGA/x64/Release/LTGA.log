@@ -1,0 +1,5 @@
+﻿  LTGA.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\ltga\ltga.cpp(415): warning C4101: 'dummy': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\ltga\ltga.cpp(415): warning C4101: 'j': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\ltga\ltga.cpp(415): warning C4101: 'i': unreferenced local variable
+  LTGA.vcxproj -> D:\studia\doktoranckie\publikacje\____aaaaa PACZKI\EmpiricalLinkageLearning\sourcecodes\x64\Release\LTGA.lib

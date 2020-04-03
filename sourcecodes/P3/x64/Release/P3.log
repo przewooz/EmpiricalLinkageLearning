@@ -1,0 +1,134 @@
+﻿  Configuration.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\configuration.cpp(82): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Evaluation.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(133): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(204): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(220): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(246): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(286): warning C4805: '|': unsafe mix of type 'size_t' and type 'std::vector<bool,std::allocator<_Ty>>::const_reference' in operation
+          with
+          [
+              _Ty=bool
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(313): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(357): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(372): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(373): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(374): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(377): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(390): warning C4805: '==': unsafe mix of type '_Ty' and type 'bool' in operation
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(441): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(472): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(477): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(508): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(578): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(582): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\util.h(76): warning C4805: '|=': unsafe mix of type 'size_t' and type 'std::_Vb_const_iterator<std::_Wrap_alloc<std::allocator<_Ty>>>::const_reference' in operation
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(492): note: see reference to function template instantiation 'float BinaryToFloat::convert<std::_Vb_const_iterator<std::_Wrap_alloc<std::allocator<_Ty>>>>(ForwardIterator &)' being compiled
+          with
+          [
+              _Ty=std::seed_seq::result_type,
+              ForwardIterator=std::_Vb_const_iterator<std::_Wrap_alloc<std::allocator<std::seed_seq::result_type>>>
+          ]
+  Experiments.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\middlelayer.h(36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\experiments.cpp(21): warning C4244: 'argument': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\experiments.cpp(63): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  HillCimb.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\hillcimb.cpp(93): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  LambdaLambda.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\lambdalambda.cpp(29): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\lambdalambda.cpp(67): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\lambdalambda.cpp(116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\lambdalambda.cpp(122): warning C4305: '*=': truncation from 'double' to 'float'
+  LTGA.cpp
+  MiddleLayer.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\middlelayer.h(36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\middlelayer.cpp(31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\middlelayer.cpp(54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  OptimizationCollection.cpp
+  Population.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\population.cpp(17): warning C4267: 'argument': conversion from 'size_t' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\population.cpp(21): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\population.cpp(42): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\population.cpp(45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\population.cpp(58): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\population.cpp(171): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\population.cpp(273): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Pyramid.cpp
+  RandomRestartHC.cpp
+  Record.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\record.cpp(30): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\record.cpp(35): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Util.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\util.cpp(43): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\util.cpp(51): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  P3.vcxproj -> D:\studia\doktoranckie\publikacje\____aaaaa PACZKI\EmpiricalLinkageLearning\sourcecodes\x64\Release\P3.lib

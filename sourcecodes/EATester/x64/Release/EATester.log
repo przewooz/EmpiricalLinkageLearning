@@ -1,0 +1,388 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of Evaluation.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\P3\Evaluation.cpp, Evaluation.cpp.
+  chromosome.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\chromosome.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Evaluation.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(133): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(204): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(220): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(246): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(286): warning C4805: '|': unsafe mix of type 'size_t' and type 'std::vector<bool,std::allocator<_Ty>>::const_reference' in operation
+          with
+          [
+              _Ty=bool
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(313): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(357): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(372): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(373): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(374): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(377): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(390): warning C4805: '==': unsafe mix of type '_Ty' and type 'bool' in operation
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(441): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(472): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(477): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(508): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(578): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(582): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\util.h(76): warning C4805: '|=': unsafe mix of type 'size_t' and type 'std::_Vb_const_iterator<std::_Wrap_alloc<std::allocator<_Ty>>>::const_reference' in operation
+          with
+          [
+              _Ty=std::seed_seq::result_type
+          ]
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\evaluation.cpp(492): note: see reference to function template instantiation 'float BinaryToFloat::convert<std::_Vb_const_iterator<std::_Wrap_alloc<std::allocator<_Ty>>>>(ForwardIterator &)' being compiled
+          with
+          [
+              _Ty=std::seed_seq::result_type,
+              ForwardIterator=std::_Vb_const_iterator<std::_Wrap_alloc<std::allocator<std::seed_seq::result_type>>>
+          ]
+  3LO.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(245): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(417): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(806): warning C4101: 'i_max_ind_level': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(955): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(1142): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(1285): warning C4101: 'i_old_level': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(1290): warning C4101: 'pv_gene_freqs': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(1581): warning C4101: 'd_buf': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(1582): warning C4101: 'i_max_lvl': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(1734): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(1778): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2173): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2232): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2365): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2473): warning C4101: 'i_zeros': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2473): warning C4101: 'i_other': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2473): warning C4101: 'i_ones': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2710): warning C4101: 'i_zeros': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2710): warning C4101: 'i_other': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2710): warning C4101: 'i_ones': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2852): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2847): warning C4101: 'pc_indiv_new': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(2914): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3063): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3095): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3125): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3138): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3227): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3455): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3621): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3665): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3744): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3761): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3763): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3811): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(3817): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(4155): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(4290): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5065): warning C4101: 'i_effect_already_exists_in_the_pop': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5226): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5231): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5324): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5329): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5342): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5206): warning C4101: 'i_effect_already_exists_in_the_pop': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5434): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5472): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5477): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5511): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5566): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5571): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5584): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5452): warning C4101: 'i_effect_already_exists_in_the_pop': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5628): warning C4101: 'pc_best_crossing_node': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5642): warning C4101: 'i_effect_already_exists_in_the_pop': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5861): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5906): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5932): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(5986): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(6120): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(6659): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(6681): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(6717): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7151): warning C4101: 'd_fitnes_buf': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7152): warning C4101: 'i_gene_val': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7262): warning C4101: 'd_ffe_after': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7263): warning C4101: 'd_time_after': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7263): warning C4101: 'd_time_before': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7262): warning C4101: 'd_ffe_before': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7426): warning C4101: 'i_gene_pos_for_check': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7427): warning C4101: 'i_gene_val': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7684): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7721): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7755): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7795): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7979): warning C4101: 'pd_fit_values': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7978): warning C4101: 'pi_optimized_genotypes': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(7980): warning C4101: 'pi_optimized': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8214): warning C4101: 'd_result': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8339): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8344): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8490): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8551): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8581): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8597): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8624): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8728): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8772): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8780): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8792): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(8979): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9164): warning C4101: 'i_common_pos': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9164): warning C4101: 'i_uncommon_pos': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9393): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9424): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9425): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9523): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9845): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9937): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9974): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'unsigned __int64'
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9974): note: consider using '%zd' in the format string
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9976): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'unsigned __int64'
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(9976): note: consider using '%zd' in the format string
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\3lo.cpp(10208): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+  BinaryCoding.cpp
+  BinaryEvaluation.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.h(162): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.h(557): warning C4101: 'b_res': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\binaryevaluation.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'DWORD64' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\binaryevaluation.cpp(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  BinaryGeneration.cpp
+  BinaryOptimizer.cpp
+  CommandExecution.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.h(162): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  CommandParam.cpp
+  CommandParamParser.cpp
+  ComplexCommandParam.cpp
+  CompProblem.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.h(162): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(202): warning C4805: '!=': unsafe mix of type 'int' and type 'bool' in operation
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(486): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(486): note: consider using '%zd' in the format string
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(504): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(504): note: consider using '%zd' in the format string
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(610): warning C4101: 'i_unitation': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(1115): warning C4101: 'i_mirror_uni': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(1661): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(1672): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(1697): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(1600): warning C4101: 'd_value': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(1599): warning C4101: 'i_index': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(1923): warning C4101: 'b_zeroes': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(1923): warning C4101: 'b_ones': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.cpp(1971): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  DSMGA2.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\dsmga2.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'DWORD64' to 'int', possible loss of data
+  EnumCommandParam.cpp
+  Error.cpp
+  Evaluation.cpp
+  EvaluationUtils.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.h(162): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.h(557): warning C4101: 'b_res': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\evaluationutils.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'DWORD64' to 'int', possible loss of data
+  FiberNet.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.h(162): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.h(557): warning C4101: 'b_res': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(190): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(250): warning C4101: 'i_buf': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(366): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(385): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(620): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(679): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(700): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(741): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(788): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(847): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(908): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(956): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(1004): warning C4474: 'fprintf' : too many arguments passed for format string
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(1004): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(986): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(1025): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(1057): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(1107): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(1160): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(1218): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(1271): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(2615): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(2640): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(2673): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(2706): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(2736): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(2882): warning C4101: 'i_slot_number': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(3121): warning C4101: 'b_con_broken': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(3133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(3447): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(3507): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(3604): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(3677): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(3975): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(3979): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4018): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4019): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4020): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4038): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4039): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4040): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4326): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4330): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4635): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4706): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(4770): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(5328): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(5294): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(5301): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(5318): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(5632): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(5642): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(5974): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(5988): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(5992): warning C4474: 'fprintf' : too many arguments passed for format string
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(5992): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(6014): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.cpp(6017): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+  FloatCommandParam.cpp
+  FloatVectorCommandParam.cpp
+  Compiling...
+  Generation.cpp
+  GenerationUtils.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\compproblem.h(162): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\fibernet.h(557): warning C4101: 'b_res': unreferenced local variable
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\generationutils.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'DWORD64' to 'int', possible loss of data
+  Individual.cpp
+  IOUtils.cpp
+  Log.cpp
+  LTGA.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\middlelayer.h(36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  LTGAOriginal.cpp
+  LTGAOriginalPopulationSizing.cpp
+  Main.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\main.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'DWORD64' to 'int', possible loss of data
+  MathUtils.cpp
+  OptimizationCommand.cpp
+  Optimizer.cpp
+  OptimizerUtils.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\global.h(10): warning C4005: 'NDEBUG': macro redefinition
+  d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\optimizerutils.cpp: note: see previous definition of 'NDEBUG'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\dsmga2\bitwisedistance.h(12): warning C4244: 'return': conversion from 'DWORD64' to 'int', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\middlelayer.h(36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  P3.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\middlelayer.h(36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  P3BasedOptimizer.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\p3\middlelayer.h(36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  PopulationOptimizer.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\populationoptimizer.cpp(121): warning C5037: 'CPopulationOptimizer<TGenotype,TFenotype>::vInjectGenotypes': an out-of-line definition of a member of a class template cannot have default arguments
+  PopulationSizingOptimizer.cpp
+  Problem.cpp
+  RandUtils.cpp
+  StopCondition.cpp
+  Compiling...
+  StopConditionUtils.cpp
+  StringCommandParam.cpp
+  StringUtils.cpp
+  System.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\system.cpp(105): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\system.cpp(167): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\system.cpp(200): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\system.cpp(220): warning C4101: 'pf_in_file': unreferenced local variable
+  Transformation.cpp
+  UIntCommandParam.cpp
+  UIntVectorCommandParam.cpp
+  timer.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\util\timer.cpp(34): warning C4244: '=': conversion from 'LONGLONG' to 'double', possible loss of data
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\util\timer.cpp(51): warning C4244: '=': conversion from 'double' to 'LONGLONG', possible loss of data
+  tools.cpp
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\util\tools.cpp(25): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: see declaration of 'fscanf'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\util\tools.cpp(217): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'ATL::CString'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\util\tools.cpp(211): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\studia\doktoranckie\publikacje\____aaaaa paczki\empiricallinkagelearning\sourcecodes\eatester\util\tools.cpp(213): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+x64\Release\Evaluation.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  All 11622 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EATester.vcxproj -> D:\studia\doktoranckie\publikacje\____aaaaa PACZKI\EmpiricalLinkageLearning\sourcecodes\x64\Release\EATester.exe

@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Evaluation">
+      <UniqueIdentifier>{c852e900-821c-43e8-bd86-e0e9fe970428}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Individual">
+      <UniqueIdentifier>{c7f479a9-c44b-44ed-8129-19ca37458cfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\StopCondition">
+      <UniqueIdentifier>{86128f21-f78e-4fec-a96f-233219b35b13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Transformation">
+      <UniqueIdentifier>{a220043f-7638-4528-97df-75f6ce301ca8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Problem">
+      <UniqueIdentifier>{939461f9-c0be-4d10-81fe-0db215efce40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Individual">
+      <UniqueIdentifier>{56f1b8ea-3fa3-417d-8341-62310ecdaf59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem">
+      <UniqueIdentifier>{2d7894bd-5ef6-4cce-b4ea-73bcd303b51d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Transformation">
+      <UniqueIdentifier>{a8aaabae-fa82-49ae-9fa4-1dbc186f7432}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\StopCondition">
+      <UniqueIdentifier>{0511cef7-db30-4e2b-87a5-87149c888db8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Evaluation">
+      <UniqueIdentifier>{e72bc3e8-895a-4623-9bcd-5e9e73b93574}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System">
+      <UniqueIdentifier>{f864f8d2-9202-4993-8140-d8090eb40404}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System">
+      <UniqueIdentifier>{1d892771-28c2-4801-b23d-01189e874283}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Common">
+      <UniqueIdentifier>{6026120c-ba06-444b-aa1e-31665f859f20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Common">
+      <UniqueIdentifier>{4bfeeaf0-bc65-4946-9310-1d2aded90ca0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System\Command">
+      <UniqueIdentifier>{531507d1-3472-4576-8d06-e030def0a518}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\System\Command\Param">
+      <UniqueIdentifier>{f23b58b2-81b4-4bdd-ab04-7712ac5cd0a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\Command">
+      <UniqueIdentifier>{6a030b6a-249d-4594-af39-2d82ac2ce547}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\Command\Param">
+      <UniqueIdentifier>{5419133a-618f-4054-af12-85616ea29020}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Tools">
+      <UniqueIdentifier>{4a8940b2-eea5-4c33-947c-a69a5c79ccfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tools">
+      <UniqueIdentifier>{536a02e3-0fc5-4ab3-a6ab-5b44c07b902d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Optimizer">
+      <UniqueIdentifier>{180608b9-1153-4fdc-b07c-098c7c4391ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Optimizer">
+      <UniqueIdentifier>{8fd3ae45-a421-445a-adc4-ae08c70929cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Optimizer\P3">
+      <UniqueIdentifier>{8751db41-8f4a-4b6a-ad9c-ef59eb04a194}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Optimizer\P3">
+      <UniqueIdentifier>{578f92b0-fff6-4c9c-856d-271208ee40f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Evaluation\P3">
+      <UniqueIdentifier>{49b214ce-5cfe-4511-a5bf-b104ef762d68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Evaluation\P3">
+      <UniqueIdentifier>{e852c0ad-a753-463a-9ae8-4ef4bade08f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Evaluation\DSMGA2">
+      <UniqueIdentifier>{5e04deed-0d0f-47d3-a8ca-a7ce43aa9af9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Evaluation\DSMGA2">
+      <UniqueIdentifier>{e16d4dd7-860c-4078-b4a9-e7a140088daf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Generation">
+      <UniqueIdentifier>{4010106b-433b-4e52-94ef-a5baa264e1df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Generation">
+      <UniqueIdentifier>{987bda79-4472-4611-9413-774464025c67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Optimizer\LTGA">
+      <UniqueIdentifier>{1b5d84f8-f179-4fed-b8c8-4572162eb769}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Optimizer\LTGA">
+      <UniqueIdentifier>{ac586782-af0d-40e7-93a1-fb1dbe17f176}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Evaluation.cpp">
+      <Filter>Source Files\Evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="Individual.cpp">
+      <Filter>Source Files\Individual</Filter>
+    </ClCompile>
+    <ClCompile Include="RandUtils.cpp">
+      <Filter>Source Files\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem.cpp">
+      <Filter>Source Files\Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="StopCondition.cpp">
+      <Filter>Source Files\StopCondition</Filter>
+    </ClCompile>
+    <ClCompile Include="Transformation.cpp">
+      <Filter>Source Files\Transformation</Filter>
+    </ClCompile>
+    <ClCompile Include="Error.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="StopConditionUtils.cpp">
+      <Filter>Source Files\StopCondition</Filter>
+    </ClCompile>
+    <ClCompile Include="IOUtils.cpp">
+      <Filter>Source Files\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandParamParser.cpp">
+      <Filter>Source Files\System\Command\Param</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandParam.cpp">
+      <Filter>Source Files\System\Command\Param</Filter>
+    </ClCompile>
+    <ClCompile Include="FloatCommandParam.cpp">
+      <Filter>Source Files\System\Command\Param</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandExecution.cpp">
+      <Filter>Source Files\System\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="System.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="StringCommandParam.cpp">
+      <Filter>Source Files\System\Command\Param</Filter>
+    </ClCompile>
+    <ClCompile Include="UIntCommandParam.cpp">
+      <Filter>Source Files\System\Command\Param</Filter>
+    </ClCompile>
+    <ClCompile Include="EnumCommandParam.cpp">
+      <Filter>Source Files\System\Command\Param</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryEvaluation.cpp">
+      <Filter>Source Files\Evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="util\timer.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="util\tools.cpp">
+      <Filter>Source Files\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Source Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="CompProblem.cpp">
+      <Filter>Source Files\Evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="Optimizer.cpp">
+      <Filter>Source Files\Optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="UIntVectorCommandParam.cpp">
+      <Filter>Source Files\System\Command\Param</Filter>
+    </ClCompile>
+    <ClCompile Include="MathUtils.cpp">
+      <Filter>Source Files\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="OptimizerUtils.cpp">
+      <Filter>Source Files\Optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="OptimizationCommand.cpp">
+      <Filter>Source Files\System\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="P3.cpp">
+      <Filter>Source Files\Optimizer\P3</Filter>
+    </ClCompile>
+    <ClCompile Include="ComplexCommandParam.cpp">
+      <Filter>Source Files\System\Command\Param</Filter>
+    </ClCompile>
+    <ClCompile Include="P3BasedOptimizer.cpp">
+      <Filter>Source Files\Optimizer\P3</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryOptimizer.cpp">
+      <Filter>Source Files\Optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="LTGA.cpp">
+      <Filter>Source Files\Optimizer\P3</Filter>
+    </ClCompile>
+    <ClCompile Include="StringUtils.cpp">
+      <Filter>Source Files\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="EvaluationUtils.cpp">
+      <Filter>Source Files\Evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="FloatVectorCommandParam.cpp">
+      <Filter>Source Files\System\Command\Param</Filter>
+    </ClCompile>
+    <ClCompile Include="..\P3\Evaluation.cpp">
+      <Filter>Source Files\Evaluation\P3</Filter>
+    </ClCompile>
+    <ClCompile Include="FiberNet.cpp">
+      <Filter>Source Files\Evaluation</Filter>
+    </ClCompile>
+    <ClCompile Include="3LO.cpp">
+      <Filter>Source Files\Optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\DSMGA2\chromosome.cpp">
+      <Filter>Source Files\Evaluation\DSMGA2</Filter>
+    </ClCompile>
+    <ClCompile Include="DSMGA2.cpp">
+      <Filter>Source Files\Optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryCoding.cpp">
+      <Filter>Source Files\Individual</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryGeneration.cpp">
+      <Filter>Source Files\Generation</Filter>
+    </ClCompile>
+    <ClCompile Include="Generation.cpp">
+      <Filter>Source Files\Generation</Filter>
+    </ClCompile>
+    <ClCompile Include="GenerationUtils.cpp">
+      <Filter>Source Files\Generation</Filter>
+    </ClCompile>
+    <ClCompile Include="LTGAOriginal.cpp">
+      <Filter>Source Files\Optimizer\LTGA</Filter>
+    </ClCompile>
+    <ClCompile Include="PopulationOptimizer.cpp">
+      <Filter>Source Files\Optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="PopulationSizingOptimizer.cpp">
+      <Filter>Source Files\Optimizer</Filter>
+    </ClCompile>
+    <ClCompile Include="LTGAOriginalPopulationSizing.cpp">
+      <Filter>Source Files\Optimizer\LTGA</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Evaluation.h">
+      <Filter>Header Files\Evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="Individual.h">
+      <Filter>Header Files\Individual</Filter>
+    </ClInclude>
+    <ClInclude Include="RandUtils.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="StopCondition.h">
+      <Filter>Header Files\StopCondition</Filter>
+    </ClInclude>
+    <ClInclude Include="Transformation.h">
+      <Filter>Header Files\Transformation</Filter>
+    </ClInclude>
+    <ClInclude Include="Problem.h">
+      <Filter>Header Files\Problem</Filter>
+    </ClInclude>
+    <ClInclude Include="Error.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="StopConditionUtils.h">
+      <Filter>Header Files\StopCondition</Filter>
+    </ClInclude>
+    <ClInclude Include="PointerUtils.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="IOUtils.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="StringUtils.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandParamParser.h">
+      <Filter>Header Files\System\Command\Param</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandParam.h">
+      <Filter>Header Files\System\Command\Param</Filter>
+    </ClInclude>
+    <ClInclude Include="FloatCommandParam.h">
+      <Filter>Header Files\System\Command\Param</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandExecution.h">
+      <Filter>Header Files\System\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="System.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="StringCommandParam.h">
+      <Filter>Header Files\System\Command\Param</Filter>
+    </ClInclude>
+    <ClInclude Include="UIntCommandParam.h">
+      <Filter>Header Files\System\Command\Param</Filter>
+    </ClInclude>
+    <ClInclude Include="EnumCommandParam.h">
+      <Filter>Header Files\System\Command\Param</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryEvaluation.h">
+      <Filter>Header Files\Evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="util\tools.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="util\timer.h">
+      <Filter>Header Files\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="CompProblem.h">
+      <Filter>Header Files\Evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="Optimizer.h">
+      <Filter>Header Files\Optimizer</Filter>
+    </ClInclude>
+    <ClInclude Include="UIntVectorCommandParam.h">
+      <Filter>Header Files\System\Command\Param</Filter>
+    </ClInclude>
+    <ClInclude Include="MathUtils.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="OptimizerUtils.h">
+      <Filter>Header Files\Optimizer</Filter>
+    </ClInclude>
+    <ClInclude Include="OptimizationCommand.h">
+      <Filter>Header Files\System\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="P3.h">
+      <Filter>Header Files\Optimizer\P3</Filter>
+    </ClInclude>
+    <ClInclude Include="ComplexCommandParam.h">
+      <Filter>Header Files\System\Command\Param</Filter>
+    </ClInclude>
+    <ClInclude Include="P3BasedOptimizer.h">
+      <Filter>Header Files\Optimizer\P3</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryOptimizer.h">
+      <Filter>Header Files\Optimizer</Filter>
+    </ClInclude>
+    <ClInclude Include="LTGA.h">
+      <Filter>Header Files\Optimizer\P3</Filter>
+    </ClInclude>
+    <ClInclude Include="EvaluationUtils.h">
+      <Filter>Header Files\Evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="FloatVectorCommandParam.h">
+      <Filter>Header Files\System\Command\Param</Filter>
+    </ClInclude>
+    <ClInclude Include="..\P3\Evaluation.h">
+      <Filter>Header Files\Evaluation\P3</Filter>
+    </ClInclude>
+    <ClInclude Include="FiberNet.h">
+      <Filter>Header Files\Evaluation</Filter>
+    </ClInclude>
+    <ClInclude Include="3LO.h">
+      <Filter>Header Files\Optimizer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\DSMGA2\chromosome.h">
+      <Filter>Header Files\Evaluation\DSMGA2</Filter>
+    </ClInclude>
+    <ClInclude Include="DSMGA2.h">
+      <Filter>Header Files\Optimizer</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryCoding.h">
+      <Filter>Header Files\Individual</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryGeneration.h">
+      <Filter>Header Files\Generation</Filter>
+    </ClInclude>
+    <ClInclude Include="Generation.h">
+      <Filter>Header Files\Generation</Filter>
+    </ClInclude>
+    <ClInclude Include="GenerationUtils.h">
+      <Filter>Header Files\Generation</Filter>
+    </ClInclude>
+    <ClInclude Include="PopulationOptimizer.h">
+      <Filter>Header Files\Optimizer</Filter>
+    </ClInclude>
+    <ClInclude Include="PopulationSizingOptimizer.h">
+      <Filter>Header Files\Optimizer</Filter>
+    </ClInclude>
+    <ClInclude Include="LTGAOriginal.h">
+      <Filter>Header Files\Optimizer\LTGA</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorUtils.h">
+      <Filter>Header Files\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="LTGAOriginalPopulationSizing.h">
+      <Filter>Header Files\Optimizer\LTGA</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
